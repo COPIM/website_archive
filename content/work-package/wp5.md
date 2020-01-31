@@ -3,8 +3,6 @@ title: "WP5: Building an Open Dissemination System"
 date: 2020-01-29
 ---
 
-# Building an Open Dissemination System
-
 ### Lead
 
 * Rupert Gatti (Trinity College, Cambridge) 
