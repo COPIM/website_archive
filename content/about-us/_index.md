@@ -6,4 +6,4 @@ The landscape of open access book publishing stands at a crossroads: one avenue 
 
 **COPIM** (Community-led Open Publication Infrastructures for Monographs) is a project dedicated towards supporting these second sets of possibility. It does so by delivering major improvements in the infrastructures used by open access book publishers and those publishers making a transition to open access books. COPIM’s innovations will enable more productive collaborations between stakeholders (including librarians, publishers, and researchers) in the open access landscape and expand opportunities to develop the skills necessary to run open access publishing operations.
 
-![](/images/copim-logo.png)
+
