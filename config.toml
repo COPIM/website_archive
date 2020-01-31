@@ -22,7 +22,7 @@ font_family = "lato" # Choose font family from : https://fonts.google.com/
 
 ################################# navigation ################################
 [[menu.main]]
-name = "About Us"
+name = "Home"
 url = "about-us"
 weight = 1
 
