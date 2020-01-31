@@ -32,7 +32,7 @@ url = "work-package"
 weight = 2
 
 [[menu.main]]
-name = "Blog/Open Documentation Site"
+name = "Open Documentation Site"
 url = "https://copim.pubpub.org/"
 weight = 3
 
