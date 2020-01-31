@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Home"
 date: 2020-01-29
 ---
 The landscape of open access book publishing stands at a crossroads: one avenue leads to the monopolisation of open access book publishing by commercial publishers and for-profit intermediaries while the other opens up a more diverse, scholar-led, community-owned, and not-for-profit publishing ecosystem. 
