@@ -7,7 +7,7 @@ weight: 20
 
 COPIM is a strategic international partnership led by Coventry University consisting of world-class universities (Birkbeck University, Lancaster University and Trinity College, Cambridge), established scholar-led open access presses (represented through the ScholarLed consortium, which consists of Open Book Publishers, punctum books, Open Humanities Press, Mattering Press, and meson press), libraries (UCSB Library, Loughborough University Library, the British Library), infrastructure providers (DOAB, Jisc) and membership organisations (the Digital Preservation Coalition)
 
-
+<font size="1">
 
 | **Consortium** | **Partners** |
 | --------------| --------------| 
@@ -22,6 +22,7 @@ COPIM is a strategic international partnership led by Coventry University consis
 | [The Directory of Open Access Books](https://www.doabooks.org/) |
 |[ Jisc ](https://www.jisc.ac.uk/)  | 
 
+</font>
 
 **Collaborations**
 
