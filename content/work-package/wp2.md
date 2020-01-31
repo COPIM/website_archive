@@ -1,6 +1,7 @@
 ---
 title: "WP2: Revenue Infrastructures and Management Platform"
 date: 2020-01-29
+weight: 20
 ---
 
 ### Leads

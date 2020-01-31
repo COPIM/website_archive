@@ -1,6 +1,7 @@
 ---
 title: "WP6: Experimental Publishing, Re-use, and Impact"
 date: 2020-01-29
+weight: 60
 ---
 
 ### Lead
