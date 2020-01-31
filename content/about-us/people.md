@@ -27,3 +27,6 @@ weight: 20
 * Graham Stone (Jisc)
 * Sara Thompson (Digital Preservation Coalition)
 * Alessandra Tosi (Open Book Publishers, ScholarLed)
+
+
+weight: 20
