@@ -3,6 +3,8 @@ title: "People"
 weight: 20
 ---
 ---
+body: 
+
 * Janneke Adema (WP1, WP4, WP6, Open Humanities Press, ScholarLed, Coventry University)
 * Kristin Antelman (UCSB Library)
 * Javier Arias (Open Book Publishers, ScholarLed)
