@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Packages on COPIM</title>
+    <link>https://copim.ac.uk/work-package/</link>
+    <description>Recent content in Work Packages on COPIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copim.ac.uk/work-package/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WP1</title>
+      <link>https://copim.ac.uk/work-package/wp1/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp1/</guid>
+      <description>Project Management Leads  Gary Hall (Coventry University) Janneke Adema (Coventry University)   WP1 will ensure that the project meets its objectives within budget and scheduled timescales. Tasks will include monitoring project progress, tracking deliverables and reporting back to the funder. It will coordinate project activities by setting up internal communication channels for the consortium (e.g. Zoom, NextCloud, Mattermost channel). It will also organise the project’s main dissemination and outreach activities.</description>
+    </item>
+    
+    <item>
+      <title>WP2</title>
+      <link>https://copim.ac.uk/work-package/wp2/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp2/</guid>
+      <description>Revenue Infrastructures and Management Platform Leads  Eileen Joy (punctum books) Joe Deville (Lancaster University)   WP2 will develop and launch a modular, scalable revenue generation and management platform for OA books, to be made available to publishers and libraries. It will be scoped and built by a team of publishers, knowledge managers, and librarians working in partnership to develop new funding channels for OA books. The platform will emphasise open source, community-owned and led OA, and will enable a broad range of economic supports for a variety of OA book outputs.</description>
+    </item>
+    
+    <item>
+      <title>WP3</title>
+      <link>https://copim.ac.uk/work-package/wp3/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp3/</guid>
+      <description>Knowledge Exchange and Piloting Alternative Business Models Lead  Martin Eve (Birkbeck University)   WP3 is dedicated to knowledge exchange and transfer, as part of the project’s central commitment to dissemination. It builds pathways to impact with relevant stakeholders from across the sector, including publishers ((New) University Presses, library-presses, scholar-led presses), academics, learned societies, and open technology developers. As part of its activities, WP3 will convene a range of publisher stakeholders at a workshop to demonstrate the new infrastructural provisions and to locate at least two non-OA publishers willing to partially transition their business models to a new OA version.</description>
+    </item>
+    
+    <item>
+      <title>WP4</title>
+      <link>https://copim.ac.uk/work-package/wp4/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp4/</guid>
+      <description>Community Governance Leads  Sherri Barnes (UCSB Library/punctum books) Janneke Adema (Coventry University)   WP4 will develop the governance procedures of COPIM’s open publication ecosystem for monographs. It will create durable organisational structures for the coordination, governance an administrative support of the project’s community-owned infrastructure. This includes developing new avenues of outreach, communication and partnership with diverse stakeholders in open research with a shared interest in this infrastructure, creating genuine community involvement and collective control (ensuring the infrastructures won’t be governed by a particular commercial interest).</description>
+    </item>
+    
+    <item>
+      <title>WP5</title>
+      <link>https://copim.ac.uk/work-package/wp5/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp5/</guid>
+      <description>Building an Open Dissemination System Lead  Rupert Gatti (Trinity College, Cambridge)   WP5 will develop technical protocols and infrastructure to better integrate OA books into institutional library, digital learning and repository systems. This will support wider discovery and dissemination of OA books. Existing print and ebook distribution channels are difficult for new or OA publishers to engage with, requiring submission of metadata in multiple different formats (e.g. MARC, ONIX, KBART), and many platforms requiring multiple different metadata submissions; In addition, existing distribution channels are not well suited to OA content, while entirely new discovery and dissemination platforms are emerging (e.</description>
+    </item>
+    
+    <item>
+      <title>WP6</title>
+      <link>https://copim.ac.uk/work-package/wp6/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp6/</guid>
+      <description>Experimental Publishing, Re-use, and Impact Lead  Janneke Adema (Coventry University)   WP6 examines ways to more closely align existing software, technologies, workflows and infrastructures for experimental publishing with the workflow of OA book publishers and with the infrastructures that COPIM will create. It will produce a set of pilot cases of experimental books (including by ScholarLed presses Open Humanities Press and Mattering Press) which will be developed with the aid of these new tools and integrated into COPIM’s infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>WP7</title>
+      <link>https://copim.ac.uk/work-package/wp7/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copim.ac.uk/work-package/wp7/</guid>
+      <description>Archiving and Digital Preservation Leads  Gareth Cole (Loughborough University Library) Rupert Gatti (Trinity College)   WP7 will identify the key challenges associated with archiving research monographs in all their variation and complexity and develop new solutions. The concept of a monograph as “just” text with the odd image or table is increasingly outdated. “Books” now come in multiple digital formats (e.g. pdf, xml, epub) as well as hardcopy, and can also include embedded material such as videos and interactive 3D models.</description>
+    </item>
+    
+  </channel>
+</rss>

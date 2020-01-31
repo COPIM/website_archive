@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
+    <body>
+        {{ if .IsHome }}
+          {{ with .GetPage "/about-us" }}{{.Render}}{{end}}
+        {{ end }}
+    </body>
+</html>

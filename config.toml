@@ -1,0 +1,43 @@
+baseURL = "https://copim.ac.uk/"
+languageCode = "en-us"
+title = "COPIM"
+theme = "dot"
+
+[params]
+# logo is for all page
+logo = "images/copim-logo.png"
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = "images/copim-logo.png"
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#ea7f27"
+secondary_color = "#f9fff7"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+################################# navigation ################################
+[[menu.main]]
+name = "About Us"
+url = "about-us"
+weight = 1
+
+[[menu.main]]
+name = "Work Packages"
+url = "work-package"
+weight = 2
+
+[[menu.main]]
+name = "Blog/Open Documentation Site"
+url = "https://copim.pubpub.org/"
+weight = 3
+
+[[menu.main]]
+name = "contact"
+url = "contact"
+weight = 4
+
