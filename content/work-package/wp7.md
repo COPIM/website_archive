@@ -1,5 +1,5 @@
 ---
-title: "WP7"
+title: "WP7: Archiving and Digital Preservation"
 date: 2020-01-29
 ---
 
@@ -10,7 +10,7 @@ date: 2020-01-29
 * Gareth Cole (Loughborough University Library)
 * Rupert Gatti (Trinity College) 
 
-> WP7 will identify the key challenges associated with archiving research monographs in all their variation and complexity and develop new solutions. The concept of a monograph as “just” text with the odd image or table is increasingly outdated. “Books” now come in multiple digital formats (e.g. pdf, xml, epub) as well as hardcopy, and can also include embedded material such as videos and interactive 3D models. In some publications, users can interact directly with content hosted externally, such as databases and urls. As individual objects, each of these formats—such as a pdf file or a video—appear in established guidance and standards for preservation and can be reliably archived with time, effort and resource. Yet how does one archive a “book” which consists of all of these? Technical methods for effectively archiving complex digital research publications and for creating an integrated collection of content in different formats have not yet been developed. In addition, legal issues further complicate effective archiving, even when the technical aspects have been resolved—these complications are potentially compounded when content collections are to be archived. Archiving solutions should also be relatively inexpensive, to ensure it can be adopted broadly by less well-financed presses.
+> WP7 will identify the key challenges associated with archiving research monographs in all their variation and complexity and develop new solutions. The concept of a monograph as “just” text with the odd image or table is increasingly outdated. “Books” now come in multiple digital formats (e.g. pdf, xml, epub) as well as hardcopy, and can also include embedded material such as videos and interactive 3D models. In some publications, users can interact directly with content hosted externally, such as databases and urls. As individual objects, each of these formats—such as a pdf file or a video—appear in established guidance and standards for preservation and can be reliably archived with time, effort and resource. Yet how does one archive a “book” which consists of all of these? Technical methods for effectively archiving complex digital research publications and for creating an integrated collection of content in different formats have not yet been developed. In addition, legal issues further complicate effective archiving, even when the technical aspects have been resolved—these complications are potentially compounded when content collections are to be archived. Archiving solutions should also be relatively inexpensive, to ensure it can be adopted broadly by less well-financed presses.
 
 ### Key deliverables and impacts
 
