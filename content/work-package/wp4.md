@@ -3,8 +3,6 @@ title: "WP4: Community Governance"
 date: 2020-01-29
 ---
 
-# Community Governance
-
 ### Leads
 
 * Sherri Barnes (UCSB Library/punctum books)
