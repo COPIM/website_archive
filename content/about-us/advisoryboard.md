@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Advisory Board"
 date: 2020-01-29
 ---
 
