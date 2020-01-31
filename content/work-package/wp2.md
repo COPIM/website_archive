@@ -3,8 +3,6 @@ title: "WP2: Revenue Infrastructures and Management Platform"
 date: 2020-01-29
 ---
 
-# Revenue Infrastructures and Management Platform
-
 ### Leads
 
 * Eileen Joy (punctum books)
