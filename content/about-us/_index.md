@@ -2,7 +2,6 @@
 title: "About Us"
 date: 2020-01-29
 ---
+The landscape of open access book publishing stands at a crossroads: one avenue leads to the monopolisation of open access book publishing by commercial publishers and for-profit intermediaries while the other opens up a more diverse, scholar-led, community-owned, and not-for-profit publishing ecosystem. 
 
-**Community-led Open Publication Infrastructures for Monographs*** (COPIM) transforms Open Access (OA) book publishing by delivering major improvements in the infrastructures used by OA book publishers and those publishers making a transition to OA books. COPIM’s innovations will enable more productive collaborations between stakeholders (including librarians, publishers, and researchers) in the OA landscape and expand opportunities to develop the skills necessary to run OA publishing operations.
-
-COPIM is a strategic international partnership led by Coventry University consisting of world-class universities (Birkbeck University, Lancaster University and Trinity College, Cambridge), established scholar-led open access (OA) presses (represented through the ScholarLed consortium, which consists of Open Book Publishers, punctum books, Open Humanities Press, Mattering Press, and meson press), libraries (UCSB Library, Loughborough University Library) and infrastructure providers (DOAB, Jisc Collections).
+**COPIM **(Community-led Open Publication Infrastructures for Monographs) is a project dedicated towards supporting these second sets of possibility. It does so by delivering major improvements in the infrastructures used by open access book publishers and those publishers making a transition to open access books. COPIM’s innovations will enable more productive collaborations between stakeholders (including librarians, publishers, and researchers) in the open access landscape and expand opportunities to develop the skills necessary to run open access publishing operations.
