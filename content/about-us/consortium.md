@@ -9,6 +9,7 @@ COPIM is a strategic international partnership led by Coventry University consis
 **Consortium**
 
 Coventry University
+![](/images/CU_logo_blue_300_shifted_bird.png)
 Birkbeck University
 Lancaster University
 Trinity College, Cambridge
