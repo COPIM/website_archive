@@ -16,7 +16,7 @@ COPIM is a strategic international partnership led by Coventry University consis
 | Lancaster University |  * Open Book Publishers|
 | Trinity College, Cambridge | * Open Humanities Press
 | Loughborough University Library| * Meson Press
-| University of California Santa Barbara Library | * Punctum Books
+| UC Santa Barbara Library |  * Punctum Books
 | Open Book Publishers|The British Library|
 | Punctum Books |The Digital Preservation Coalition |
 | The Directory of Open Access Books |
