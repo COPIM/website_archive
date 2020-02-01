@@ -28,7 +28,7 @@
   {{- partial "footer.html" . -}}
   {{ with .Site.Data.myvars.edit }}
   {{ . }}
-  {{ $currentNode }}
+  {{ .Page }}
   {{ end }}
 </body>
 
