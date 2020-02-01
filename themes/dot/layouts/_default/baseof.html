@@ -5,7 +5,7 @@
   {{ partial "head.html" . }}
 <body>
     {{ with .Site.Data.myvars.edit }}
-    	<div class="container mb-100">
+    	<div class="container">
     		<a href="{{ $gitUrl }}/_edit/master/content/{{ $filePath }}">[EDIT]</a>
           	<a href="{{ $gitUrl }}/_new/master/{{ $filePath.Dir }}">[NEW in {{ $filePath.Dir }}]</a>
     	</div>
