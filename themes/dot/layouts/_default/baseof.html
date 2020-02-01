@@ -26,6 +26,9 @@
     {{- block "main" . }}{{- end }}
   </div>
   {{- partial "footer.html" . -}}
+  {{ with .Site.Data.myvars.edit }}
+  <button>{{ .File.Path }}</button>
+  {{ end }}
 </body>
 
 </html>
