@@ -28,7 +28,7 @@
   </div>
   {{- partial "footer.html" . -}}
   {{ with .Site.Data.myvars.edit }}
-    <a href="{{.Site.Data.myvars.giturl}}{{ $currentNode.Page }}">EDIT</a>
+    <a href="{{ .Site.Data.myvars.giturl }}{{ $currentNode.Page }}">EDIT</a>
   {{ end }}
 </body>
 
