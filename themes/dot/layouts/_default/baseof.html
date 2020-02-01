@@ -6,7 +6,7 @@
 <body>
   <p>{{ . }}</p>
   <p>{{ .Site }}</p>
-  <p>{{ .Page.Ref }}</p>
+  <p>{{ .Page.URL }}</p>
 
   {{ if .IsHome }}
   {{ "<!-- header -->" | safeHTML }}
