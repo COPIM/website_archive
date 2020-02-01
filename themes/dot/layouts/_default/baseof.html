@@ -1,12 +1,9 @@
 <!DOCTYPE html>
-{{- $currentNode := . -}}
+{{- $filePath := .File -}}
 {{- $gitUrl := .Site.Data.myvars.giturl -}}
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
   {{ partial "head.html" . }}
 <body>
-  <p>{{ . }}</p>
-  <p>{{ .File }}</p>
-
   {{ if .IsHome }}
   {{ "<!-- header -->" | safeHTML }}
   <header class="hero-section overlay bg-cover banner" data-background="{{ .Site.Params.banner.bg_image | absURL }}">
@@ -32,7 +29,7 @@
   </div>
   {{- partial "footer.html" . -}}
   {{ with .Site.Data.myvars.edit }}
-    <a href="{{ $gitUrl }}{{ .File }}">EDIT</a>
+    <a href="{{ $gitUrl }}{{ $filePath }}">EDIT</a>
   {{ end }}
 </body>
 </html>
