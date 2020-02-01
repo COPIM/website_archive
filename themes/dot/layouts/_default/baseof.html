@@ -7,6 +7,7 @@
     {{ with .Site.Data.myvars.edit }}
     	<div class="container mb-100">
     		<a href="{{ $gitUrl }}/{{ $filePath }}">EDIT</a>
+          	<a href="{{ $gitUrl }}/{{ $filePath.Dir }}">New in {{ $filePath.Dir }}</a>
     	</div>
     {{ end }}
   {{ if .IsHome }}
