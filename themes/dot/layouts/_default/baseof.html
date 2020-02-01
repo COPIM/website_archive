@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 {{- $currentNode := . -}}
+{{- $gitUrl := .Site.Data.myvars.giturl -}}
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
   {{ partial "head.html" . }}
 <body>
@@ -28,7 +29,7 @@
   </div>
   {{- partial "footer.html" . -}}
   {{ with .Site.Data.myvars.edit }}
-    <a href="{{ .Site.Data.myvars.giturl }}{{ $currentNode.Page }}">EDIT</a>
+    <a href="{{ $gitUrl }}{{ $currentNode.Page }}">EDIT</a>
   {{ end }}
 </body>
 </html>
