@@ -4,6 +4,10 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
   {{ partial "head.html" . }}
 <body>
+  <p>{{ . }}</p>
+  <p>{{ .Site }}</p>
+  <p>{{ .Page }}</p>
+
   {{ if .IsHome }}
   {{ "<!-- header -->" | safeHTML }}
   <header class="hero-section overlay bg-cover banner" data-background="{{ .Site.Params.banner.bg_image | absURL }}">
