@@ -17,3 +17,4 @@ weight: 30
 * Knowledge dissemination about the new infrastructural provisions of the project
 * Cost reductions and alternative business models for open access monograph publishing
 
+...
