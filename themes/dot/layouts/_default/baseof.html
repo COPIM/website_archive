@@ -5,7 +5,7 @@
   {{ partial "head.html" . }}
 <body>
   <p>{{ . }}</p>
-  <p>{{ .Ref }}</p>
+  <p>{{ .page }}</p>
 
   {{ if .IsHome }}
   {{ "<!-- header -->" | safeHTML }}
