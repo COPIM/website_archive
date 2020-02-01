@@ -7,7 +7,7 @@
     {{ with .Site.Data.myvars.edit }}
     	<div class="container shadow-bottom bg-gray">
     		<a class="btn" href="{{ $gitUrl }}/_edit/master/content/{{ $filePath }}">edit this page</a>
-          	<a class="btn" href="{{ $gitUrl }}/_new/master/{{ $filePath.Dir }}">{{ $filePath.Dir }} +new_page</a>
+          	<a class="btn" href="{{ $gitUrl }}/_new/master/{{ $filePath.Dir }}">{{ $filePath.Dir }}add_new_page</a>
     	</div>
     {{ end }}
   {{ if .IsHome }}
