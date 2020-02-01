@@ -29,7 +29,7 @@
   </div>
   {{- partial "footer.html" . -}}
   {{ with .Site.Data.myvars.edit }}
-    <a href="{{ $gitUrl }}{{ $currentNode }}">EDIT</a>
+    <a href="{{ $gitUrl }}{{ $currentNode.URL }}">EDIT</a>
   {{ end }}
 </body>
 </html>
