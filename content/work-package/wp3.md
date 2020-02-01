@@ -16,5 +16,3 @@ weight: 30
 * An online, open-source toolkit for booting up and running an open access book press
 * Knowledge dissemination about the new infrastructural provisions of the project
 * Cost reductions and alternative business models for open access monograph publishing
-
-...
