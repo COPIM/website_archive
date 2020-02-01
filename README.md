@@ -1,3 +1,3 @@
 # HugoSandbox
 
-Here I will add more documentation. Now just testing the commit message as a trigger to render the web site. Once more the same.
+Here I will add more documentation. Now just testing the commit message as a trigger to render the web site.
