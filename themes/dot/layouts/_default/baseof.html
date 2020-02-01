@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{{- $currentNode := . -}}
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
   {{ partial "head.html" . }}
 <body>
@@ -28,7 +29,7 @@
   {{- partial "footer.html" . -}}
   {{ with .Site.Data.myvars.edit }}
   {{ . }}
-  {{ .Site }}
+  {{ $currentNode }}
   {{ end }}
 </body>
 
