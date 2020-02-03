@@ -1,3 +1,5 @@
-# HugoSandbox
+# COPIM's HugoSandbox
 
-Here I will add more documentation. Now just testing the commit message as a trigger to render the web site.
+Here we should add more documentation. At the moment let's just add two useful links:
+- [PREVIEW WEB SITE](https://b.copim.ac.uk/_preview/)
+- [PUBLISHED WEB SITE](https://b.copim.ac.uk/)
