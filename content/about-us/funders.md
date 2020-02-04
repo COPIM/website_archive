@@ -1,6 +1,6 @@
 ---
 title: "Funders"
-weight: 20
+weight: 50
 ---
 ![](/images/UKRI_RE-Logo_Horiz-RGB.png)
 
