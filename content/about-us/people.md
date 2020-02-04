@@ -2,7 +2,7 @@
 title: "People"
 weight: 20
 ---
-![](http://)
+![](/images/testphoto/Teamphoto.jpg)
 Janneke Adema ([WP1](https://b.copim.ac.uk/work-package/wp1/), [WP4](https://b.copim.ac.uk/work-package/wp4/), [WP6](https://b.copim.ac.uk/work-package/wp6/), Open Humanities Press, ScholarLed, Coventry University)  
 Kristin Antelman (UCSB Library)  
 Javier Arias (Open Book Publishers, ScholarLed)  
