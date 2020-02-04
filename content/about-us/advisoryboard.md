@@ -1,6 +1,6 @@
 ---
 title: "Advisory Board"
-date: 2020-01-29
+weight: 60
 ---
 
 **Dominique Babini** (CLACSO/Redalyc)  
