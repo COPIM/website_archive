@@ -1,7 +1,7 @@
 ---
 title: "Consortium"
 date: 2020-01-29
-weight: 20
+weight: 30
 ---
 ![](/images/All_COPIM_logos.png)
 
