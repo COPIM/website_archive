@@ -2,7 +2,7 @@
 
 Our website is rendered/processed into a static HTML web site by [HUGO](https://gohugo.io/) using the *Markdown files* from this [Git](https://git-scm.com/) repository served to you by [Gitea](https://gitea.io/). *Markdown files* which are rendered into web site pages could be found inside the folder 📁 **content** which is listed right below 📁 **archetypes**, and above 📁 **i18n**, 📁 **public** etc. *Markdown files* have extension **.md**. We **add/edit** *Markdown files* in this repository in order to have **HUGO** process/render/convert it into the regular Web Site people can access. Through that process every *Markdown file* gets transformed into an individual Web/HTML Page.
 
-#### There are two ways to edit existing pages and add new pages:
+#### There are two ways to edit existing Markdown files and add new ones:
 
 #### 1. One could edit the web site by custom setup at https://b.copim.ac.uk/_preview/ which adds the user friendly header which looks like this:
 
