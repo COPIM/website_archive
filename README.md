@@ -10,7 +10,7 @@ If anything went wrong those two files could help few people not scared of readi
 - https://b.copim.ac.uk/last-commit-log.txt
 - https://b.copim.ac.uk/_preview/last-commit-log.txt
 
-**Edit pages:**
+**Edit pages**
 In WebSite/HugoSandbox there is a folder /content, which has the two menu folders (about us/home and work packages). All the individual pages are available there.
 
 Alternatively use the link above to preview website to edit 
@@ -25,6 +25,6 @@ Once you are done editing, under commit changes, where it says 'update...' type 
 
 Upload a new file in the about us or work package folders or use the top menu in the preview website to add a new page. You can change the order in the menu by changing the 'weight' as set in the title info in the document.
 
-Images
+**Images**
 
 Upload a new image file to static/images and publish it the same way as you would publish a page. When you want to insert an image in a page use the image icon in the toolbar and then insert the image file path, i.e.: ![](/images/All_COPIM_logos.png)
