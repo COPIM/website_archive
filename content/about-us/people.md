@@ -13,7 +13,7 @@ Joe Deville ([WP2](https://b.copim.ac.uk/work-package/wp2/), Mattering Press, Sc
 Martin Eve ([WP3](https://b.copim.ac.uk/work-package/wp3/), Birkbeck University of London)  
 Eelco Ferwerda (OAPEN, DOAB)  
 Rupert Gatti ([WP5](https://b.copim.ac.uk/work-package/wp5/), [WP7](https://b.copim.ac.uk/work-package/wp7/), Open Book Publishers, ScholarLed, Trinity College Cambridge)  
-Elli Gerakopoulou (Lancaster University)
+Elli Gerakopoulou (Lancaster University)  
 Gary Hall (Open Humanities Press, ScholarLed, Coventry University)  
 Eileen Joy ([WP2](https://b.copim.ac.uk/work-package/wp2/), punctum books, ScholarLed)   
 Martin Keegan (Open Book Publishers, ScholarLed)  
