@@ -26,4 +26,4 @@ COPIM is a strategic international partnership led by Coventry University consis
 
 **Collaborations**
 
-Thanks to funding from OPERAS-P, a European Coordinator for Open Access Book Publishing works jointly between OPERAS-P and COPIM, based at Open Book Publishers. The European Coordinator will facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project..
+Thanks to funding from OPERAS-P, a European Coordinator for Open Access Book Publishing works jointly between OPERAS-P and COPIM, based at Open Book Publishers. The European Coordinator will facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project.
