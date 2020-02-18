@@ -6,6 +6,7 @@ Weight: 20
 **COPIM** (Community-led Open Publication Infrastructures for Monographs) is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. It is building community-owned, open systems and infrastructures to enable open access book publishing to flourish.
 
 ![](/images/philipp-berndt-5i0GnoTTjSE-unsplash.jpg)
+*Photo by Philipp Berndt on Unsplash*
 
 The landscape of open access book publishing stands at a crossroads: one avenue leads to the monopolisation of open access book publishing by commercial publishers and for-profit intermediaries while the other opens up a more diverse, scholar-led, community-owned, and not-for-profit publishing ecosystem. 
 
