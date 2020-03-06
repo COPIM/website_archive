@@ -1,6 +1,5 @@
 ---
 title: "WP7: Archiving and Digital Preservation"
-date: 2020-01-29
 weight: 70
 ---
 

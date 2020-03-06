@@ -1,6 +1,5 @@
 ---
 title: "WP1: Project Management"
-date: 2020-01-29
 weight: 10
 ---
 
