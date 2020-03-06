@@ -15,9 +15,11 @@
         </div>
       </div>
       <div class="col-lg-9">
-        <div class="p-5 bg-white">
-          <h2 class="mb-5">{{ .Title }}</h2>
-          {{ if .Content }}
+          <div class="p-5 bg-white">
+              {{ if not (eq .File.Path "about-us/_index.md") }}
+              <h2 class="mb-5">{{ .Title }}</h2>
+              {{ end }}
+            {{ if .Content }}
           <div class="content">{{.Content}}</div>
           {{ else }}
           <div class="bg-gray p-4">
