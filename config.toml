@@ -1,4 +1,4 @@
-baseURL = "https://b.copim.ac.uk"
+baseURL = "https://www.copim.ac.uk"
 languageCode = "en-us"
 title = "COPIM"
 theme = "dot"
