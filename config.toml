@@ -34,9 +34,10 @@ weight = 2
 [[menu.main]]
 name = "Open Documentation Site"
 url = "https://copim.pubpub.org/"
+weight = 3
 
 [[menu.main]]
 name = "contact"
 url = "contact"
-weight = 3
+weight = 4
 
