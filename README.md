@@ -1,10 +1,10 @@
 # COPIM's HugoSandbox
 
-Our website (the published version of the web site is here: https://b.copim.ac.uk/) is rendered/processed into a static HTML web site by [HUGO](https://gohugo.io/) using the *Markdown files* from this [Git](https://git-scm.com/) repository served to you by [Gitea](https://gitea.io/). *Markdown files* which are rendered into web site pages can be found inside the folder 📁 **content** which is listed right below 📁 **archetypes**, and above 📁 **i18n**, 📁 **public** etc. *Markdown files* have the extension **.md**. We **add/edit** *Markdown files* in this repository in order to have **HUGO** process/render/convert them into a regular Web Site people can access. Through that process every *Markdown file* gets transformed into an individual Web/HTML Page.
+Our website (the published version of the web site is here: https://www.copim.ac.uk/) is rendered/processed into a static HTML web site by [HUGO](https://gohugo.io/) using the *Markdown files* from this [Git](https://git-scm.com/) repository served to you by [Gitea](https://gitea.io/). *Markdown files* which are rendered into web site pages can be found inside the folder 📁 **content** which is listed right below 📁 **archetypes**, and above 📁 **i18n**, 📁 **public** etc. *Markdown files* have the extension **.md**. We **add/edit** *Markdown files* in this repository in order to have **HUGO** process/render/convert them into a regular Web Site people can access. Through that process every *Markdown file* gets transformed into an individual Web/HTML Page.
 
 #### There are two ways to edit existing Markdown files and add new ones:
 
-#### 1. One could edit the web site via the custom setup at https://b.copim.ac.uk/_preview/ which adds a user friendly header which looks like this:
+#### 1. One could edit the web site via the custom setup at https://www.copim.ac.uk/_preview/ which adds a user friendly header which looks like this:
 
 ![](static/images/preview_header_small.png)
 
@@ -34,7 +34,7 @@ Our website (the published version of the web site is here: https://b.copim.ac.u
 
 4. To **upload** images one should click the button **[Upload File]** and upload the image inside the folder 📁 **static/images**. Once inside the 📁 **static/images** there are bunch of already uploaded images. Important to note is that if you are uploading an image, make sure the file name doesn't contain spaces " " but instead has **underscores** or is made into a one-word file name. For example: *team_photo.jpg*, *teamphoto.jpg* or *TeamPhoto.jpg*.
 
-5. To **PUBLISH** the web site with all of the latest changes one should **edit** the file **PUBLISH.trigger.md**. It is listed in the root of this repository. Once there **PUBLISH.trigger.md** should have the 🖉 (pen) in the top right corner of the Gitea page toolbar just like every other page in the repository. The published version of the web site is here: https://b.copim.ac.uk/
+5. To **PUBLISH** the web site with all of the latest changes one should **edit** the file **PUBLISH.trigger.md**. It is listed in the root of this repository. Once there **PUBLISH.trigger.md** should have the 🖉 (pen) in the top right corner of the Gitea page toolbar just like every other page in the repository. The published version of the web site is here: https://www.copim.ac.uk/
 
 6. After you get familiar with the workflow you migh also try this *trick* to *quickly* **PUBLISH** the web site by adding **!publish!** as a part of the commit message just like shown in this screenshot:
 
@@ -43,14 +43,14 @@ Our website (the published version of the web site is here: https://b.copim.ac.u
 After you **PUBLISH** the web site by using the **!publish!** *trick* in the commit message you shouldn't go and **edit** **PUBLISH.trigger.md**. If you do that nothing will go wrong but you'll just trigger **HUGO** to do the processing once more.
 
 
-#### NOTE: The "preview" web site at https://b.copim.ac.uk/_preview/ will show automatically all of the changes after every commit/change. The "preview" version of the web site is not supposed to be shown to the public. Once you are satisfied with the "preview" version of the latest changes you are ready to PUBLISH the changes to the "official" version of the web site (https://b.copim.ac.uk/) You can do that by adding !publish! to the commit message or by finding the PUBLISH.trigger.md file, changing it and committing the changes.
+#### NOTE: The "preview" web site at https://www.copim.ac.uk/_preview/ will show automatically all of the changes after every commit/change. The "preview" version of the web site is not supposed to be shown to the public. Once you are satisfied with the "preview" version of the latest changes you are ready to PUBLISH the changes to the "official" version of the web site (https://www.copim.ac.uk/) You can do that by adding !publish! to the commit message or by finding the PUBLISH.trigger.md file, changing it and committing the changes.
 
 ---
 
 *If anything goes wrong these two files could help those few people who are not scared of reading logs :)*
 
-- https://b.copim.ac.uk/last-commit-log.txt
-- https://b.copim.ac.uk/_preview/last-commit-log.txt
+- https://www.copim.ac.uk/last-commit-log.txt
+- https://www.copim.ac.uk/_preview/last-commit-log.txt
 
 [^1]: **Header** is called [Front Matter](https://gohugo.io/content-management/front-matter/) in HUGO's documentation.
 [^2]: The phrase *commiting the changes* comes from the Git vocabulary and if this is the first time you hear about it, probably the closest well known equivalent would be to say *saving the file after it has been changed*. In our case here the file being *saved* to the Git repository will add its latest changes to the history log of all of the previous versions of that file, it will add the name of the account which made those changes together with the date when all of this happened. By doing all of this any file in the Git repository is easily reverted to any of the versions from the past, the history of who did what is kept and the whole repository is ready to be distributed, shared, and synced with any of its "clones" on other different computers.
