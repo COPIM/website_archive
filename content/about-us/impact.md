@@ -2,6 +2,7 @@
 title: "Impact"
 weight: 70
 ---
+![](/images/jordan-mcdonald-vkx0kgKx9VA-unsplash.jpg)
 
 The project consolidates existing relationships among the partners into a major strategic collaboration that will enhance the impact of research internationally. At the same time, COPIM promotes a community-based approach for the collaboration of academic institutions and industry stakeholders. Finally, it develops innovative approaches for knowledge exchange activities to facilitate sustainable and workable transitions to an open publication ecosystem for monographs and to ensure a diverse ecology of publishers.
 
