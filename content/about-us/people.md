@@ -22,7 +22,6 @@ Julien McHardy (Mattering Press, ScholarLed)
 Susan Miles (British Library)  
 Samuel Moore (Coventry University)  
 Agata Morka (Open Book Publishers, OPERAS-P)
-
 Vincent W. J. van Gerven Oei (punctum books, ScholarLed)  
 Izabella Penier (Lancaster University)  
 Dan Rudmann (punctum books, ScholarLed)  
