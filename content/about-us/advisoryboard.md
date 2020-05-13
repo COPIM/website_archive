@@ -11,6 +11,9 @@ Iryna Kuchma is the Open Access Programme Manager for EIFL. Working in collabora
 
 **Catherine Mitchell** (California Digital Library)  
 **Pierre Mounier** (Open Edition/OPERAS)  
+
+![] HugoSandbox/static/images/Pierre/pierremouniercouleur.jpg
+
 **Whitney Trettien** (University of Pennsylvania)  
 **Demmy Verbeke** (KU Leuven Libraries Artes)  
 **Sofie Wennström** (Stockholm University Library)  
