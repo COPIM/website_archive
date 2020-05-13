@@ -15,7 +15,7 @@ Iryna Kuchma is the Open Access Programme Manager for EIFL. Working in collabora
 **Catherine Mitchell** (California Digital Library)  
 **Pierre Mounier** (Open Edition/OPERAS)  
 
-![](/images/Pierre/pmouniercouleur.png){ width=50% }
+![][Pierre Mounier|128x128,20%](/images/Pierre/pmouniercouleur.png)
 
 Pierre Mounier is coordinator of OPERAS, the European infrastructure for open scholarly communication in the humanities and social science. He is trained in classical studies and social anthropology. He is working at the École des Hautes Études en Sciences Sociales (EHESS) and is deputy director of OpenEdition, the French national infrastructure dedicated to open scholarly communication in the SSH. He regularly publishes on digital humanities and open science topics, and more largely the social and political impact of ICT.
 
