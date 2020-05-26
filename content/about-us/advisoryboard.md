@@ -23,7 +23,7 @@ Pierre Mounier is coordinator of OPERAS, the European infrastructure for open sc
 **Whitney Trettien** (University of Pennsylvania)  
 **Demmy Verbeke** (KU Leuven Libraries Artes)  
 
-{{< figure src="/images/Demmy/Demmy.jpg" width="200px" >}}
+{{< figure src="/images/Demmy/Demmy.JPG" width="200px" >}}
 
 As Head of KU Leuven Libraries Artes, Demmy Verbeke is responsible for collections and services for the Arts and Humanities. As a member of the management team with primary responsibilities for research, he also contributes to the strategic development and operational management of KU Leuven Libraries as a whole. Demmy was trained as a Latinist, focusing on Renaissance humanism in the Low Countries and England, the classical tradition, and the history of the book. Ever since he became a librarian his research and teaching have centred around scholarly communication, open scholarship and digital scholarship within the humanities. He is a strong believer in non-profit and community-owned approaches to open scholarship, oversees the KU Leuven fair OA fund and serves on the editorial board of the Open Library of Humanities and the Journal of Librarianship and Scholarly Communication.
 
