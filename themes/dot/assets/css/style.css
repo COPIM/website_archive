@@ -926,3 +926,7 @@ code{
 .fleft {
   float: left;
 }
+
+.pright {
+  padding-right: 1em;
+}
