@@ -12,8 +12,6 @@ Don't forget to click on "Comit Changes" to commit the changes.
 _ _ _ New changes after this _ _ _
 marcell
 janneke
-marcell
-Janneke
 
 
 
