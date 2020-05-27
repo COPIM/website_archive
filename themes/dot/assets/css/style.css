@@ -925,8 +925,13 @@ code{
 
 .fleft {
   float: left;
+  display: block;
 }
 
 .pright {
   padding-right: 1em;
+}
+
+.clearboth {
+  clear: both;
 }
