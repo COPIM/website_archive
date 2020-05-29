@@ -3,7 +3,10 @@ title: "Advisory Board"
 weight: 60
 ---
 
-- **Dominique Babini** (CLACSO/Redalyc)  
+- **Dominique Babini** (CLACSO/Redalyc) 
+
+{{< figure src="/images/Dominique/2014.jpg" width="150px" class="fleft pright" >}} Dominique Babini is from Argentina. Open access and open science advisor, and previously repository developer and manager, at the Latin American Council of Social Sciences (CLACSO), a network of 736 research institutions in 52 countries, where she coordinates CLACSO´s  Open Access International Campaign.  Represents CLACSO at REDALYC-CLACSO open access collection of 985 iberoamerican social sciences and humanities journals and at the Executive Board of AmeliCA-Open Knowledge.  Member of the Experts Committee of the National System of Digital Repositories in Argentina. Member of UNESCO Open Science Partnership, International Science Council (ISC) Scoping Group on the Future of Scientific Publishing, Publi.ca (Canada) and University of Buenos Aires-IIGG.  Dominique holds a doctorate in political science and a postgraduate degree in information science.  https://orcid.org/0000-0002-5752-7060
+
 - **Jane Harvell** (University of Sussex Library)  
 - **Iryna Kuchma** (EIFL)  
  {{< figure src="/images/Iryna-Kuchma-small-profile.jpg" width="150px" class="fleft pright" >}} Iryna Kuchma is the Open Access Programme Manager for EIFL. Working in collaborations with libraries and library consortia in more than 60 countries in Europe, Asia and Africa, she advocates for open access to research results, supports the development and implementation of open science policies and infrastructures, provides support and training. Iryna coordinates OpenAIRE’s Open Science training and Community of Practice for training coordinators and managers. She is also a member of Coalition Publi.ca International Committee, DSpace Community Advisory Team, the Open Access 2020 Initiative (OA2020) Advisory Board, the Networked Digital Library of Theses and Dissertations (NDLTD) Board of Directors and serves as the Directory of Open Access Journals (DOAJ) Associate Editor. And in 2013, she received the Electronic Publishing Trust for Development Annual Award, in recognition of her ‘efforts in the furtherance of open access to scholarly publications in the developing and emerging countries’.
