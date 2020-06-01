@@ -26,7 +26,7 @@ Mass Observation Archive Trust.
 - **Catherine Mitchell** (California Digital Library)  
 - **Pierre Mounier** (Open Edition/OPERAS)  
  {{< figure src="/images/pierre-mounier-profile-small.jpg" width="150px" class="fleft pright" >}} Pierre Mounier is coordinator of OPERAS (https://operas.hypotheses.org/), the European infrastructure for open scholarly communication in the humanities and social science. He is trained in classical studies and social anthropology. He is working at the École des Hautes Études en Sciences Sociales (EHESS) and is deputy director of OpenEdition, the French national infrastructure dedicated to open scholarly communication in the SSH. He regularly publishes on digital humanities and open science topics, and more largely the social and political impact of ICT.
- {{< figure class="clearboth" >}}
+
 - **Whitney Trettien** (University of Pennsylvania)  
  {{< figure src="/images/trettien/Trettien.jpg" width="150px" class="fleft pright" >}}
 Whitney Trettien is an Assistant Professor in the Department of English at the University of Pennsylvania, where she researches and teaches book history and digital humanities. Her first book, Cut/Copy/Paste: Fragments of History, tells the story of three seventeenth-century communities of amateur publishers who experimented with scissors, glue, needles, and thread to design bespoke books. It is a hybrid print/digital project, staged on Manifold Scholarship through University of Minnesota Press. She has published on Isabella Whitney, print-on-demand publishing, botanical book metaphors, and other sundry topics, and is currently researching the earliest electronic books. She is also the co-editor of the digital zine thresholds. Visit her online at: whitneyannetrettien.com
