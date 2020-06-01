@@ -25,8 +25,8 @@ Whitney Trettien is an Assistant Professor in the Department of English at the U
 
 - **Sofie Wennström** (Stockholm University Library)  
 {{< figure src="/images/sofie/Sofie_wennstrom_profile_img.jpg" width="150px" class="fleft pright" >}}
-Sofie Wennström is one of the Managing Editors of Stockholm University Press, an Open 
-Access publisher hosted at the Stockholm University Library. Sofie is working with both 
+Sofie Wennström is one of the Managing Editors of [Stockholm University Press](https://www.stockholmuniversitypress.se/), an Open 
+Access publisher hosted at the [Stockholm University Library](https://www.su.se/english/library/). Sofie is working with both 
 books and journals projects as well as giving general publishing advice to PhD students and 
 Researchers at Stockholm University. She has a background in the international publishing 
 business, where she worked for more than ten years with journal projects mainly in the 
@@ -35,7 +35,7 @@ focus on digital pedagogy, scholarly communication and information literacy. She
 Master’s thesis about publishing as a learning environment for PhD students and how it 
 might be possible to map the development of learning communities with the help of 
 altmetrics. As a dedicated Open Access advocate, Sofie is also engaged in the LIBER 
-community for European research libraries, where she chairs the Working Group on Open 
-Access. During 2021 she is involved in a project with the National Library of Sweden, where 
-they are about to build a national platform for scholarly open access journals. See the full list 
-of publications and projects on Sofie’s ORCiD profile. 
+community for European research libraries, where she chairs the [Working Group on Open 
+Access](https://libereurope.eu/strategy/innovative-scholarly-communication/openaccess/). During 2021 she is involved in a project with the National Library of Sweden, where 
+they are about to build a [national platform for scholarly open access journals](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2020-04-30-swedish-open-access-journals-on-joint-platform.html). See the full list 
+of publications and projects on [Sofie’s ORCiD profile](https://orcid.org/0000-0003-1229-7019). 
