@@ -1,7 +1,7 @@
 ---
 title: "COPIM Publishers Workshop, March 16, 2020"
-weight: "10"
-date: "2020-03-16"
+weight: 10
+date: 2020-03-16
 
 ---
 ![](images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "COPIM Experimental Publishing Workshop: Mapping, Connecting, Developing Future Book Imaginaries"
-weight: "50"
-date: "2020-07-01"
+weight: 18
+date: 2020-07-01
 
 ---
 ![](images/da-nina-MBqwXZTfkdA-unsplash-cropped.jpg)
