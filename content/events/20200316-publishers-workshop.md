@@ -16,17 +16,18 @@ This was the first workshop organised by COPIM, and as such it was very much par
 
 ---
 
-### Theme 1: Discovery and Dissemination
-#### 1a.  Existing Channels and Metadata (Q1, Q2)
-#### 	1b.  New Channels and Requirements (Q3, Q4)
+**Theme 1: Discovery and Dissemination**
 
-### Theme 2: Business Models
-####	2a.  Revenue Models and Library Collective Funding (Q5, Q6)
-####	2b.  Workflows and Archiving/Preservation (Q6, Q7)
+* 1a.  Existing Channels and Metadata (Q1, Q2)
+* 1b.  New Channels and Requirements (Q3, Q4)
+
+**Theme 2: Business Models**
+* 2a.  Revenue Models and Library Collective Funding (Q5, Q6)
+* 2b.  Workflows and Archiving/Preservation (Q6, Q7)
 
 ---
 
-## Schedule (all times GMT):
+**Schedule (all times GMT):**
 
 * 12.30-12.45   Log in and technical set up/sound checks
 * 12.45-13.30   Introductions & welcome (including overview of COPIM and plan for the workshop)
