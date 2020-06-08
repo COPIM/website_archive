@@ -2,7 +2,6 @@
 title: "COPIM Publishers Workshop, March 16, 2020"
 weight: 10
 date: 2020-03-16
-
 ---
 ![](images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
 *Photo by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*

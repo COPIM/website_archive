@@ -2,7 +2,6 @@
 title: "COPIM Community Governance Workshop, May 01, 2020"
 weight: 11
 date: 2020-05-01
-
 ---
 ![](images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
 *Photo by [Mike Erskine](https://unsplash.com/@mikejerskine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*

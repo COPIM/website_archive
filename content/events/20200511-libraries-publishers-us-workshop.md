@@ -2,7 +2,6 @@
 title: "COPIM Libraries & Publishers US Workshop, May 11, 2020"
 weight: 12
 date: 2020-05-11
-
 ---
 ![](images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
 *Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*

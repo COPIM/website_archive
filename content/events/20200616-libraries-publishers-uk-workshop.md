@@ -2,7 +2,6 @@
 title: "COPIM Libraries & Publishers UK Workshop, June 16, 2020"
 weight: 15
 date: 2020-06-16
-
 ---
 ![](images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
 *Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
