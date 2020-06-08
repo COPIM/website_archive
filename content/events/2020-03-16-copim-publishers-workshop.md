@@ -1,5 +1,5 @@
 ---
-title: "COPIM Publishers Workshop, March 2020"
+title: "COPIM Publishers Workshop, March 16, 2020"
 weight: "10"
 date: "2020-03-16"
 

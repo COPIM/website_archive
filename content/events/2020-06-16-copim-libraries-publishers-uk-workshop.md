@@ -1,7 +1,7 @@
 ---
-title: "COPIM Libraries & Publishers US Workshop, May 11, 2020"
-weight: "30"
-date: "2020-05-11"
+title: "COPIM Libraries & Publishers UK Workshop, June 16, 2020"
+weight: "40"
+date: "2020-06-16"
 
 ---
 ![](images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
@@ -18,9 +18,10 @@ The workshop is organized around the following three themes:
 
 3. What governance structures and practices are required to ensure the sustainability of these efforts?
 
+
 ---
 
-## Schedule (all times GMT):
+#### Schedule (all times GMT):
 
 * 12.30-12.45   Log in and technical set up/sound checks
 * 12.45-13.30   Introductions & welcome (including overview of COPIM and plan for the workshop)

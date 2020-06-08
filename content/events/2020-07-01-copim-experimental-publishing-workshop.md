@@ -7,10 +7,6 @@ date: "2020-07-01"
 ![](images/da-nina-MBqwXZTfkdA-unsplash-cropped.jpg)
 *Photo by [Da Nina](https://unsplash.com/@daninasplash?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
-## COPIM Experimental Publishing Workshop
-
-### Mapping, Connecting, Developing Future Book Imaginaries
-
 Open access grants direct read access to books, but it also enables more direct interactions with their contents post-publication. This includes:
 
 * Interactions with the content itself in the form of text and data-mining and the re-purposing and remixing of online digital content and collections in different educational and research settings;
