@@ -1,8 +1,11 @@
 ---
 title: "COPIM Publishers Workshop, March 16, 2020"
+
 weight: 10
+
 date: 2020-03-16
 ---
+
 ![](images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
 *Photo by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
@@ -13,7 +16,6 @@ This was the first workshop organised by COPIM, and as such it was very much par
 
 🔍🖺 **Documentation available here: [COPIM Publishers Workshop – March 2020 – Report](https://doi.org/10.21428/785a6451.8e138355)**
 
----
 
 **Theme 1: Discovery and Dissemination**
 
@@ -24,20 +26,5 @@ This was the first workshop organised by COPIM, and as such it was very much par
 * 2a.  Revenue Models and Library Collective Funding (Q5, Q6)
 * 2b.  Workflows and Archiving/Preservation (Q6, Q7)
 
----
 
-**Schedule (all times GMT):**
-
-* 12.30-12.45   Log in and technical set up/sound checks
-* 12.45-13.30   Introductions & welcome (including overview of COPIM and plan for the workshop)
-* 13.30-15.00   Session 1
-  * 13.30–14.00   Discussion session 1
-  * 14.00–14.30   Discussion session 2
-* 14.30-15.00   Wrap-up session (in which the different groups share reflections with each other)
-* 15.00-15.30   Break (please feel free to log off, stretch your legs, go for a coffee!)
-* 15.30-17.00   Session 2
-    * 15.30–16.00   Discussion session 3
-    * 16.00–16.30   Discussion session 4
-* 16.30-17.00   Wrap-up session (in which the different groups share reflections with each other)
-* 17.00-17.30   Break (please feel free to log off, stretch your legs, go for a coffee again!)
-* 17.30-18.30   Conclusions and next steps
+**Participating stakeholders:** Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, OAPEN, Jisc, DPC, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press, University of Michigan, Lyrasis, UCL Press, University of North Carolina Press, Arc Humanities Press, Jisc NBK, African Minds, Westminster University Press, MIT Press, Florence University Press, Lexis Compagnia Editoriale, Stockholm University Press, Stockholm University Library, University of Wales Press, MIT Knowledge Futures Group/pubpub

@@ -1,8 +1,11 @@
 ---
 title: "COPIM Libraries & Publishers US Workshop, May 13, 2020"
-weight: 12
+
+weight: 20
+
 date: 2020-05-13
 ---
+
 ![](images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
 *Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
@@ -26,43 +29,3 @@ The workshop is organized around the following three themes:
 3. What governance structures and practices are required to ensure the sustainability of these efforts?
 
 ---
-
-**Schedule**
-
-All Times Eastern
-
-_08.30-08.45_: Participants dial-in and sound test – confirm attendance. Organisers to introduce themselves and explain the format of the workshop. Technical introduction (how breakout rooms will work, note taking, etc.)
-
-_08.45-09.15_: Welcome and introduction to the project
-
-_09.30_: Breakout Session 1:
-
-  * What are the current factors inhibiting relationships between libraries and OA presses?
-  * How are libraries identifying and evaluating different proposals? How do libraries decide which initiatives to support?
-  * How is content integrated into university systems?
-
-10.00: Break
-
-10.20: Quick Intro: Introducing the OAeX model (see [suggested reading](https://insights.uksg.org/articles/10.1629/uksg.500/))
-
-10.25: Breakout Session 2: Financing and infrastructures/platforms
-
-  * Would a book-focused version of the OAeX model address any of the issues we identified in the last session?
-  * What types of services would libraries fund (e.g. big funding body, individual publisher, individual book, individual author, usage statistics)?
-
-11.00: Break
-
-11.15: Report back to the group
-
-11.30: Breakout Session 3: Governance
-
-  * How might we achieve trust (e.g. transparency, non-commercial, control)?
-  * What are the critical Information flows necessary to build resilient networks?
-  * Are there distinct governance needs with respect to different types of institutions?
-  * Do those needs also vary by geographic location? Can we bridge those gaps?
-
-12.05: Report back to the group
-
-12.20: Future steps / Call to action
-
-12.30: End

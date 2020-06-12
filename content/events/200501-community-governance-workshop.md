@@ -1,8 +1,11 @@
 ---
 title: "COPIM Community Governance Workshop, May 01, 2020"
-weight: 11
+
+weight: 15
+
 date: 2020-05-01
 ---
+
 ![](images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
 *Photo by [Mike Erskine](https://unsplash.com/@mikejerskine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
@@ -31,35 +34,4 @@ The outcome of this workshop will be the establishment of a working group for
 * (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
 This working group will identify and/or form the beginning of a governance community of representative stakeholders for the COPIM project.
 
----
-
-**Schedule:**
-
-All times BST
-
-_14.55-15.15_: Participants dial-in and sound test – confirm attendance.
-Short introduction by organisers
-
-_15:15-15:20_: Welcome from UCSB Library
-
-_15.20_: Introduction to the project:
-	 * Janneke Adema introduces the COPIM project (brief overview of work packages and the overall aims of the project)
-   * Sam Moore introduces WP4 and outputs, the basic conception of governance, the aims of the workshop and how we expect it to develop (advisory board, Humanities Commons group etc.)
-
-_15.40_: Participant introductions: participants to introduce themselves, their research and/or their projects, including how their interests relate to governance of scholarly communication.  
-
-_16.00_: 10-15-minute break (a virtual coffee room will be available in Zoom if you want to keep chatting)
-
-_16.15_: First question for break-out discussion, to be discussed in groups of 4-5: What does good governance mean to you? Participants to describe their experience of governance – either as researchers or with respect to the projects they lead. What do we need to consider when designing systems of governance? What processes did you use to decide the governance structures for your project?
-
-In advance of this, we would ask participants to read the Next Generation Library Publishing Project’s [recent report](https://educopia.org/principles_values_wp/) and our recently [released blogpost](https://doi.org/10.21428/785a6451.20a5c646) to get a sense for some of the issues we will be discussing.
-
-_16.20_: Discussion time (three groups): 30 minutes plus 20-minute break
-
-_17.00_: Report back to the group on discussions (10 mins per group). The moderators will report back to the group on the discussions, offering a chance for wider discussions and any concrete recommendations or issues the group feel we need to follow up on.
-
-_17.30_: Next questions: Who is COPIM’s community? How can we identify and nurture this community? Participants to discuss the meaning of community and how it relates to the COPIM project. What issues are there around defining a community? Is ‘stakeholders’ a better term?
-
-_18.15_: Report back to the group on discussions.
-
-_18.45_: Future steps – How would we like to keep in touch? Participants will be asked to confirm that they are willing to be part of the working group and to suggest other projects we might want to work and share info with.
+**Participating stakeholders:** University of California, Santa Barbara, UCSB Library, Coventry University, Lancaster University, Mattering Press, punctum books, AmeliCA, University of Toronto, Michigan State University, University of Virginia, SPARC, Anglia Ruskin University, Edinburgh Napier University, California Digital Library, Curtin University, éditions science et bien commun, University of Cape Town, Educopia Institute
