@@ -11,7 +11,7 @@ On 16 March 2020 the COPIM Publishers Workshop took place online, discussing iss
 
 This was the first workshop organised by COPIM, and as such it was very much part of the exploratory scoping stage of our project. In keeping with the spirit of COPIM as a whole, we are not approaching any of the issues we are working on with a set of predetermined solutions in mind—instead we want to think through the problems and opportunities facing Open Access book publishing with a diverse variety of stakeholders, with the intention of developing infrastructure that keeps the needs of our communities at its centre.
 
-🖺 **Documentation available here: [COPIM Publishers Workshop – March 2020 – Report](https://doi.org/10.21428/785a6451.8e138355)**
+🔍🖺 **Documentation available here: [COPIM Publishers Workshop – March 2020 – Report](https://doi.org/10.21428/785a6451.8e138355)**
 
 ---
 
