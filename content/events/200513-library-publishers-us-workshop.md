@@ -12,6 +12,8 @@ date: 2020-05-13
 
 #### A COPIM community-workshop in collaboration with University of Michigan, Lyrasis, and ScholarLed
 
+**Participating stakeholders:** University of Michigan, Michigan Publishing, Lyrasis, Middlebury College Library, The Ohio State University, Wayne State University Libraries, University of Iowa, Iowa State University, University at Buffalo, Kelvin Smith Library, University of Minnesota, Central Michigan University, Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press
+
 **How can libraries and publishers shape the future of Open Access books**
 
 COPIM (Community-Led Open Publishing Infrastructures for Monographs) is a 3-year project funded by Research England and Arcadia, that will develop and build the critical underlying modular components to support the sustainable publication of open access (OA) books, including infrastructures, business models, governance procedures, re-use strategies, preservation structures, and outreach programs. These systems and infrastructures will be open and collectively managed for the common good. Towards this end, COPIM aims to develop a significantly enriched not-for-profit and open source ecosystem for OA book publishing that will support and sustain a diversity of publishing initiatives and models, particularly in humanities and social sciences publishing.
@@ -35,5 +37,4 @@ The workshop is organized around the following three themes:
   * What types of governance structures are required?
   * How to developing and sustain trust amongst both libraries and publishers?
   * How to represent the diversity of libraries types and differing library objectives? How to incorporate geographic diversity?
-
-**Participating stakeholders:** University of Michigan, Michigan Publishing, Lyrasis, Middlebury College Library, The Ohio State University, Wayne State University Libraries, University of Iowa, Iowa State University, University at Buffalo, Kelvin Smith Library, University of Minnesota, Central Michigan University, Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press
+  

@@ -1,6 +1,7 @@
 ---
 title: "Workshops & Events"
 ---
+
 ![](images/brushes-3129361-cropped.jpg)
 *Image by [Rudy and Peter Skitterians](https://pixabay.com/users/Skitterphoto-324082/) from [Pixabay](https://pixabay.com/).*
 
