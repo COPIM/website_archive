@@ -2,8 +2,6 @@
 title: "COPIM Libraries & Publishers UK Workshop, June 16, 2020"
 
 weight: 25
-
-date: 2020-06-16
 ---
 
 ![](images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
