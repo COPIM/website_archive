@@ -4,7 +4,7 @@ title: "COPIM Libraries & Publishers UK Workshop, June 16, 2020"
 weight: 25
 ---
 
-![](images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
+![](https://www.copim.ac.uk/images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
 *Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 **Participating stakeholders:** Lancaster University, Mattering Press, Trinity College Cambridge, Open Book Publishers, punctum books, Coventry University, JISC, Southern Universities Purchasing Consortium, University of York, Sheffield Hallam University, King’s College London, University of Cambridge, University of Exeter, University of Sussex, University of Salford, Maynooth University, Cardiff University, Birkbeck, University of London, Loughborough University
