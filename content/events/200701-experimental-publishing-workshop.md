@@ -4,7 +4,7 @@ title: "COPIM Experimental Publishing Workshop, July 01, 2020"
 weight: 30
 ---
 
-![](images/da-nina-MBqwXZTfkdA-unsplash-cropped.jpg)
+![](https://www.copim.ac.uk/images/da-nina-MBqwXZTfkdA-unsplash-cropped.jpg)
 *Photo by [Da Nina](https://unsplash.com/@daninasplash?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 ## Mapping, Connecting, Developing Future Book Imaginaries
