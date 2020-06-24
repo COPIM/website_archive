@@ -6,7 +6,7 @@ weight: 10
 date: 2020-03-16
 ---
 
-![](images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
+![](https://www.copim.ac.uk/images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
 *Photo by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 **Participating stakeholders:** Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, OAPEN, Jisc, DPC, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press, University of Michigan, Lyrasis, UCL Press, University of North Carolina Press, Arc Humanities Press, Jisc NBK, African Minds, Westminster University Press, MIT Press, Florence University Press, Lexis Compagnia Editoriale, Stockholm University Press, Stockholm University Library, University of Wales Press, MIT Knowledge Futures Group/pubpub
