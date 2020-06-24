@@ -6,7 +6,7 @@ weight: 15
 date: 2020-05-01
 ---
 
-![](images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
+![](https://www.copim.ac.uk/images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
 *Photo by [Mike Erskine](https://unsplash.com/@mikejerskine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 
