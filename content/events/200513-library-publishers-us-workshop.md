@@ -12,7 +12,7 @@ date: 2020-05-13
 
 #### A COPIM community-workshop in collaboration with University of Michigan, Lyrasis, and ScholarLed
 
-**Participating stakeholders:** University of Michigan, Michigan Publishing, Lyrasis, Middlebury College Library, Wayne State University Libraries, University of Iowa, Iowa State University, Kelvin Smith Library, University of Minnesota, Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press, Macalester College, Case Western Reserve University, Oberlin College
+**Participating stakeholders:** University of Michigan, Michigan Publishing, Lyrasis, Middlebury College Library, Wayne State University Libraries, University of Iowa, Iowa State University, Kelvin Smith Library, University of Minnesota, Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press, Macalester College, Case Western Reserve University, Oberlin College (plus other institutional representatives who have chosen to remain anonymous in project outputs)
 
 **How can libraries and publishers shape the future of Open Access books**
 
