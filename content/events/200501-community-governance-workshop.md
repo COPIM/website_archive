@@ -1,22 +1,26 @@
 ---
 title: "COPIM Community Governance Workshop, May 01, 2020"
 
-weight: 15
+weight: 235
 
 date: 2020-05-01
 ---
 
-![](https://www.copim.ac.uk/images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
+![](/images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
 *Photo by [Mike Erskine](https://unsplash.com/@mikejerskine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 
-##### A COPIM community-workshop in collaboration with University of California, Santa Barbara Library, ScholarLed, and Coventry University
+#### A COPIM community-workshop in collaboration with University of California, Santa Barbara Library, ScholarLed, and Coventry University
 
-**Participating stakeholders:** University of California, Santa Barbara, UCSB Library, Coventry University, Lancaster University, Mattering Press, punctum books, AmeliCA, University of Toronto, Michigan State University, University of Virginia, SPARC, Anglia Ruskin University, Edinburgh Napier University, California Digital Library, Curtin University, éditions science et bien commun, University of Cape Town, Educopia Institute
+**Participating stakeholders:**
+
+_external_: University of California, Santa Barbara, UCSB Library, AmeliCA, University of Toronto, Michigan State University, University of Virginia, SPARC, Anglia Ruskin University, Edinburgh Napier University, California Digital Library, Curtin University, éditions science et bien commun, University of Cape Town, Educopia Institute
+
+_internal_: Coventry University, Lancaster University, Mattering Press, punctum books
 
 🔍🖺 Documentation available here: **[COPIM Community Governance Workshop Recap: Part 1](https://doi.org/10.21428/785a6451.6a3a2ca2)**
 
-#### Short overview
+### Short overview
 
 COPIM (Community-Led Open Publishing Infrastructures for Monographs) is a 3-year project funded by Research England and Arcadia, that will develop and build the critical underlying modular components to support the sustainable publication of open access (OA) books, including infrastructures, business models, governance procedures, re-use strategies, preservation structures, and outreach programs. These systems and infrastructures will be open and collectively managed for the common good. Towards this end, COPIM aims to develop a significantly enriched not-for-profit and open source ecosystem for OA book publishing that will support and sustain a diversity of publishing initiatives and models, particularly in humanities and social sciences publishing.
 
@@ -32,6 +36,7 @@ COPIM intends to set up an open, community-led and controlled governance structu
 * Establish a working group to continue development of COPIM’s governance structure, creating genuine community involvement and collective control, while ensuring the infrastructures won’t be governed by a particular commercial interest.
 
 **The outcome of this workshop will be the establishment of a working group for**
+
 * (a) the long-term management of consortial library funding programs, and
 * (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
 

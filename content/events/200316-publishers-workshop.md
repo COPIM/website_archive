@@ -1,15 +1,19 @@
 ---
 title: "COPIM Publishers Workshop, March 16, 2020"
 
-weight: 10
+weight: 250
 
 date: 2020-03-16
 ---
 
-![](https://www.copim.ac.uk/images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
+![](/images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
 *Photo by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
-**Participating stakeholders:** Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, OAPEN, Jisc, DPC, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press, University of Michigan, Lyrasis, UCL Press, University of North Carolina Press, Arc Humanities Press, Jisc NBK, African Minds, Westminster University Press, MIT Press, Florence University Press, Lexis Compagnia Editoriale, Stockholm University Press, Stockholm University Library, University of Wales Press, MIT Knowledge Futures Group/pubpub
+**Participating stakeholders:**
+
+_external_: University of Michigan, Lyrasis, UCL Press, University of North Carolina Press, Arc Humanities Press, Jisc NBK, African Minds, Westminster University Press, MIT Press, Florence University Press, Lexis Compagnia Editoriale, Stockholm University Press, Stockholm University Library, University of Wales Press, MIT Knowledge Futures Group/pubpub
+
+_internal_: Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, OAPEN, Jisc, DPC, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press,
 
 🔍🖺 **Documentation available here: [COPIM Publishers Workshop – March 2020 – Report](https://doi.org/10.21428/785a6451.8e138355)**
 
@@ -23,5 +27,6 @@ This was the first workshop organised by COPIM, and as such it was very much par
 * 1b.  New Channels and Requirements (Q3, Q4)
 
 **Theme 2: Business Models**
+
 * 2a.  Revenue Models and Library Collective Funding (Q5, Q6)
 * 2b.  Workflows and Archiving/Preservation (Q6, Q7)
