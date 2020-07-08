@@ -1,7 +1,7 @@
 ---
 title: "COPIM Libraries & Publishers US Workshop, July 07, 2020"
 
-weight: 220
+weight: 180
 
 date: 2020-07-07
 ---
