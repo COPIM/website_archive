@@ -28,7 +28,7 @@ COPIM intends to set up an open, community-led and controlled platform for libra
 
 ### Workshop aims:
 
-The outcome of this workshop will be the establishment of a working group for (a) the long-term development of a consortial library funding platform, and (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
+This was the final workshop in a series of three, and the second focused on the US context. As with the preceding workshops, the outcome of this workshop will be the establishment of a working group for (a) the long-term development of a consortial library funding platform, and (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
 
 **The workshop is organized around the following three themes:**
 
