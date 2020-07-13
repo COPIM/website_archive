@@ -15,7 +15,9 @@ _external_: University of Michigan, Lyrasis, UCL Press, University of North Caro
 
 _internal_: Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, OAPEN, Jisc, DPC, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press,
 
-🔍🖺 **Documentation available here: [COPIM Publishers Workshop – March 2020 – Report](https://doi.org/10.21428/785a6451.8e138355)**
+🔍🖺 **Documentation available here: <a href="https://doi.org/10.21428/785a6451.8e138355" target="_blank" title="COPIM Publishers Workshop – March 2020 – Report">COPIM Publishers Workshop – March 2020 – Report</a>
+
+[COPIM Publishers Workshop – March 2020 – Report](https://doi.org/10.21428/785a6451.8e138355)**
 
 On 16 March 2020 the COPIM Publishers Workshop took place online, discussing issues related to Open Access books. Around thirty attendees took part, including academic publishers, scholarly communications experts and many of the COPIM project participants.
 
