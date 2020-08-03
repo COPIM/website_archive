@@ -8,6 +8,7 @@ Kristin Antelman (UCSB Library)
 Javier Arias (Open Book Publishers, ScholarLed)  
 Lucy Barnes (Open Book Publishers, ScholarLed)  
 Sherri Barnes ([WP4](https://b.copim.ac.uk/work-package/wp4/), UCSB Library)  
+Emily Bell ([WP7](https://b.copim.ac.uk/work-package/wp7/), Loughborough University)  
 Gareth Cole ([WP7](https://b.copim.ac.uk/work-package/wp7/), Loughborough University Library)  
 Joe Deville ([WP2](https://b.copim.ac.uk/work-package/wp2/), Mattering Press, ScholarLed, Lancaster University)   
 Martin Eve ([WP3](https://b.copim.ac.uk/work-package/wp3/), Birkbeck University of London)  
