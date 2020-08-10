@@ -17,6 +17,8 @@ _external_: OPERAS-P, open.access-network, Niedersächsische Staats- und Univers
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, JISC
 
+🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the German perspective](https://doi.org/10.21428/785a6451.91ef1b29)**
+
 ### Overview:
 
 *The workshop is co-hosted by COPIM, open-access.network, and OPERAS-P projects.*
