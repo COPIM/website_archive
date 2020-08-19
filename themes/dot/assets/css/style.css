@@ -582,6 +582,7 @@ textarea.form-control {
 .content ul li {
   padding-left: 20px;
   position: relative;
+  margin-bottom: 5px
 }
 
 .content ul li::before {
