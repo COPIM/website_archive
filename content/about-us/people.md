@@ -12,7 +12,9 @@ Emily Bell ([WP7](https://www.copim.ac.uk/work-package/wp7/), Loughborough Unive
 Gareth Cole ([WP7](https://www.copim.ac.uk/work-package/wp7/), Loughborough University Library)  
 Joe Deville ([WP2](https://www.copim.ac.uk/work-package/wp2/), Mattering Press, ScholarLed, Lancaster University)   
 Martin Eve ([WP3](https://www.copim.ac.uk/work-package/wp3/), Birkbeck University of London)
+
 Tom Grady ([WP3](https://www.copim.ac.uk/work-package/wp3/), Birkbeck University of London) 
+
 Eelco Ferwerda (OAPEN, DOAB)  
 Rupert Gatti ([WP5](https://www.copim.ac.uk/work-package/wp5/), [WP7](https://www.copim.ac.uk/work-package/wp7/), Open Book Publishers, ScholarLed, Trinity College Cambridge)  
 Elli Gerakopoulou (Lancaster University)  
