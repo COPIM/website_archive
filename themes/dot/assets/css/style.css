@@ -583,6 +583,7 @@ textarea.form-control {
   padding-left: 20px;
   position: relative;
   margin-bottom: 5px
+  font-size: 15px;
 }
 
 .content ul li::before {
