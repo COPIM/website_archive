@@ -1,23 +1,23 @@
 ---
-title: "Joint COPIM and OPERAS-P Poland workshop, August 13, 2020"
+title: "Joint COPIM and OPERAS-P Scandinavia workshop, September 30, 2020"
 
-weight: 165
+weight: 160
 
 date: 2020-08-13
 ---
 
-![](/images/warsaw-university-library-cropped.jpg)
-*Photo by [Katarzyna Matylla](https://commons.wikimedia.org/wiki/File:BUW_001.jpg) on Wikimedia Commons, CC BY-SA 3.0*
+![](/images/helsinki-central-library-cropped.jpg)
+*Photo by [Siyuant](https://www.flickr.com/photos/siyuant/48784556038/) on Flickr, CC BY-NC 2.0*
 
-### Library Support for OA Books: The Polish perspective
+### Library Support for OA Books: The Scandinavian perspective
 
 **Participating stakeholders:**
 
-_external_: OPERAS-P, Jagiellonian University in Cracow, Nicolaus Copernicus University in Torun, University of Lodz, Lodz University of Technology, Gdansk University of Technology, University of Gdansk, Adam Mickiewicz University in Poznan, Institute of Literary Research of the Polish Academy of Sciences, Scientific Information Centre and Academic Library in Katowice
+_external_: OPERAS-P, Danish Royal Library, Stockholm University Library, University of Copenhagen Li-brary, University Library of Tromso, Haaga-Helia University of Applied Sciences, Laurea University of Applied Sciences, Tampere University Library, University of Roskilde, Uppsala University Library, Lund University Library, National Library of Finland, Turku University Library
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, JISC
 
-🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the Polish perspective](https://doi.org/10.21428/785a6451.5af83711)**
+🔍🖺 Documentation available soon ...
 
 ### Overview:
 
