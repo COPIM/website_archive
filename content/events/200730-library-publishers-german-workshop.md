@@ -15,7 +15,7 @@ date: 2020-07-30
 
 _external_: OPERAS-P, open.access-network, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Staats- und Universitätsbibliothek Hamburg, Karlsruher Institut für Technologie (KIT), Universität Regensburg, Forschungszentrum Jülich, Helmholtz-Gemeinschaft, Technische Informationsbibliothek (TIB), Technische Universität Berlin, Universität Duisburg-Essen, Max-Planck-Institut für Wissenschaftsgeschichte, Sächsische Landesbibliothek (SLUB), Open-Access-Büro Berlin, Universität Konstanz
 
-_internal_: Open Book Publishers, Coventry University, Lancaster University, JISC
+_internal_: Open Book Publishers, Coventry University, Lancaster University, Jisc
 
 🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the German perspective](https://doi.org/10.21428/785a6451.91ef1b29)**
 

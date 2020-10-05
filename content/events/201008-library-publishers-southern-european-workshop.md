@@ -1,19 +1,19 @@
 ---
-title: "Joint COPIM and OPERAS-P Scandinavia workshop, September 30, 2020"
+title: "Joint COPIM and OPERAS-P Southern Europe workshop, October 08, 2020"
 
-weight: 160
+weight: 155
 
-date: 2020-09-30
+date: 2020-10-08
 ---
 
-![](/images/helsinki-central-library-cropped.jpg)
-*Photo by [Siyuant](https://www.flickr.com/photos/siyuant/48784556038/) on Flickr, CC BY-NC 2.0*
+![](/images/national-library-of-greece-cropped.jpg)
+*Photo by [Georgios Liakopoulos](https://www.flickr.com/photos/gliak/29638236085/) on Flickr, CC BY-SA 2.0*
 
-### Library Support for OA Books: The Scandinavian perspective
+### Library Support for OA Books: The Southern European perspective
 
 **Participating stakeholders:**
 
-_external_: OPERAS-P, Danish Royal Library, Stockholm University Library, University of Copenhagen Li-brary, University Library of Tromso, Haaga-Helia University of Applied Sciences, Laurea University of Applied Sciences, Tampere University Library, University of Roskilde, Uppsala University Library, Lund University Library, National Library of Finland, Turku University Library
+_external_: OPERAS-P, University of Zagreb, University of Zadar, University of Ljubljana, Slovenian Academy of Science and Arts, University of Patras, National Technical University of Athens, University of Thessaloniki
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Birkbeck, University of London, Jisc
 

@@ -15,7 +15,7 @@ date: 2020-08-13
 
 _external_: OPERAS-P, Jagiellonian University in Cracow, Nicolaus Copernicus University in Torun, University of Lodz, Lodz University of Technology, Gdansk University of Technology, University of Gdansk, Adam Mickiewicz University in Poznan, Institute of Literary Research of the Polish Academy of Sciences, Scientific Information Centre and Academic Library in Katowice
 
-_internal_: Open Book Publishers, Coventry University, Lancaster University, JISC
+_internal_: Open Book Publishers, Coventry University, Lancaster University, Jisc
 
 🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the Polish perspective](https://doi.org/10.21428/785a6451.5af83711)**
 
