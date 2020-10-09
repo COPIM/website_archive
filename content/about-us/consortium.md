@@ -9,9 +9,9 @@ COPIM is a strategic international partnership led by Coventry University consis
 <font size="1">
 
 | **Consortium** | **Partners** |
-| --------------| --------------| 
+| --------------| --------------|
 | [Coventry University](https://www.coventry.ac.uk/) | [ScholarLed](https://scholarled.org/): |
-| [Birkbeck University](http://www.bbk.ac.uk/) |  • [Mattering Press](https://www.matteringpress.org/)
+| [Birkbeck, University of London](http://www.bbk.ac.uk/) |  • [Mattering Press](https://www.matteringpress.org/)
 | [Lancaster University](https://www.lancaster.ac.uk/) |  • [Open Book Publishers](https://www.openbookpublishers.com/)|
 | [Trinity College, Cambridge](https://www.trin.cam.ac.uk/) | • [Open Humanities Press](https://openhumanitiespress.org/)
 | [Loughborough University Library](https://www.lboro.ac.uk/library/)| • [Meson Press](https://meson.press/)
@@ -19,7 +19,7 @@ COPIM is a strategic international partnership led by Coventry University consis
 | [Open Book Publishers](https://www.openbookpublishers.com/)|[The British Library](https://www.bl.uk/)|
 | [Punctum Books](https://punctumbooks.com/) |[The Digital Preservation Coalition](https://www.dpconline.org/) |
 | [The Directory of Open Access Books](https://www.doabooks.org/) |
-|[ Jisc ](https://www.jisc.ac.uk/)  | 
+|[ Jisc ](https://www.jisc.ac.uk/)  |
 
 </font>
 
