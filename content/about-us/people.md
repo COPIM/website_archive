@@ -4,6 +4,8 @@ weight: 40
 ---
 ![](/images/testphoto/Teamphoto.jpg)
 
+*in alphabetical order:*   
+
 Janneke Adema ([WP1](https://www.copim.ac.uk/work-package/wp1/), [WP4](https://www.copim.ac.uk/work-package/wp4/), [WP6](https://www.copim.ac.uk/work-package/wp6/), Open Humanities Press, ScholarLed, Coventry University)  
 Kristin Antelman (UCSB Library)  
 Javier Arias (Open Book Publishers, ScholarLed)  
@@ -12,11 +14,11 @@ Sherri Barnes ([WP4](https://www.copim.ac.uk/work-package/wp4/), UCSB Library)
 Emily Bell ([WP7](https://www.copim.ac.uk/work-package/wp7/), Loughborough University)  
 Gareth Cole ([WP7](https://www.copim.ac.uk/work-package/wp7/), Loughborough University Library)  
 Joe Deville ([WP2](https://www.copim.ac.uk/work-package/wp2/), Mattering Press, ScholarLed, Lancaster University)   
-Martin Eve ([WP3](https://www.copim.ac.uk/work-package/wp3/), Birkbeck, University of London)
+Martin Eve ([WP3](https://www.copim.ac.uk/work-package/wp3/), Birkbeck, University of London)   
 Eelco Ferwerda (OAPEN, DOAB)  
 Rupert Gatti ([WP5](https://www.copim.ac.uk/work-package/wp5/), [WP7](https://www.copim.ac.uk/work-package/wp7/), Open Book Publishers, ScholarLed, Trinity College Cambridge)  
 Elli Gerakopoulou (Lancaster University)  
-Tom Grady ([WP3](https://www.copim.ac.uk/work-package/wp3/), Birkbeck, University of London)
+Tom Grady ([WP3](https://www.copim.ac.uk/work-package/wp3/), Birkbeck, University of London)   
 Gary Hall ([WP6](https://www.copim.ac.uk/work-package/wp6/), Open Humanities Press, ScholarLed, Coventry University)  
 Eileen Joy ([WP2](https://www.copim.ac.uk/work-package/wp2/), punctum books, ScholarLed)   
 Martin Keegan (Open Book Publishers, ScholarLed)  
@@ -31,6 +33,6 @@ Dan Rudmann ([WP2](https://www.copim.ac.uk/work-package/wp2/) & Outreach; punctu
 Ronald Snijder (OAPEN)  
 Tobias Steiner ([WP1](https://www.copim.ac.uk/work-package/wp1/) & Outreach; Coventry University)  
 Graham Stone (Jisc)  
-Alessandra Tosi (Open Book Publishers, ScholarLed)
-Dominic Walker (British Library)
-Paul Wheatley (Digital Preservation Coalition)  
+Alessandra Tosi (Open Book Publishers, ScholarLed)   
+Dominic Walker (British Library)   
+Paul Wheatley (Digital Preservation Coalition)     
