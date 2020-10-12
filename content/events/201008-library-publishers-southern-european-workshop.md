@@ -13,7 +13,7 @@ date: 2020-10-04
 
 **Participating stakeholders:**
 
-_external_: OPERAS-P, University of Zagreb, University of Zadar, University of Ljubljana, Slovenian Academy of Science and Arts, University of Patras, National Technical University of Athens, Aristotle University of Thessaloniki
+_external_: OPERAS-P, University of Zagreb, University of Zadar, University of Ljubljana, Slovenian Academy of Science and Arts, University of Patras, National Technical University of Athens, Aristotle University of Thessaloniki, The Ionian University 
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Birkbeck, University of London, Jisc
 
