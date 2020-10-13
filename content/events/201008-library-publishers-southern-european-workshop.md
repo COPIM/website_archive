@@ -3,7 +3,7 @@ title: "Joint COPIM and OPERAS-P Southern Europe workshop, October 08, 2020"
 
 weight: 155
 
-date: 2020-10-04
+date: 2020-10-08
 ---
 
 ![](/images/national-library-of-greece-cropped.jpg)
@@ -17,7 +17,7 @@ _external_: OPERAS-P, University of Zagreb, University of Zadar, University of L
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Birkbeck, University of London, Jisc
 
-🔍🖺 Documentation available soon ...
+🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the South European perspective](https://doi.org/10.21428/785a6451.c1cd7059)**
 
 ### Overview:
 

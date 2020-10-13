@@ -17,7 +17,9 @@ date: 2020-05-13
 
 _external_: University of Michigan, Michigan Publishing, Lyrasis, Middlebury College Library, Wayne State University Libraries, University of Iowa, Iowa State University, Kelvin Smith Library, University of Minnesota, Macalester College, Case Western Reserve University, Oberlin College (plus other institutional representatives who have chosen to remain anonymous in project outputs)
 
-_internal_: Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press,
+_internal_: Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press
+
+🔍🖺 Documentation available here: **[WP2 Workshop in Partnership with University of Michigan, MPublishing, and Lyrasis](https://doi.org/10.21428/785a6451.c6005f3a)**
 
 ### Overview:
 
