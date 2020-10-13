@@ -4,6 +4,10 @@ weight: 30
 ---
 ![](/images/copim-partners-updated-oct20-web.png)
 
+--- Image: The COPIM partner consortium. (_[high-resolution version](/images/copim-partners-updated-oct20-highres.jpg)_)
+
+---
+
 The infrastructure used by open access publishers must be driven by, and responsive to, the varied needs of an international scholarly community.  
 A key aspect of COPIM is therefore that it privileges close working relationships between publishers, librarians, infrastructure providers, and other members of the scholarly community.
 
