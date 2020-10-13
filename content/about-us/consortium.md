@@ -4,7 +4,7 @@ weight: 30
 ---
 ![](/images/copim-partners-updated-oct20-web.png)
 
---- Image: The COPIM partner consortium. (_[high-resolution version](/images/copim-partners-updated-oct20-highres.jpg)_)
+--- Image: The COPIM partner consortium. (_[high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)_)
 
 ---
 
