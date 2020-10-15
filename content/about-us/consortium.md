@@ -4,7 +4,7 @@ weight: 30
 ---
 ![](/images/copim-partners-updated-oct20-web.png)
 
---- Image: The COPIM partner consortium. (_[high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)_)
+
 
 ---
 
@@ -54,3 +54,9 @@ COPIM is an international partnership comprising
 ### Collaborations
 
 Thanks to funding from [OPERAS-P](https://operas.hypotheses.org/operas-p), a European Coordinator for Open Access Book Publishing works jointly between OPERAS-P and COPIM, based at Open Book Publishers. The European Coordinator is working to facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project.
+
+
+
+----
+
+--- Header image: The COPIM partner consortium. (_[high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)_)

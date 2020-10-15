@@ -2,7 +2,7 @@
 title: "People"
 weight: 40
 ---
-![](/images/testphoto/Teamphoto.jpg)
+![](/images/copim-teamphoto-jan2020.jpg)
 
 *in alphabetical order:*   
 

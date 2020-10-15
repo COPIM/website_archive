@@ -3,6 +3,8 @@ title: "Aims"
 weight: 20
 ---
 
+![](/images/mari-carmen-del-valle-camara-oUts1FvnwPI-unsplash-cropped.jpg)
+
 
 At COPIM, we believe that, for open access publishing initiatives to thrive, we have to develop more robust notions of "open" that go beyond releasing content from behind paywalls. We believe that the infrastructure with which academic work is published must be community-led and open for widespread participation by scholar-led and
 non-profit publishers.  
@@ -38,3 +40,7 @@ We are therefore building a significantly enriched, not-for-profit and open sour
 > "This project comes at a crucial time for open access book publishing: there is growing recognition of the need to create open, community-controlled infrastructures to support OA monograph publication internationally. COPIM will enable us to build the systems and structures that allow diverse, small-scale scholarly publishing initiatives to flourish. Collectively the [ScholarLed](https://scholarled.org/) presses have now published over 500 books, and expect to publish over 80 new titles in the coming year. COPIM prepares the ground for more such presses to thrive, increasing the strength and heterogeneity of open access publishing within a robust, inclusive and community-managed publishing ecosystem: Scaling Small."
 
 --- **Rupert Gatti**, Trinity College, Cambridge & Open Book Publishers   
+
+---
+
+_Image by [Mari Carmen Del Valle Cámara](https://unsplash.com/photos/oUts1FvnwPI) on Unsplash_
