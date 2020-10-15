@@ -7,7 +7,7 @@ date: 2020-03-16
 ---
 
 ![](/images/omar-flores-MOO6k3RaiwE-unsplash-cropped.jpg)
-*Photo by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
+
 
 **Participating stakeholders:**
 
@@ -30,3 +30,11 @@ This was the first workshop organised by COPIM, and as such it was very much par
 
 * 2a.  Revenue Models and Library Collective Funding (Q5, Q6)
 * 2b.  Workflows and Archiving/Preservation (Q6, Q7)
+
+
+
+
+
+---
+
+*Photo by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
