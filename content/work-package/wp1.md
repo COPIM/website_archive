@@ -3,14 +3,19 @@ title: "WP1: Project Management"
 weight: 10
 ---
 
-### Leads
+### Team
 
-- Gary Hall (Coventry University)   
-- Janneke Adema (Coventry University)   
+Gary Hall (Coventry University), Janneke Adema (Coventry University), Tobias Steiner (Coventry University), Marcell Mars (Coventry University)
 
-> WP1 will ensure that the project meets its objectives within budget and scheduled timescales. Tasks will include monitoring project progress, tracking deliverables and reporting back to the funder. It will coordinate project activities by setting up internal communication channels for the consortium (e.g. NextCloud, Mattermost channel, Zoom). It will also organise the project’s main dissemination and outreach activities. 
+### Tasks
 
-### Key deliverables and impacts 
+> WP1 coordinates project activities and fosters exchange across Work Packages and with the public through internal and external communication channels (NextCloud, Mattermost, BigBlueButton, Zoom, Twitter, PubPub, website, …) and corresponding dissemination and outreach activities.
 
-* A project website and social media presence 
+![](/images/copim-infrastructure-platform-overview.jpg)
+
+> Internally, WP1 ensures that the overall project meets its objectives within budget and scheduled timescales by monitoring project progress, tracking deliverables and reporting back to the funders. 
+
+### Key deliverables and impacts
+
+* A project website and social media presence
 * Organisation of stakeholder workshops and public conferences
