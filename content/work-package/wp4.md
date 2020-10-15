@@ -5,7 +5,7 @@ weight: 40
 
 ### Contact
 
-[wp4@copim.ac.uk](mailto:wp4@copim.ac.uk)
+[wp4@copim.ac.uk](mailto:wp4@copim.ac.uk)  
 
 
 ### Team
@@ -22,4 +22,3 @@ Janneke Adema (Coventry University), Eileen A.F. Joy (punctum books), Sherri Bar
 * Two white papers based on community approved best practices for the governance of
   * open source community-owned infrastructures, and
   * open access book presses and consortia  
-  
