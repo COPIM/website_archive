@@ -15,6 +15,11 @@ _external_: Scalar, UMP/Manifold, thresholds, Hybrid Publishing Group, Vega, Mes
 
 _internal_: Mattering Press, Open Humanities Press, Open Book Publishers, punctum books, Coventry University
 
+
+🔍🖺 Documentation available here:
+  - **[COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing](https://doi.org/10.21428/785a6451.8265afcb)**
+  - **[COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing](https://doi.org/10.21428/785a6451.a21d57b6)**
+
 ### Outline:
 
 Open access grants direct read access to books, but it also enables more direct interactions with their contents post-publication. This includes:
