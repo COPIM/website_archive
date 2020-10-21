@@ -15,4 +15,4 @@ COPIM will deliver major improvements in the infrastructures used both by open a
 
 COPIM is working towards a more diverse, open, and democratically equitable future for academic publishing.
 
-1[](/images/copim-team-jan2020.jpg)
+![](/images/copim-team-jan2020.jpg)
