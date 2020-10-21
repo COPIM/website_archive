@@ -37,16 +37,11 @@ url = "events"
 weight = 3
 
 [[menu.main]]
-name = "Outputs"
-url = "deliverables"
-weight = 4
-
-[[menu.main]]
 name = "Open Documentation Site"
 url = "https://copim.pubpub.org/"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "contact"
 url = "contact"
-weight = 6
+weight = 5
