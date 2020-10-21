@@ -24,7 +24,8 @@ weight: 60
 - **Pierre Mounier** (Open Edition/OPERAS)
  {{< figure src="/images/advisoryboard/pierre-mounier-profile-small.jpg" width="150px" class="fleft pright" >}} Pierre Mounier is coordinator of OPERAS (https://operas.hypotheses.org/), the European infrastructure for open scholarly communication in the humanities and social science. He is trained in classical studies and social anthropology. He is working at the École des Hautes Études en Sciences Sociales (EHESS) and is deputy director of OpenEdition, the French national infrastructure dedicated to open scholarly communication in the SSH. He regularly publishes on digital humanities and open science topics, and more largely the social and political impact of ICT.
  <br>  
- &nbsp;  
+  <br>  
+ &nbsp;   
 
 - **Whitney Trettien** (University of Pennsylvania)  
  {{< figure src="/images/advisoryboard/whitney-trettien.jpg" width="150px" class="fleft pright" >}}
@@ -33,7 +34,7 @@ Whitney Trettien is an Assistant Professor in the Department of English at the U
 &nbsp;  
 
 - **Demmy Verbeke** (KU Leuven Libraries Artes)  
- {{< figure src="/images/advisoryboard/Demmy.JPG" width="150px" class="fleft pright" >}} As Head of KU Leuven Libraries Artes, Demmy Verbeke is responsible for collections and services for the Arts and Humanities. As a member of the management team with primary responsibilities for research, he also contributes to the strategic development and operational management of KU Leuven Libraries as a whole. Demmy was trained as a Latinist, focusing on Renaissance humanism in the Low Countries and England, the classical tradition, and the history of the book. Ever since he became a librarian his research and teaching have centred around scholarly communication, open scholarship and digital scholarship within the humanities. He is a strong believer in non-profit and community-owned approaches to open scholarship, oversees the KU Leuven fair OA fund and serves on the editorial board of the Open Library of Humanities and the Journal of Librarianship and Scholarly Communication.
+ {{< figure src="/images/advisoryboard/demmy.JPG" width="150px" class="fleft pright" >}} As Head of KU Leuven Libraries Artes, Demmy Verbeke is responsible for collections and services for the Arts and Humanities. As a member of the management team with primary responsibilities for research, he also contributes to the strategic development and operational management of KU Leuven Libraries as a whole. Demmy was trained as a Latinist, focusing on Renaissance humanism in the Low Countries and England, the classical tradition, and the history of the book. Ever since he became a librarian his research and teaching have centred around scholarly communication, open scholarship and digital scholarship within the humanities. He is a strong believer in non-profit and community-owned approaches to open scholarship, oversees the KU Leuven fair OA fund and serves on the editorial board of the Open Library of Humanities and the Journal of Librarianship and Scholarly Communication.
  <br>  
  &nbsp;  
 
