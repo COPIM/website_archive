@@ -7,8 +7,6 @@ date: 2020-05-01
 ---
 
 ![](/images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
-*Photo by [Mike Erskine](https://unsplash.com/@mikejerskine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
-
 
 #### A COPIM community-workshop in collaboration with University of California, Santa Barbara Library, ScholarLed, and Coventry University
 
@@ -18,7 +16,7 @@ _external_: University of California, Santa Barbara, UCSB Library, AmeliCA, Univ
 
 _internal_: Coventry University, Lancaster University, Mattering Press, punctum books
 
-🔍🖺 Documentation available here:
+➡️🔍🖺 Documentation available here:
   - **[COPIM Community Governance Workshop Recap: Part 1](https://doi.org/10.21428/785a6451.6a3a2ca2)**
   - **[COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community](https://doi.org/10.21428/785a6451.dfe7dc68)**
 
@@ -50,4 +48,4 @@ This working group will identify and/or form the beginning of a governance commu
 
 ---
 
-*Photo by [Mike Erskine](https://unsplash.com/@mikejerskine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
+*Header image by [Mike Erskine](https://unsplash.com/@mikejerskine) on Unsplash.*

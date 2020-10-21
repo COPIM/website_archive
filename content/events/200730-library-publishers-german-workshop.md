@@ -7,7 +7,7 @@ date: 2020-07-30
 ---
 
 ![](/images/german-reichstag-cropped.jpg)
-*Photo by [Oh-berlin.com](https://www.flickr.com/photos/oh-berlin/7093504485) on Flickr.*
+
 
 ### Library Support for OA Books: The German perspective
 
@@ -49,3 +49,10 @@ The key objectives of the OPERAS-P project are the following:
 The outcome of this workshop will be the establishment of a working group for (a) the long-term development of a consortial library funding platform, and (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
 
 The workshop consists of a theoretical part, aiming at a better understanding of the national-specific issues surrounding collective funding for OA books from a library perspective and a practical part in which a proposed model for collaborative funding for OA books is discussed.
+
+
+
+---
+
+  
+*Header image by [Oh-berlin.com](https://www.flickr.com/photos/oh-berlin/7093504485) on Flickr.*

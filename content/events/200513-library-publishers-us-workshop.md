@@ -7,7 +7,6 @@ date: 2020-05-13
 ---
 
 ![](/images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
-*Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 ### How can libraries and publishers shape the future of Open Access books
 
@@ -19,7 +18,7 @@ _external_: University of Michigan, Michigan Publishing, Lyrasis, Middlebury Col
 
 _internal_: Open Book Publishers, Lancaster University, Mattering Press, punctum books, Coventry University, Open Library of the Humanities, Birkbeck, University of London, Open Humanities Press
 
-🔍🖺 Documentation available here: **[WP2 Workshop in Partnership with University of Michigan, MPublishing, and Lyrasis](https://doi.org/10.21428/785a6451.c6005f3a)**
+➡️🔍🖺 Documentation available here: **[WP2 Workshop in Partnership with University of Michigan, MPublishing, and Lyrasis](https://doi.org/10.21428/785a6451.c6005f3a)**
 
 ### Overview:
 
@@ -42,3 +41,9 @@ As with the other workshops, the outcome of this workshop will be the establishm
 2. What financial models might best support the integration of Open Access books into libraries?
 
 3. What governance structures and practices are required to ensure the sustainability of these efforts?
+
+
+   
+---
+
+*Header image by [Roman Kraft](https://unsplash.com/@romankraft) on Unsplash.*

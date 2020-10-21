@@ -7,7 +7,6 @@ date: 2020-08-13
 ---
 
 ![](/images/warsaw-university-library-cropped.jpg)
-*Photo by [Katarzyna Matylla](https://commons.wikimedia.org/wiki/File:BUW_001.jpg) on Wikimedia Commons, CC BY-SA 3.0*
 
 ### Library Support for OA Books: The Polish perspective
 
@@ -17,7 +16,9 @@ _external_: OPERAS-P, Jagiellonian University in Cracow, Nicolaus Copernicus Uni
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Jisc
 
-🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the Polish perspective](https://doi.org/10.21428/785a6451.5af83711)**
+
+
+➡️🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the Polish perspective](https://doi.org/10.21428/785a6451.5af83711)**
 
 ### Overview:
 
@@ -44,3 +45,8 @@ The key objectives of the OPERAS-P project are the following:
 The outcome of this workshop will be the establishment of a working group for (a) the long-term development of a consortial library funding platform, and (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
 
 The workshop consists of a theoretical part, aiming at a better understanding of the national-specific issues surrounding collective funding for OA books from a library perspective and a practical part in which a proposed model for collaborative funding for OA books is discussed.
+
+
+---
+
+*Header image by [Katarzyna Matylla](https://commons.wikimedia.org/wiki/File:BUW_001.jpg) on Wikimedia Commons, CC BY-SA 3.0*

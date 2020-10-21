@@ -5,8 +5,6 @@ weight: 205
 ---
 
 ![](/images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
-*Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
-
 
 ### How can libraries and publishers shape the future of Open Access books
 
@@ -37,3 +35,8 @@ As with the other workshops, the outcome of this workshop will be the establishm
 2. What financial models might best support the integration of Open Access books into libraries?
 
 3. What governance structures and practices are required to ensure the sustainability of these efforts?
+
+
+---
+
+*Header image by [Roman Kraft](https://unsplash.com/@romankraft) on Unsplash.*

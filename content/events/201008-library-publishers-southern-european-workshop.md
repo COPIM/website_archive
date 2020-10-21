@@ -7,17 +7,16 @@ date: 2020-10-08
 ---
 
 ![](/images/national-library-of-greece-cropped.jpg)
-*Photo by [Georgios Liakopoulos](https://www.flickr.com/photos/gliak/29638236085/) on Flickr, CC BY-SA 2.0*
 
 ### Library Support for OA Books: The Southern European perspective
 
 **Participating stakeholders:**
 
-_external_: OPERAS-P, University of Zagreb, University of Zadar, University of Ljubljana, Slovenian Academy of Science and Arts, University of Patras, National Technical University of Athens, Aristotle University of Thessaloniki, The Ionian University 
+_external_: OPERAS-P, University of Zagreb, University of Zadar, University of Ljubljana, Slovenian Academy of Science and Arts, University of Patras, National Technical University of Athens, Aristotle University of Thessaloniki, The Ionian University
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Birkbeck, University of London, Jisc
 
-🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the South European perspective](https://doi.org/10.21428/785a6451.c1cd7059)**
+➡️🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the South European perspective](https://doi.org/10.21428/785a6451.c1cd7059)**
 
 ### Overview:
 
@@ -44,3 +43,8 @@ The key objectives of the OPERAS-P project are the following:
 The outcome of this workshop will be the establishment of a working group for (a) the long-term development of a consortial library funding platform, and (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between stakeholders (e.g. librarians, publishers, and researchers).
 
 The workshop consists of a theoretical part, aiming at a better understanding of the national-specific issues surrounding collective funding for OA books from a library perspective and a practical part in which a proposed model for collaborative funding for OA books is discussed.
+
+
+---
+
+*Header image by [Georgios Liakopoulos](https://www.flickr.com/photos/gliak/29638236085/) on Flickr, CC BY-SA 2.0*

@@ -5,7 +5,6 @@ weight: 190
 ---
 
 ![](/images/da-nina-MBqwXZTfkdA-unsplash-cropped.jpg)
-*Photo by [Da Nina](https://unsplash.com/@daninasplash?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*
 
 ## Mapping, Connecting, Developing Future Book Imaginaries
 
@@ -16,7 +15,7 @@ _external_: Scalar, UMP/Manifold, thresholds, Hybrid Publishing Group, Vega, Mes
 _internal_: Mattering Press, Open Humanities Press, Open Book Publishers, punctum books, Coventry University
 
 
-🔍🖺 Documentation available here:
+➡️🔍🖺 Documentation available here:
   - **[COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing](https://doi.org/10.21428/785a6451.8265afcb)**
   - **[COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing](https://doi.org/10.21428/785a6451.a21d57b6)**
 
@@ -54,3 +53,9 @@ As part of this online half-day stakeholder workshop we want to bring together s
 - Setting up a community of practice around experimental academic publishing to bring open source technologists, platforms, and publishers together
 - Set up recommendations for publishers and authors interested in experimental publishing
 - Develop an on online how-to-guide for publishers and authors focused on opportunities for experimental publishing.
+
+
+
+---
+
+*Heder image by [Da Nina](https://unsplash.com/@daninasplash) on Unsplash.*

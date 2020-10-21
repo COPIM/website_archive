@@ -7,7 +7,6 @@ date: 2020-09-16
 ---
 
 ![](/images/books-analogue-digital-cropped.jpg)
-*Photo by [Jamais Cascio](https://www.flickr.com/photos/jamais_cascio/14285727754/) on Flickr, CC BY 2.0*
 
 ### The Technical Issues of Archiving Third-Party Material in OA Books
 
@@ -35,3 +34,9 @@ The workshop is organized around the following questions:
 
 1.	What are the challenges of archiving/preserving third-party material?
 2.	How can we overcome them?
+
+
+
+---
+
+*Header image by [Jamais Cascio](https://www.flickr.com/photos/jamais_cascio/14285727754/) on Flickr, CC BY 2.0*
