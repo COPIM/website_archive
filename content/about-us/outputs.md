@@ -5,7 +5,18 @@ weight: 20
 
 ![](/images/harald-arlander-WZ6gITnjqaQ-unsplash-cropped.jpg)
 
-### Milestones & Deliverables
+### Deliverables
+
+| Work Package | Type | Publication |
+| -------- | -------- | -------- |
+| WP2     | D2.1 Scoping Report     | tbc     |
+| WP2     | D2.2 report on US workshop     | Gerakopoulou, Elli, & Rudmann, Dan (2020). WP2 Workshop in Partnership with University of Michigan, MPublishing, and Lyrasis. COPIM. https://doi.org/10.21428/785a6451.c6005f3a     |
+| WP2     | D2.2 report on UK workshop     | Deville, Joe (2020). Sketching a direction of travel: An update from Work Package 2. COPIM. Retrieved from https://copim.pubpub.org/pub/sketching-a-direction-of-travel-an-update-from-wp-2     |
+| WP3     | D3.1 Scoping Report     | Penier, Izabella, Eve, Martin Paul, & Grady, Tom. (2020, September 7). COPIM – Revenue Models for Open Access Monographs 2020 (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.4011836     |
+| WP5     | D5.1 Scoping Report     | D5.1 Scoping Report: Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020, July 27). WP5 Scoping Report: Building an Open Dissemination System (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3961564     |
+| WP6     | D6.1 Scoping Report     | tbc    |
+
+### Milestones
 
 #### WP2
 
