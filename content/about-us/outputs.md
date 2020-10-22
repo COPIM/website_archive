@@ -25,10 +25,10 @@ weight: 20
 | -------- | -------- | -------- |
 | WP2     | M2.1 COPIM Libraries & Publishers UK Workshop     | *see D2.2*     |
 | WP2     | M2.1 COPIM Libraries & Publishers US Workshop     | *see D2.2*     |
-| WP3     | M3.1 M3.1 Revenue Models workshop     | report available:
-  -  Eve, Martin Paul (2020). COPIM Publishers Workshop: Cost and Revenue Models. COPIM. https://doi.org/10.21428/785a6451.c77576a6 |
+| WP3     | M3.1 Revenue Models workshop     | report available: Eve, Martin Paul (2020). COPIM Publishers Workshop: Cost and Revenue Models. COPIM. https://doi.org/10.21428/785a6451.c77576a6 |
 | WP4     | M4.1 Community Governance Workshop     | Two-part report available: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. COPIM. https://doi.org/10.21428/785a6451.6a3a2ca2 & Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. COPIM. https://doi.org/10.21428/785a6451.dfe7dc68   |
-
+| WP6     | M6.1 Experimental Publishing workshop     | Two-part report available: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. COPIM. https://doi.org/10.21428/785a6451.8265afcb & Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing . COPIM. https://doi.org/10.21428/785a6451.a21d57b6 |
+| WP7     | M7.1 Scoping workshop     | "The Technical Issues of Archiving Third-Party Material in OA Books" |
 
 
 
@@ -39,60 +39,6 @@ weight: 20
    - Morka, Agata (2020). Library Support for OA Books Workshop: the Polish perspective. COPIM. https://doi.org/10.21428/785a6451.5af83711
    - Morka, Agata (2020). Library Support for OA Books Workshop: the Scandinavian perspective. COPIM. https://doi.org/10.21428/785a6451.ebae812c
    - Morka, Agata (2020). Library Support for OA Books Workshop: the Southern European perspective. COPIM. https://doi.org/10.21428/785a6451.c1cd7059
-
-
-
-
-#### WP4
-
-**Milestones:**
-
-- M4.1 Community Governance Workshop, May 2020. Two-part report available:
-  - Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. COPIM. https://doi.org/10.21428/785a6451.6a3a2ca2
-  - Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. COPIM. https://doi.org/10.21428/785a6451.dfe7dc68
-
-  **Deliverables:**
-
-- D4.1 Scoping Report: Penier, Izabella, Eve, Martin Paul, & Grady, Tom. (2020, September 7). COPIM – Revenue Models for Open Access Monographs 2020 (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.4011836
-
-#### WP5
-
-**Milestones:**
-
-- M5.1 Stakeholder workshop
-
-**Deliverables:**
-
-- D5.1 Scoping Report: Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020, July 27). WP5 Scoping Report: Building an Open Dissemination System (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3961564
-
-#### WP6
-
-**Milestones:**
-
-- M6.1 Experimental Publishing Workshop, July 2020. Two-part report available:
-  - Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. COPIM. https://doi.org/10.21428/785a6451.8265afcb
-  - Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing . COPIM. https://doi.org/10.21428/785a6451.a21d57b6
-
-**Deliverables:**
-
-- D6.1 Scoping Report Scoping on experimental book publishing software/platforms and integration with the infrastructure  
-
-
-#### WP7
-
-**Milestones:**
-
-- M7.1 Scoping workshop "The Technical Issues of Archiving Third-Party Material in OA Books"
-
-**Deliverables:**
-
-- D7.1 Scoping Report: Report on use cases and technical specification  
-
-
-
-
-
-
 
 
 
