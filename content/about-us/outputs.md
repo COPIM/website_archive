@@ -23,8 +23,7 @@ weight: 80
 
 | Work Package | Type | Publication |
 | -------- | -------- | -------- |
-| WP2     | M2.1 COPIM Libraries & Publishers UK Workshop     | *see D2.2*     |
-| WP2     | M2.1 COPIM Libraries & Publishers US Workshop     | *see D2.2*     |
+| WP2     | M2.1 COPIM Libraries & Publishers UK & US Workshops     | *see D2.2*     |
 | WP3     | M3.1 Revenue Models workshop     | report available: Eve, Martin Paul (2020). COPIM Publishers Workshop: Cost and Revenue Models. COPIM. https://doi.org/10.21428/785a6451.c77576a6 |
 | WP4     | M4.1 Community Governance Workshop     | Two-part report available: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. COPIM. https://doi.org/10.21428/785a6451.6a3a2ca2 & Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. COPIM. https://doi.org/10.21428/785a6451.dfe7dc68   |
 | WP6     | M6.1 Experimental Publishing workshop     | Two-part report available: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. COPIM. https://doi.org/10.21428/785a6451.8265afcb & Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing . COPIM. https://doi.org/10.21428/785a6451.a21d57b6 |
