@@ -16,7 +16,7 @@ _external_: Archaeology Data Service, Cambridge University Library, Educopia, In
 
 _internal_: Loughborough University, Open Book Publishers, the British Library, DPC, Jisc
 
-🔍🖺 Documentation available soon ...
+➡️🔍🖺 Documentation available here: **[COPIM Archiving and Preservation Workshop, September 2020](https://doi.org/10.21428/785a6451.0e666456)**
 
 ### Overview:
 

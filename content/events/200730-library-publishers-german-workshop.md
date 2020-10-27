@@ -17,7 +17,7 @@ _external_: OPERAS-P, open.access-network, Niedersächsische Staats- und Univers
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Jisc
 
-🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the German perspective](https://doi.org/10.21428/785a6451.91ef1b29)**
+➡️🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the German perspective](https://doi.org/10.21428/785a6451.91ef1b29)**
 
 ### Overview:
 
@@ -54,5 +54,5 @@ The workshop consists of a theoretical part, aiming at a better understanding of
 
 ---
 
-  
+
 *Header image by [Oh-berlin.com](https://www.flickr.com/photos/oh-berlin/7093504485) on Flickr.*

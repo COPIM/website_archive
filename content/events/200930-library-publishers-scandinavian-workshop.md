@@ -16,7 +16,7 @@ _external_: OPERAS-P, Danish Royal Library, Stockholm University Library, Univer
 
 _internal_: Open Book Publishers, Coventry University, Lancaster University, Birkbeck, University of London, Jisc
 
-🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the Scandinavian perspective](https://doi.org/10.21428/785a6451.ebae812c)**
+➡️🔍🖺 Documentation available here: **[Library Support for OA Books Workshop: the Scandinavian perspective](https://doi.org/10.21428/785a6451.ebae812c)**
 
 ### Overview:
 
