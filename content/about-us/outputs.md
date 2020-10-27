@@ -11,11 +11,11 @@ weight: 80
 | -------- | -------- | -------- |
 | WP2     | M2.1 COPIM Libraries & Publishers UK & US Workshops     | *see D2.2*     |
 | WP3     | M3.1 Revenue Models workshop     | Report: Eve, Martin Paul (2020). COPIM Publishers Workshop: Cost and Revenue Models. COPIM. https://doi.org/10.21428/785a6451.c77576a6 |
-| WP4     | M4.1 Community Governance Workshop     | Report: part 1: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. COPIM. https://doi.org/10.21428/785a6451.6a3a2ca2   |
-| WP4     | M4.1 Community Governance Workshop     | Report, part 2: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. COPIM. https://doi.org/10.21428/785a6451.dfe7dc68   |
-| WP6     | M6.1 Experimental Publishing workshop     | Report - part 1: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. COPIM. https://doi.org/10.21428/785a6451.8265afcb  |
-| WP6     | M6.1 Experimental Publishing workshop     | Report - part 2: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing . COPIM. https://doi.org/10.21428/785a6451.a21d57b6 |
-| WP7     | M7.1 Scoping workshop     | "The Technical Issues of Archiving Third-Party Material in OA Books" |
+| WP4     | M4.1 Community Governance Workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. COPIM. https://doi.org/10.21428/785a6451.6a3a2ca2   |
+| WP4     | M4.1 Community Governance Workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. COPIM. https://doi.org/10.21428/785a6451.dfe7dc68   |
+| WP6     | M6.1 Experimental Publishing workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. COPIM. https://doi.org/10.21428/785a6451.8265afcb  |
+| WP6     | M6.1 Experimental Publishing workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing . COPIM. https://doi.org/10.21428/785a6451.a21d57b6 |
+| WP7     | M7.1 Scoping workshop     |   Report: Bell, Emily. “COPIM Archiving and Preservation Workshop, September 2020.” COPIM, Oct. 2020, https://doi.org/10.21428/785a6451.0e666456 |
 
 
 #### Deliverables
