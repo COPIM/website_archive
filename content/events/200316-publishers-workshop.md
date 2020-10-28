@@ -35,6 +35,13 @@ This was the first workshop organised by COPIM, and as such it was very much par
 
 
 
+  &nbsp;
+
+
 ---
+
+
+  &nbsp;
+
 
 *Header image by [Omar Flores](https://unsplash.com/@omarg247?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.*

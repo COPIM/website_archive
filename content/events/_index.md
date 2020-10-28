@@ -10,6 +10,12 @@ As an integral element of its seven [work packages](https://www.copim.ac.uk/work
 
 
 
+  &nbsp;
+
+
 ---
 
-*Image by [Rudy and Peter Skitterians](https://pixabay.com/users/Skitterphoto-324082/) from [Pixabay](https://pixabay.com/).*
+
+  &nbsp;
+
+*Header image by [Rudy and Peter Skitterians](https://pixabay.com/users/Skitterphoto-324082/) from [Pixabay](https://pixabay.com/).*
