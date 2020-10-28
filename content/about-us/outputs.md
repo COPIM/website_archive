@@ -18,7 +18,9 @@ weight: 80
 | WP7     | M7.1 Scoping workshop     |   Report: Bell, Emily. COPIM Archiving and Preservation Workshop, September 2020. Oct. 2020, https://doi.org/10.21428/785a6451.0e666456 |
 
 
-      &nbsp;  
+&nbsp;  
+
+    
 
 #### Deliverables
 
