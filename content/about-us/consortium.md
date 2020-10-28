@@ -6,7 +6,7 @@ weight: 30
 
 
    &nbsp;  
-   
+
 
 ---
 
@@ -34,9 +34,10 @@ COPIM is an international partnership comprising
     Coalition.
 
 
+      &nbsp;  
+
 ### COPIM: Overview
 
-<font size="1">
 
 | **Consortium** | **Partners** |
 | --------------| --------------|
@@ -51,14 +52,20 @@ COPIM is an international partnership comprising
 | [The Directory of Open Access Books](https://mailchi.mp/oapen.org/doab-copim-press-release) |
 |[ Jisc ](https://scholarlycommunications.jiscinvolve.org/wp/2020/05/06/open-access-monographs-supporting-bibliodiversity/)  |
 
-</font>
+
+
+  &nbsp;  
 
 ### Collaborations
 
 Thanks to funding from [OPERAS-P](https://operas.hypotheses.org/operas-p), a European Coordinator for Open Access Book Publishing works jointly between OPERAS-P and COPIM, based at Open Book Publishers. The European Coordinator is working to facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project.
 
 
+  &nbsp;
 
 ----
+
+
+  &nbsp;
 
 --- Header image: The COPIM partner consortium. (_[high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)_)

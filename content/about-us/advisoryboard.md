@@ -7,7 +7,7 @@ weight: 60
 
 
   &nbsp;  
-   
+
 
 - **Dominique Babini** (CLACSO/Redalyc)
  {{< figure src="/images/advisoryboard/dominique-babini-2014.jpg" width="150px" class="fleft pright" >}} Dominique Babini is from Argentina. Open access and open science advisor, and previously repository developer and manager, at the Latin American Council of Social Sciences (CLACSO), a network of 736 research institutions in 52 countries, where she coordinates CLACSO´s  Open Access International Campaign.  Represents CLACSO at REDALYC-CLACSO open access collection of 985 iberoamerican social sciences and humanities journals and at the Executive Board of AmeliCA-Open Knowledge.  Member of the Experts Committee of the National System of Digital Repositories in Argentina. Member of UNESCO Open Science Partnership, International Science Council (ISC) Scoping Group on the Future of Scientific Publishing, Publi.ca (Canada) and University of Buenos Aires-IIGG.  Dominique holds a doctorate in political science and a postgraduate degree in information science.  https://orcid.org/0000-0002-5752-7060
@@ -45,8 +45,15 @@ Whitney Trettien is an Assistant Professor in the Department of English at the U
 - **Sofie Wennström** (Stockholm University Library)  
 {{< figure src="/images/advisoryboard/sofie-wennstrom-profile-img-web.jpg" width="150px" class="fleft pright" >}} Sofie Wennström is one of the Managing Editors of [Stockholm University Press](https://www.stockholmuniversitypress.se/), an Open Access publisher hosted at the [Stockholm University Library](https://www.su.se/english/library/). Sofie is working with both books and journals projects as well as giving general publishing advice to PhD students and Researchers at Stockholm University. She has a background in the international publishing business, where she worked for more than ten years with journal projects mainly in the Nordic countries but also on a global scale. Her academic background is in Education, with a focus on digital pedagogy, scholarly communication and information literacy. She wrote her Master’s thesis about publishing as a learning environment for PhD students and how it might be possible to map the development of learning communities with the help of altmetrics. As a dedicated Open Access advocate, Sofie is also engaged in the LIBER community for European research libraries, where she chairs the [Working Group on Open Access](https://libereurope.eu/strategy/innovative-scholarly-communication/openaccess/). During 2021 she is involved in a project with the National Library of Sweden, where they are about to build a [national platform for scholarly open access journals](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2020-04-30-swedish-open-access-journals-on-joint-platform.html). See the full list of publications and projects on [Sofie’s ORCiD profile](https://orcid.org/0000-0003-1229-7019).
 <br>  
+
+
+
 &nbsp;  
 
 ---
 
----  Header image by [Ed Robertson](https://unsplash.com/photos/FDzRG30DeVM) on Unsplash
+
+  &nbsp;
+
+
+---  _Header image by [Ed Robertson](https://unsplash.com/photos/FDzRG30DeVM) on Unsplash_  

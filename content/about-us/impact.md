@@ -13,7 +13,10 @@ COPIM will benefit the general public and the economy by maximising the dissemin
 
   &nbsp;  
 
-  
+
 ---
 
+
+  &nbsp;
+  
 *Photo by [Jordan McDonald](https://unsplash.com/photos/vkx0kgKx9VA) on Unsplash*

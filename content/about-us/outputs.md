@@ -18,6 +18,8 @@ weight: 80
 | WP7     | M7.1 Scoping workshop     |   Report: Bell, Emily. COPIM Archiving and Preservation Workshop, September 2020. Oct. 2020, https://doi.org/10.21428/785a6451.0e666456 |
 
 
+      &nbsp;  
+
 #### Deliverables
 
 | Work Package | Type | Publication |
@@ -30,6 +32,8 @@ weight: 80
 | WP5     | D5.1 Scoping Report     | Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020, July 27). WP5 Scoping Report: Building an Open Dissemination System (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.3961564     |
 | WP6     | D6.1 Scoping Report     | tbc    |
 | WP7     | D7.1 Scoping Report     | tbc    |
+
+     &nbsp;  
 
 
 
@@ -53,6 +57,8 @@ weight: 80
 
 ---
 
+
+  &nbsp; 
 
 
 --- *Header image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqaQ) on Unsplash*

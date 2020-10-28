@@ -36,3 +36,7 @@ Graham Stone (Jisc)
 Alessandra Tosi (Open Book Publishers, ScholarLed)   
 Dominic Walker (British Library)   
 Paul Wheatley (Digital Preservation Coalition)     
+
+
+  &nbsp;
+  
