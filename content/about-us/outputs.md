@@ -33,7 +33,9 @@ weight: 80
 | WP6     | D6.1 Scoping Report     | tbc    |
 | WP7     | D7.1 Scoping Report     | tbc    |
 
-     &nbsp;  
+
+
+&nbsp;  
 
 
 
@@ -48,20 +50,15 @@ weight: 80
 
 
 
+&nbsp;  
 
-
-
-
-
-
-     &nbsp;
 
 
 
 ---
 
 
-  &nbsp;
+&nbsp;  
 
 
 --- *Header image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqaQ) on Unsplash*
