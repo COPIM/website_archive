@@ -11,7 +11,9 @@ COPIM is a major strategic international partnership, which brings together the 
 COPIM will benefit the general public and the economy by maximising the dissemination and impact of research. The adoption of COPIM’s infrastructures, business models, preservation structures, and governance procedures will enable economic sustainability and enhanced capacities for open access book publishing at different scales. It will offer Higher Education institutions and Arts, Humanities and Social Sciences researchers sustainable publishing models they control, increased publishing options, and cost-reductions to build a more horizontal and co-operative knowledge-sharing community.
 
 
+  &nbsp;  
 
+  
 ---
 
 *Photo by [Jordan McDonald](https://unsplash.com/photos/vkx0kgKx9VA) on Unsplash*

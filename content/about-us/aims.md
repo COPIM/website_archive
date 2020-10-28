@@ -29,6 +29,11 @@ We are therefore building a significantly enriched, not-for-profit and open sour
   * enable COPIM's technical, organisational, financial and relational innovations to scale both horizontally (to other presses) and vertically (to other partners, including universities, libraries, and funders) and
   * inform and support (future) funder requirements for open access books.  
 
+
+   &nbsp;
+
+   
+
 > "COPIM is an exciting opportunity to push for open infrastructures, for community-led governance, and for the realignment of relations between not-for-profit institutions in the realm of monograph publishing. It will support the sustainable publication of open access books, delivering major improvements and innovations in the infrastructures, systems, and workflows being used by open access book publishers and by those publishers making a transition to open access books."
 
 --- **Janneke Adema**, Coventry University & Open Humanities Press  

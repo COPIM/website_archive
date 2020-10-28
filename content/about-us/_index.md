@@ -17,4 +17,9 @@ COPIM is working towards a more diverse, open, and democratically equitable futu
 
 ➡️➡️🔍 **Read more about our most recent work on our [Open Documentation Site](https://copim.pubpub.org/)**
 
+
+  &nbsp;
+
+  
+
 ![](/images/copim-team-jan2020.jpg)

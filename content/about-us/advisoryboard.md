@@ -5,6 +5,10 @@ weight: 60
 
 ![](/images/ed-robertson-FDzRG30DeVM-unsplash-cropped.jpg)
 
+
+  &nbsp;  
+   
+
 - **Dominique Babini** (CLACSO/Redalyc)
  {{< figure src="/images/advisoryboard/dominique-babini-2014.jpg" width="150px" class="fleft pright" >}} Dominique Babini is from Argentina. Open access and open science advisor, and previously repository developer and manager, at the Latin American Council of Social Sciences (CLACSO), a network of 736 research institutions in 52 countries, where she coordinates CLACSO´s  Open Access International Campaign.  Represents CLACSO at REDALYC-CLACSO open access collection of 985 iberoamerican social sciences and humanities journals and at the Executive Board of AmeliCA-Open Knowledge.  Member of the Experts Committee of the National System of Digital Repositories in Argentina. Member of UNESCO Open Science Partnership, International Science Council (ISC) Scoping Group on the Future of Scientific Publishing, Publi.ca (Canada) and University of Buenos Aires-IIGG.  Dominique holds a doctorate in political science and a postgraduate degree in information science.  https://orcid.org/0000-0002-5752-7060
  <br>  
