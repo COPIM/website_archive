@@ -2,7 +2,7 @@
 title: "Work Packages"
 ---
 ![](/images/laura-ockel-UQ2Fw_9oApU-unsplash-cropped.jpg)
-*Photo by Laura Ockel on Unsplash*
+
 
 As part of seven connected WPs, COPIM is working on
 
@@ -15,3 +15,11 @@ As part of seven connected WPs, COPIM is working on
 7) the re-use of and experimentation with OA books;
 8) the effective and robust archiving of OA content; and
 9) knowledge transfer to stakeholders through various pilots.
+
+&nbsp;  
+
+---
+
+&nbsp;
+
+*--- Header image by Laura Ockel on Unsplash*
