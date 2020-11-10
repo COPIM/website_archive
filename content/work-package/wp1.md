@@ -1,11 +1,11 @@
 ---
-title: "WP1: Project Management"
+title: "WP1: Project Management & Outreach"
 weight: 10
 ---
 
 ### Team
 
-Gary Hall (Coventry University), Janneke Adema (Coventry University), Tobias Steiner (Coventry University), Marcell Mars (Coventry University)
+Gary Hall (Coventry University), Janneke Adema (Coventry University), Dan Rudmann (punctum), Lucy Barnes (Open Book Publishers), Tobias Steiner (Coventry University), Marcell Mars (Coventry University)
 
 ### Tasks
 
