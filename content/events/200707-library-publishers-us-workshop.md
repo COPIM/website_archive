@@ -14,7 +14,7 @@ date: 2020-07-07
 
 _external_: University of Redlands, Denver University, University of Texas Austin & the University of Texas System Digital Library, University of Rhode Island, Virginia Tech University, Emory University, North Carolina State University, George Washington University, University of Pennsylvania, Temple University (plus other institutional representatives who have chosen to remain anonymous in project outputs)
 
-_internal_: Lancaster University, Mattering Press, Trinity College, University of Cambridge, Open Book Publishers, punctum books, Coventry University, Jisc
+_internal_: Lancaster University, Mattering Press, Trinity College, University of Cambridge, University of California Santa Barbara, Open Book Publishers, punctum books, Coventry University, Jisc
 
 
 ### Overview:
