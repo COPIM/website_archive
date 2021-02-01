@@ -9,9 +9,9 @@ weight: 40
 Janneke Adema ([WP1](https://www.copim.ac.uk/work-package/wp1/), [WP4](https://www.copim.ac.uk/work-package/wp4/), [WP6](https://www.copim.ac.uk/work-package/wp6/), Open Humanities Press, ScholarLed, Coventry University)  
 Kristin Antelman (UCSB Library)  
 Javier Arias (Open Book Publishers, ScholarLed)  
-Lucy Barnes (Open Book Publishers, ScholarLed)  
+Lucy Barnes (Open Book Publishers, ScholarLed)
+Lidia Uziel ([WP4](https://www.copim.ac.uk/work-package/wp4/), UCSB Library)      
 Sherri Barnes ([WP4](https://www.copim.ac.uk/work-package/wp4/), UCSB Library)  
-Lidia Uziel ([WP4](https://www.copim.ac.uk/work-package/wp4/), UCSB Library)    
 Emily Bell ([WP7](https://www.copim.ac.uk/work-package/wp7/), Loughborough University)  
 Gareth Cole ([WP7](https://www.copim.ac.uk/work-package/wp7/), Loughborough University Library)  
 Joe Deville ([WP2](https://www.copim.ac.uk/work-package/wp2/), Mattering Press, ScholarLed, Lancaster University)   
