@@ -9,9 +9,14 @@ weight: 20
 
 ### Team
 
-Joe Deville (Lancaster University), Eileen Joy (punctum books), Dan Rudmann (punctum books), Izabella Penier (Lancaster University), Elli Gerakopoulou (Lancaster University, until Aug 2020), Agata Morka (Open Book Publishers / OPERAS-P)
+Joe Deville (Lancaster University), Eileen Joy (punctum books), Dan Rudmann (punctum books), Izabella Penier (Lancaster University), Elli Gerakopoulou (Lancaster University, until Aug 2020), Agata Morka (Open Book Publishers / OPERAS-P)  
 
 > WP2 will develop and launch a modular, scale-able revenue generation and management platform for open access books, to be made available to publishers and libraries. It will be scoped and built by a team of publishers, knowledge managers, and librarians working in partnership to develop new funding channels for open access books. The platform will emphasise open source software, community-owned and led open access, and will enable a broad range of economic supports for a variety of open access book outputs. WP2 will create the technical infrastructures, organisational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term. The platform will be tested via a specific pilot case centering upon ScholarLed, which looks at how revenue can be generated and managed for this select group of presses to model a community-owned open access that is economically sustainable, allows for diverse business models, and aligns with the values of both the Humanities and Social Sciences and of Higher Education Institutes. The revenue platform will be designed with flexible modularity, portability, and customisability as its chief features, ensuring that both emerging, smaller-scale and established, larger-scale publishers seeking to transition to open access (a pilot to be tested in WP3) and in need of durable, flexible business models for doing so, can benefit from it. 
+
+### Blog posts & project output
+
+* See COPIM's **[Open Documentation Site: WP2](https://copim.pubpub.org/work-package-2)** for an overview of blog posts, announcements, etc.
+* in addition to that, visit our **[Outputs](https://www.copim.ac.uk/about-us/outputs/) section** for deliverables and milestones reached by the Work Package.  
 
 ### Key deliverables and impacts
 

@@ -32,6 +32,7 @@ Vincent W. J. van Gerven Oei (punctum books, ScholarLed)
 Izabella Penier (Lancaster University)  
 Dan Rudmann ([WP2](https://www.copim.ac.uk/work-package/wp2/) & Outreach; punctum books, ScholarLed)  
 Ronald Snijder (OAPEN)  
+Niels Stern (OAPEN)  
 Tobias Steiner ([WP1](https://www.copim.ac.uk/work-package/wp1/) & Outreach; Coventry University)  
 Graham Stone (Jisc)  
 Alessandra Tosi (Open Book Publishers, ScholarLed)   
