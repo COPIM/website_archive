@@ -42,13 +42,15 @@ weight: 80
 
 
 
-**COPIM - OPERAS-P Liaison**
+## COPIM - OPERAS-P Liaison
 
 * Workshop reports on events with European library stakeholders
    - Morka, Agata (2020). Library Support for OA Books Workshop: the German perspective. https://doi.org/10.21428/785a6451.91ef1b29
    - Morka, Agata (2020). Library Support for OA Books Workshop: the Polish perspective. https://doi.org/10.21428/785a6451.5af83711
    - Morka, Agata (2020). Library Support for OA Books Workshop: the Scandinavian perspective. https://doi.org/10.21428/785a6451.ebae812c
-   - Morka, Agata (2020). Library Support for OA Books Workshop: the Southern European perspective. https://doi.org/10.21428/785a6451.c1cd7059
+   - Morka, Agata (2020). Library Support for OA Books Workshop: the Southern European perspective. https://doi.org/10.21428/785a6451.c1cd7059   
+* Joint OPERAS-P & COPIM report
+   - Morka, Agata, & Gatti, Rupert. (2021, January 31). Academic Libraries and Open Access Books in Europe. A Landscape Study. Zenodo. https://doi.org/10.5281/zenodo.4483773 and PubPub book https://doi.org/10.21428/785a6451.f710a335
 
 
 
