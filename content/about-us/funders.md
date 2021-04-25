@@ -1,6 +1,8 @@
 ---
 title: "Funders"
 weight: 50
+date: "2019-11-01"
+lastmod: "2021-03-30"
 ---
 ![](/images/UKRI_RE-Logo_Horiz-RGB.png)
 

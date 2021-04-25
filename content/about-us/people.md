@@ -1,6 +1,8 @@
 ---
 title: "People"
 weight: 40
+date: "2019-11-01"
+lastmod: "2021-04-05"
 ---
 ![](/images/copim-teamphoto-jan2020.jpg)
 

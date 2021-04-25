@@ -1,6 +1,8 @@
 ---
 title: "WP5: Building an Open Dissemination System"
 weight: 50
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Contact

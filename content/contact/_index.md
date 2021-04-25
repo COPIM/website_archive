@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+date: "2019-11-01"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/pavan-trikutam-71CjSSB83Wo-unsplash-cropped.jpg)

@@ -1,6 +1,8 @@
 ---
 title: "Outputs"
 weight: 80
+date: "2019-11-01"
+lastmod: "2021-04-15"
 ---
 
 ![](/images/harald-arlander-WZ6gITnjqaQ-unsplash-cropped.jpg)

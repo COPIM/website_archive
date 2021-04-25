@@ -1,6 +1,8 @@
 ---
 title: "WP2: Revenue Infrastructures and Management Platform"
 weight: 20
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Contact:

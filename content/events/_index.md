@@ -1,5 +1,7 @@
 ---
 title: "Workshops & Events"
+date: "2020-09-15"
+lastmod: "2021-01-31"
 ---
 
 ![](https://www.copim.ac.uk/images/brushes-3129361-cropped.jpg)

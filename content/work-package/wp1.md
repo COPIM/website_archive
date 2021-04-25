@@ -1,6 +1,8 @@
 ---
 title: "WP1: Project Management & Outreach"
 weight: 10
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Team

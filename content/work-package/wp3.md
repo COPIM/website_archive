@@ -1,6 +1,8 @@
 ---
 title: "WP3: Knowledge Exchange and Piloting Alternative Business Models"
 weight: 30
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Contact

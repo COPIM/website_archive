@@ -1,6 +1,8 @@
 ---
 title: "WP7: Archiving and Digital Preservation"
 weight: 70
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Contact

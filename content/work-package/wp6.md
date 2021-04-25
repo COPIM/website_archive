@@ -1,6 +1,8 @@
 ---
 title: "WP6: Experimental Publishing, Re-use, and Impact"
 weight: 60
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Contact

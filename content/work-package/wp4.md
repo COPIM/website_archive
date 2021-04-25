@@ -1,6 +1,8 @@
 ---
 title: "WP4: Community Governance"
 weight: 40
+date: "2020-01-01"
+lastmod: "2021-01-31"
 ---
 
 ### Contact

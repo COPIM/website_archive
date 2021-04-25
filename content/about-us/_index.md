@@ -1,6 +1,8 @@
 ---
 title: "Home‎"
 weight: 20
+date: "2019-11-01"
+lastmod: "2021-03-30"
 ---
 
 ![](/images/copim-header_lefted-slim.png)
@@ -20,6 +22,6 @@ COPIM is working towards a more diverse, open, and democratically equitable futu
 
   &nbsp;
 
-  
+
 
 ![](/images/copim-team-jan2020.jpg)

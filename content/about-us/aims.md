@@ -1,6 +1,8 @@
 ---
 title: "Aims"
 weight: 20
+date: "2019-11-01"
+lastmod: "2021-01-31"
 ---
 
 
