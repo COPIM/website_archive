@@ -1,7 +1,8 @@
 ---
 title: "COPIM Experimental Publishing Workshop, July 01, 2020"
-
 weight: 190
+date: "2020-07-01"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/da-nina-MBqwXZTfkdA-unsplash-cropped.jpg)

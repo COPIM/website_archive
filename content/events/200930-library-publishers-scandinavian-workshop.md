@@ -1,9 +1,8 @@
 ---
 title: "Joint COPIM and OPERAS-P Scandinavia workshop, September 30, 2020"
-
 weight: 160
-
-date: 2020-09-30
+date: "2020-09-30"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/helsinki-central-library-cropped.jpg)

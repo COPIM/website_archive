@@ -1,9 +1,8 @@
 ---
 title: "Joint COPIM and OPERAS-P Poland workshop, August 13, 2020"
-
 weight: 165
-
-date: 2020-08-13
+date: "2020-08-13"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/warsaw-university-library-cropped.jpg)

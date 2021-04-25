@@ -1,9 +1,8 @@
 ---
 title: "Joint COPIM and DPC workshop, 16 September, 2020"
-
 weight: 162
-
-date: 2020-09-16
+date: "2020-09-16"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/books-analogue-digital-cropped.jpg)

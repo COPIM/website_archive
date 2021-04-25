@@ -1,9 +1,8 @@
 ---
 title: "Joint COPIM, open-access.network and OPERAS-P workshop, July 30, 2020"
-
 weight: 170
-
-date: 2020-07-30
+date: "2020-07-30"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/german-reichstag-cropped.jpg)

@@ -1,9 +1,8 @@
 ---
 title: "COPIM Libraries & Publishers US Workshop, May 13, 2020"
-
 weight: 220
-
-date: 2020-05-13
+date: "2020-05-13"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)
@@ -43,7 +42,7 @@ As with the other workshops, the outcome of this workshop will be the establishm
 3. What governance structures and practices are required to ensure the sustainability of these efforts?
 
 
-   
+
 ---
 
 *Header image by [Roman Kraft](https://unsplash.com/@romankraft) on Unsplash.*

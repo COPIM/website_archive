@@ -1,9 +1,8 @@
 ---
 title: "Joint COPIM and OPERAS-P Southern Europe workshop, October 08, 2020"
-
 weight: 155
-
-date: 2020-10-08
+date: "2020-10-08"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/national-library-of-greece-cropped.jpg)

@@ -1,9 +1,8 @@
 ---
 title: "COPIM Libraries & Publishers US Workshop, July 07, 2020"
-
+lastmod: "2021-01-31"
 weight: 180
-
-date: 2020-07-07
+date: "2020-07-07"
 ---
 
 ![](/images/roman-kraft-X1exjxxBho4-unsplash-cropped.jpg)

@@ -1,9 +1,8 @@
 ---
 title: "COPIM Community Governance Workshop, May 01, 2020"
-
 weight: 235
-
-date: 2020-05-01
+date: "2020-05-01"
+lastmod: "2021-01-31"
 ---
 
 ![](/images/mike-erskine-Xtnt5xtK03E-unsplash-cropped.jpg)
