@@ -34,8 +34,7 @@ lastmod: "2021-04-15"
 | WP2     | D2.3 Design Specs     | tbc
 | WP3     | D3.1 Scoping Report     | Penier, Izabella, Eve, Martin Paul, & Grady, Tom. (2020, September 7). COPIM – Revenue Models for Open Access Monographs 2020 (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.4011836     |
 | WP4     | D4.1 Scoping Report     | Moore, Samuel. (2021, May 6). Exploring models for community governance (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.4730687   |
-| WP5     | D5.1 Scoping Report     | Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020, July 27). WP5 Scoping Report: Building an Open Dissemination System (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.3961564   
-Stone, G., Gatti, R., van Gerven Oei, V. W. J., Arias, J., Steiner, T., & Ferwerda, E. (2021). WP5 Scoping Report: Building an Open Dissemination System (Version 1.1). COPIM. https://doi.org/10.21428/785a6451.939caeab  |
+| WP5     | D5.1 Scoping Report     | Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020, July 27). WP5 Scoping Report: Building an Open Dissemination System (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.3961564    Stone, G., Gatti, R., van Gerven Oei, V. W. J., Arias, J., Steiner, T., & Ferwerda, E. (2021). WP5 Scoping Report: Building an Open Dissemination System (Version 1.1). COPIM. https://doi.org/10.21428/785a6451.939caeab  |
 | WP6     | D6.1 Scoping Report     | Adema, Janneke, Mars, Marcell, & Steiner, Tobias. (2021, January 29). Books Contain Multitudes: Exploring Experimental Publishing (Version 1.1). Zenodo. http://doi.org/10.5281/zenodo.4486645   |
 | WP7     | D7.1 Scoping Report     | tbc    |
 
