@@ -1,8 +1,8 @@
 ---
 title: "Advisory Board"
-weight: 60
+weight: 10
 date: "2019-11-01"
-lastmod: "2021-01-31"
+lastmod: "2021-05-14"
 ---
 
 ![](/images/ed-robertson-FDzRG30DeVM-unsplash-cropped.jpg)
