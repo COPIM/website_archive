@@ -27,21 +27,21 @@ url = "about-us"
 weight = 1
 
 [[menu.main]]
+name = "Governance"
+url = "governance"
+weight = 2
+
+[[menu.main]]
 name = "Work Packages"
 url = "work-package"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Workshops"
 url = "events"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Open Documentation Site"
 url = "https://copim.pubpub.org/"
-weight = 4
-
-[[menu.main]]
-name = "contact"
-url = "contact"
 weight = 5
