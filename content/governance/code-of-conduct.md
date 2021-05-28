@@ -13,10 +13,17 @@ lastmod: "2021-05-14"
 
 The **Code of Conduct committee** currently consists of the following members:
 
-Judith Fathallah, Tim Elfenbein, Jenny Fry, Joe Deville, Janneke Adema
+Judith Fathallah, Tim Elfenbein (Chair), Jenny Fry, Joe Deville, Janneke Adema
 
-contact: [conduct@copim.ac.uk](mailto:conduct@copim.ac.uk)
+**General contact: [conduct@copim.ac.uk](mailto:conduct@copim.ac.uk)**
 
+Individual contacts:  
+
+* j.fathallah(-at-)lancaster.ac.uk  
+* Tim_Elfenbein(-at-)forthcoming.work  
+* J.Fry(-at-)lboro.ac.uk  
+* j.deville(-at-)lancaster.ac.uk  
+* ab5796(-at-)coventry.ac.uk
 
 &nbsp;  
 
