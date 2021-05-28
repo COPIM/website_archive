@@ -23,9 +23,11 @@ Individual contacts:
 * Tim_Elfenbein(-at-)forthcoming.work  
 * J.Fry(-at-)lboro.ac.uk  
 * j.deville(-at-)lancaster.ac.uk  
-* ab5796(-at-)coventry.ac.uk
+* janneke.adema(-at-)coventry.ac.uk
 
 &nbsp;  
+
+COPIM's **[Code of Conduct](https://copim.pubpub.org/pub/code-of-conduct)** is available at: https://copim.pubpub.org/pub/code-of-conduct  
 
 ---
 
