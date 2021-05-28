@@ -11,6 +11,10 @@ lastmod: "2021-05-14"
   &nbsp;  
 
 
+⏩ 🔗 COPIM's **[Code of Conduct](https://copim.pubpub.org/pub/code-of-conduct)** is available at: https://copim.pubpub.org/pub/code-of-conduct  
+
+
+
 The **Code of Conduct committee** currently consists of the following members:
 
 Judith Fathallah, Tim Elfenbein (Chair), Jenny Fry, Joe Deville, Janneke Adema
@@ -26,8 +30,6 @@ Individual contacts:
 * janneke.adema(-at-)coventry.ac.uk
 
 &nbsp;  
-
-⏩ 🔗 COPIM's **[Code of Conduct](https://copim.pubpub.org/pub/code-of-conduct)** is available at: https://copim.pubpub.org/pub/code-of-conduct  
 
 ---
 
