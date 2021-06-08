@@ -34,8 +34,7 @@ lastmod: "2021-05-14"
   &nbsp;  
 
 - **Whitney Trettien** (University of Pennsylvania)  
- {{< figure src="/images/advisoryboard/whitney-trettien.jpg" width="150px" class="fleft pright" >}}
-Whitney Trettien is an Assistant Professor in the Department of English at the University of Pennsylvania, where she researches and teaches book history and digital humanities. Her first book, Cut/Copy/Paste: Fragments of History, tells the story of three seventeenth-century communities of amateur publishers who experimented with scissors, glue, needles, and thread to design bespoke books. It is a hybrid print/digital project, staged on Manifold Scholarship through University of Minnesota Press. She has published on Isabella Whitney, print-on-demand publishing, botanical book metaphors, and other sundry topics, and is currently researching the earliest electronic books. She is also the co-editor of the digital zine thresholds. Visit her online at: https://whitneyannetrettien.com
+ {{< figure src="/images/advisoryboard/whitney-trettien.jpg" width="150px" class="fleft pright" >}} Whitney Trettien is an Assistant Professor in the Department of English at the University of Pennsylvania, where she researches and teaches book history and digital humanities. Her first book, Cut/Copy/Paste: Fragments of History, tells the story of three seventeenth-century communities of amateur publishers who experimented with scissors, glue, needles, and thread to design bespoke books. It is a hybrid print/digital project, staged on Manifold Scholarship through University of Minnesota Press. She has published on Isabella Whitney, print-on-demand publishing, botanical book metaphors, and other sundry topics, and is currently researching the earliest electronic books. She is also the co-editor of the digital zine thresholds. Visit her online at: https://whitneyannetrettien.com
 <br>  
 &nbsp;  
 
