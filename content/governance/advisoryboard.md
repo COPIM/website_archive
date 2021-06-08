@@ -11,11 +11,6 @@ lastmod: "2021-05-14"
   &nbsp;  
 
 
-- **Dominique Babini** (CLACSO/Redalyc)
- {{< figure src="/images/advisoryboard/dominique-babini-2014.jpg" width="150px" class="fleft pright" >}} Dominique Babini is from Argentina. Open access and open science advisor, and previously repository developer and manager, at the Latin American Council of Social Sciences (CLACSO), a network of 736 research institutions in 52 countries, where she coordinates CLACSO´s  Open Access International Campaign.  Represents CLACSO at REDALYC-CLACSO open access collection of 985 iberoamerican social sciences and humanities journals and at the Executive Board of AmeliCA-Open Knowledge.  Member of the Experts Committee of the National System of Digital Repositories in Argentina. Member of UNESCO Open Science Partnership, International Science Council (ISC) Scoping Group on the Future of Scientific Publishing, Publi.ca (Canada) and University of Buenos Aires-IIGG.  Dominique holds a doctorate in political science and a postgraduate degree in information science.  https://orcid.org/0000-0002-5752-7060
- <br>  
- &nbsp;  
-
 - **Jane Harvell** (University of Sussex Library)
  {{< figure src="/images/advisoryboard/harvell.jpg" width="150px" class="fleft pright" >}} Jane Harvell is the University Librarian and Director of Library Services at the University of Sussex where she is responsible for library support for education, research, special collections and the Sussex Humanities Lab. She is a member of the University Leadership Team and takes a lead on  advocating for open practice in her institution. Throughout her career in the British Library, the LSE  and Sussex she has been involved and interested in the delivery of content – largely in areas of journals, digital and licenced material through membership of the Jisc Content Strategy Group and more recently through membership of the UUK/Jisc Content Negotiation Strategy Group and the SCONUL Content Strategy Group. She has spent over 10 years associated with UKSG in an executive role on its Main Committee and leading its Education Committee. Through this she has developed a particular interest and understanding of academic publishing and its drivers. Jane is also Chair of the Mass Observation Archive Trust.
  <br>  
@@ -32,6 +27,11 @@ lastmod: "2021-05-14"
  <br>  
   <br>  
  &nbsp;   
+
+ - **Amanda Ramalho** (SciELO/FAPESP/SciELO Books)
+  {{< figure src="/images/advisoryboard/amanda-ramalho-web.jpg" width="150px" class="fleft pright" >}} Amanda Ramalho is Member of the Coordination of the [SciELO/FAPESP](https://fapesp.br/scielo) Program and coordinator of [SciELO Books](https://twitter.com/SciELOBooks), in which she participated in all phases of project implementation, being responsible for managing digital publications and interoperability of metadata and full text for national and international indexing bases. Currently, she works in the strategic and operational development of the collection, promoting and encouraging the publication of electronic books, metadata indexing and adoption of open access. She has a Master's Degree in Information Science from the University of São Paulo, her Master's thesis aimed to analyze the criteria for indexing books adopted by databases.
+  <br>  
+  &nbsp;  
 
 - **Whitney Trettien** (University of Pennsylvania)  
  {{< figure src="/images/advisoryboard/whitney-trettien.jpg" width="150px" class="fleft pright" >}}
