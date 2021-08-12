@@ -7,7 +7,7 @@ lastmod: "2021-01-31"
 
 ### Team
 
-Gary Hall (Coventry University), Janneke Adema (Coventry University), Dan Rudmann (punctum), Lucy Barnes (Open Book Publishers), Tobias Steiner (Coventry University), Marcell Mars (Coventry University)
+Gary Hall (Coventry University), Janneke Adema (Coventry University), Lucy Barnes (Open Book Publishers), Tobias Steiner (Coventry University)    
 
 ### Tasks
 

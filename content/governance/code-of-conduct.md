@@ -2,7 +2,7 @@
 title: "Code of Conduct Committee"
 weight: 20
 date: "2021-03-31"
-lastmod: "2021-05-14"
+lastmod: "2021-07-15"
 ---
 
 ![](/images/direct-democracy-colour-cropped.jpg)
