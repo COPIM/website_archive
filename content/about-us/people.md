@@ -13,6 +13,7 @@ Janneke Adema ([WP1](https://www.copim.ac.uk/work-package/wp1/), [WP4](https://w
 Kristin Antelman (UCSB Library)  
 Javier Arias ([WP5](https://www.copim.ac.uk/work-package/wp5/); Open Book Publishers, ScholarLed)  
 Lucy Barnes (Outreach; Open Book Publishers, ScholarLed)   
+Miranda Barnes ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University)    
 Gareth Cole ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University Library)  
 Joe Deville ([WP2](https://www.copim.ac.uk/work-package/wp2/); Mattering Press, ScholarLed, Lancaster University)   
 Tim Elfenbein ([WP5](https://www.copim.ac.uk/work-package/wp5/); Open Book Publishers)  
