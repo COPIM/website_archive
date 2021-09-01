@@ -31,6 +31,7 @@ Julien McHardy ([WP6](https://www.copim.ac.uk/work-package/wp6/); Mattering Pres
 Susan Miles (British Library)  
 Izabella Penier ([WP2](https://www.copim.ac.uk/work-package/wp2/); Lancaster University)  
 Ronald Snijder (OAPEN)  
+Livy Snyder ([WP2](https://www.copim.ac.uk/work-package/wp2/); punctum books)    
 Niels Stern ([WP5](https://www.copim.ac.uk/work-package/wp5/); OAPEN)  
 Tobias Steiner ([WP1](https://www.copim.ac.uk/work-package/wp1/) & Outreach; Coventry University)  
 Graham Stone ([WP5](https://www.copim.ac.uk/work-package/wp5/); Jisc)  
