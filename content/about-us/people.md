@@ -12,7 +12,7 @@ lastmod: "2021-08-05"
 Janneke Adema ([WP1](https://www.copim.ac.uk/work-package/wp1/), [WP4](https://www.copim.ac.uk/work-package/wp4/), [WP6](https://www.copim.ac.uk/work-package/wp6/); Open Humanities Press, ScholarLed, Coventry University)  
 Kristin Antelman (UCSB Library)  
 Javier Arias ([WP5](https://www.copim.ac.uk/work-package/wp5/); Open Book Publishers, ScholarLed)  
-Lucy Barnes (Outreach; Open Book Publishers, ScholarLed)   
+Lucy Barnes ([WP1](https://www.copim.ac.uk/work-package/wp1/)/Outreach; Open Book Publishers, ScholarLed)   
 Miranda Barnes ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University)    
 Francesca Corazza ([WP2](https://www.copim.ac.uk/work-package/wp2/); punctum books)    
 Gareth Cole ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University Library)  
@@ -23,6 +23,7 @@ Judith Fathallah ([WP2](https://www.copim.ac.uk/work-package/wp2/); Lancaster Un
 Rupert Gatti ([WP5](https://www.copim.ac.uk/work-package/wp5/), [WP7](https://www.copim.ac.uk/work-package/wp7/); Open Book Publishers, ScholarLed, Trinity College Cambridge)  
 Tom Grady ([WP3](https://www.copim.ac.uk/work-package/wp3/); Birkbeck, University of London)    
 Gary Hall ([WP6](https://www.copim.ac.uk/work-package/wp6/); Open Humanities Press, ScholarLed, Coventry University)  
+Patrick Hart ([WP4](https://www.copim.ac.uk/work-package/wp4/); Coventry University)     
 Ross Higman ([WP5](https://www.copim.ac.uk/work-package/wp5/); Open Book Publishers)  
 Eileen Joy ([WP2](https://www.copim.ac.uk/work-package/wp2/); punctum books, ScholarLed)   
 Martin Keegan (Open Book Publishers, ScholarLed)  
@@ -52,6 +53,7 @@ Elli Gerakopoulou ([WP2](https://www.copim.ac.uk/work-package/wp2/); Lancaster U
 Samuel Moore ([WP4](https://www.copim.ac.uk/work-package/wp4/), [WP6](https://www.copim.ac.uk/work-package/wp6/);  Coventry University)  
 Agata Morka ([WP2](https://www.copim.ac.uk/work-package/wp2/); Open Book Publishers, OPERAS-P)  
 Dan Rudmann ([WP2](https://www.copim.ac.uk/work-package/wp2/) & Outreach; punctum books, ScholarLed)  
+
 
 
   &nbsp;
