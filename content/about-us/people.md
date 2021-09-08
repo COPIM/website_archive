@@ -2,7 +2,7 @@
 title: "People"
 weight: 40
 date: "2019-11-01"
-lastmod: "2021-08-05"
+lastmod: "2021-09-08"
 ---
 
 ![](/images/copim-teamphoto-jan2020.jpg)
@@ -14,6 +14,7 @@ Kristin Antelman (UCSB Library)
 Javier Arias ([WP5](https://www.copim.ac.uk/work-package/wp5/); Open Book Publishers, ScholarLed)  
 Lucy Barnes ([WP1](https://www.copim.ac.uk/work-package/wp1/)/Outreach; Open Book Publishers, ScholarLed)   
 Miranda Barnes ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University)    
+Simon Bowie ([WP1](https://www.copim.ac.uk/work-package/wp1/), [WP6](https://www.copim.ac.uk/work-package/wp6/)); Coventry University       
 Francesca Corazza ([WP2](https://www.copim.ac.uk/work-package/wp2/); punctum books)    
 Gareth Cole ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University Library)  
 Joe Deville ([WP2](https://www.copim.ac.uk/work-package/wp2/); Mattering Press, ScholarLed, Lancaster University)   
