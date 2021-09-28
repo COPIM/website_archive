@@ -2,12 +2,13 @@
 title: "WP1: Project Management & Outreach"
 weight: 10
 date: "2020-01-01"
-lastmod: "2021-01-31"
+lastmod: "2021-09-25"
 ---
 
 ### Team
 
-Gary Hall (Coventry University), Janneke Adema (Coventry University), Lucy Barnes (Open Book Publishers), Tobias Steiner (Coventry University)    
+Gary Hall (Coventry University), Janneke Adema (Coventry University), Lucy Barnes (Open Book Publishers), Tobias Steiner (Coventry University), Simon Bowie (Coventry University)    
+
 
 ### Tasks
 
