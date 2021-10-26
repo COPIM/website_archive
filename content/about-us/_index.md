@@ -1,8 +1,28 @@
 ---
-title: "Home‎"
+title: "Community-led Open Publishing Infrastructures for Monographs (COPIM)"
 weight: 20
 date: "2019-11-01"
 lastmod: "2021-03-30"
+description: "COPIM is building community-owned, open systems and infrastructures to enable open access book publishing to flourish."
+
+<title>Community-led Open Publishing Infrastructures for Monographs (COPIM)</title>
+<meta name="description" content="COPIM is building community-owned, open systems and infrastructures to enable open access book publishing to flourish.">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://www.copim.ac.uk/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Community-led Open Publishing Infrastructures for Monographs (COPIM)">
+<meta property="og:description" content="COPIM is building community-owned, open systems and infrastructures to enable open access book publishing to flourish.">
+<meta property="og:image" content="https://www.copim.ac.uk/images/copim-header_lefted-slim.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="copim.ac.uk">
+<meta property="twitter:url" content="https://www.copim.ac.uk/">
+<meta name="twitter:title" content="Community-led Open Publishing Infrastructures for Monographs (COPIM)">
+<meta name="twitter:description" content="COPIM is building community-owned, open systems and infrastructures to enable open access book publishing to flourish.">
+<meta name="twitter:image" content="https://www.copim.ac.uk/images/copim-header_lefted-slim.png">
+
 ---
 
 ![](/images/copim-header_lefted-slim.png)
