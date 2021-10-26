@@ -42,6 +42,7 @@ COPIM is working towards a more diverse, open, and democratically equitable futu
 
   &nbsp;
 
+ 
 
 
 ![](/images/copim-team-jan2020.jpg)
