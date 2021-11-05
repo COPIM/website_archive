@@ -67,7 +67,130 @@ sudo docker exec -it gitella /root/gitea/hugo [INSERT COMMAND HERE]
 
 The Hugo config file is documented at <https://gohugo.io/getting-started/configuration/> and is kept in the WebSite/HugoSandbox repository itself in config.toml: <https://a.copim.ac.uk/WebSite/HugoSandbox/src/branch/master/config.toml>
 
-Hugo is triggered by Gitea through git hooks in the hugosandbox.git repository (/var/lib/docker/volumes/nextcloud_gitellarepo/_data/repositories/website/hugosandbox.git/hooks). These include Bash scripts 'pre-receive', 'update', and 'post-receive' and a particularly lengthy script in ./post-receive.d/post-receive.
+Hugo is triggered by Gitea through git hooks in the HugoSandbox repository at <https://a.copim.ac.uk/WebSite/HugoSandbox/settings/hooks/git> (on the server as /var/lib/docker/volumes/nextcloud_gitellarepo/_data/repositories/website/hugosandbox.git/hooks). The post-receive Bash script is most important and consists of: 
+
+```
+#!/bin/bash
+
+set -e
+
+WEBSITE=/var/www/html/
+[ -d $WEBSITE ] || mkdir -p $WEBSITE
+
+WEBSITEPREVIEW=/var/www/html/_preview/
+[ -d $WEBSITEPREVIEW ] || mkdir -p $WEBSITEPREVIEW
+
+GIT_URL="https://a.copim.ac.uk/WebSite/HugoSandbox"
+HUGO_PREVIEW_URL="https://www.copim.ac.uk/_preview/"
+
+GIT_PATH="git"
+HUGO_PATH="/root/gitea/hugo"
+
+BRK="krb"
+SAVEIFS=$IFS
+
+TMP_WEBSITE=/tmp/website$RANDOM
+TMP_WEBSITEPREVIEW=/tmp/websitepreview$RANDOM
+
+d=`date`
+CWD=`pwd`
+
+while read oldrev newrev ref
+do
+	refs=`$GIT_PATH diff-tree --no-commit-id --name-only $ref`
+	IFS=$'\n'
+	r=($refs)
+
+	for (( i=0; i<${#r[@]}; i++ ))
+	do
+		if [ ${r[$i]} = "PUBLISH.trigger.md" ]; then
+			cd $CWD
+			$GIT_PATH clone . $TMP_WEBSITE
+			cd $TMP_WEBSITE
+			[ -d $WEBSITE ] || mkdir -p $WEBSITE
+
+                        if [ -d $WEBSITE ]
+	                  then
+			    rm -rf ${WEBSITE}*
+                        fi
+
+			$HUGO_PATH -d $WEBSITE > ${TMP_WEBSITE}/last-commit-log.txt
+			printf "\n>> $d\n>> `date`" >> ${TMP_WEBSITE}/last-commit-log.txt
+			mv ${TMP_WEBSITE}/last-commit-log.txt $WEBSITE
+			cd /tmp/
+
+                        if [ -d $TMP_WEBSITE ]
+	                  then
+			    rm -rf $TMP_WEBSITE
+                        fi
+			
+			BRK="brk"
+			break
+		fi
+	done
+
+	if [ $BRK = "brk" ]; then
+		break
+	fi
+	
+	cd $CWD
+	refs=`$GIT_PATH show --format="%s" -s`
+	IFS=$' '
+	r=($refs)
+	for (( i=0; i<${#r[@]}; i++ ))
+	do
+		if [ ${r[$i]} = "!publish!" ]; then
+			$GIT_PATH clone . $TMP_WEBSITE
+			cd $TMP_WEBSITE
+
+			[ -d $WEBSITE ] || mkdir -p $WEBSITE
+
+                        if [ -d $WEBSITE ]
+	                  then
+			    rm -rf ${WEBSITE}*
+                        fi
+
+			$HUGO_PATH -d $WEBSITE > ${TMP_WEBSITE}/last-commit-log.txt
+			printf "\n>> $d\n>> `date`" >> ${TMP_WEBSITE}/last-commit-log.txt
+			mv $TMP_WEBSITE/last-commit-log.txt $WEBSITE
+			cd /tmp/
+
+			if [ -d $TMP_WEBSITE ]; then
+				rm -rf $TMP_WEBSITE
+			fi
+
+			break
+		fi
+	done
+done
+
+cd $CWD
+$GIT_PATH clone . $TMP_WEBSITEPREVIEW
+cd $TMP_WEBSITEPREVIEW
+
+[ -d $WEBSITEPREVIEW ] || mkdir -p $WEBSITEPREVIEW
+
+mkdir data
+echo 'edit = true' > data/myvars.toml
+echo 'giturl="'${GIT_URL}'"' >> data/myvars.toml
+
+if [ -d $WEBSITEPREVIEW ]
+  then
+    rm -rf $WEBSITEPREVIEW
+fi
+
+
+$HUGO_PATH -b $HUGO_PREVIEW_URL -d $WEBSITEPREVIEW > ${TMP_WEBSITEPREVIEW}/last-commit-log.txt
+printf "\n>> $d\n>> `date`" >> ${TMP_WEBSITEPREVIEW}/last-commit-log.txt
+mv ${TMP_WEBSITEPREVIEW}/last-commit-log.txt $WEBSITEPREVIEW
+
+if [ -d $TMP_WEBSITEPREVIEW ]
+  then
+    rm -rf $TMP_WEBSITEPREVIEW
+fi
+
+IFS=$SAVEIFS
+```
 
 ## copim.ac.uk
 
