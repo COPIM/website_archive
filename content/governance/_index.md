@@ -3,7 +3,7 @@ title: "Governance"
 date: "2020-01-01"
 lastmod: "2021-01-31"
 ---
-![](/images/ian-schneider-TamMbr4okv4-unsplash-cropped.jpg)
+![photo by Ian Schneider of the words 'passion led us here' on a pavement](/images/ian-schneider-TamMbr4okv4-unsplash-cropped.jpg)
 
 
 #### COPIM is actively engaged in developing the group's mode of governance.

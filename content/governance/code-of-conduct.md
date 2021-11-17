@@ -5,7 +5,7 @@ date: "2021-03-31"
 lastmod: "2021-07-15"
 ---
 
-![](/images/direct-democracy-colour-cropped.jpg)
+![black and white photo from above of a crowd of people raising their hands to vote](/images/direct-democracy-colour-cropped.jpg)
 
 
   &nbsp;  
