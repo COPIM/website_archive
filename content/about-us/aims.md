@@ -11,7 +11,7 @@ lastmod: "2021-01-31"
 --- **Janneke Adema**, Coventry University & Open Humanities Press  
 
 
-![](/images/mari-carmen-del-valle-camara-oUts1FvnwPI-unsplash-cropped.jpg)
+![photo by Mari Carmen Del Valle Cámara of football players silhouetted against an orange sunset](/images/mari-carmen-del-valle-camara-oUts1FvnwPI-unsplash-cropped.jpg)
 
 
 At COPIM, we believe that, for open access publishing initiatives to thrive, we have to develop more robust notions of "open" that go beyond releasing content from behind paywalls. We believe that the infrastructure with which academic work is published must be community-led and open for widespread participation by scholar-led and

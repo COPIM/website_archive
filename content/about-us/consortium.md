@@ -4,7 +4,7 @@ weight: 30
 date: "2019-11-01"
 lastmod: "2021-01-31"
 ---
-![](/images/copim-partners-updated-oct20-web.png)
+![logos of the COPIM partners consortium](/images/copim-partners-updated-oct20-web.png)
 
 
    &nbsp;  

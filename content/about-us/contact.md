@@ -5,7 +5,7 @@ date: "2019-11-01"
 lastmod: "2021-05-14"
 ---
 
-![](/images/pavan-trikutam-71CjSSB83Wo-unsplash-cropped.jpg)
+![photo by Pavan Trikutam of three old telephones](/images/pavan-trikutam-71CjSSB83Wo-unsplash-cropped.jpg)
 
 You can follow our progress on our [PubPub](https://copim.pubpub.org/) site, which functions as the project’s blog and open documentation site, and on [COPIM’s Twitter](https://twitter.com/COPIMproject) account.
 

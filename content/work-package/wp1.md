@@ -14,7 +14,7 @@ Gary Hall (Coventry University), Janneke Adema (Coventry University), Lucy Barne
 
 > WP1 coordinates project activities and fosters exchange across Work Packages and with the public through internal and external communication channels (NextCloud, Mattermost, BigBlueButton, Zoom, Twitter, PubPub, website, …) and corresponding dissemination and outreach activities.
 
-![](/images/copim-infrastructure-platform-overview.jpg)
+![diagram of COPIM's infrastructure comprising its various open-source application platforms](/images/copim-infrastructure-platform-overview.jpg)
 
 > Internally, WP1 ensures that the overall project meets its objectives within budget and scheduled timescales by monitoring project progress, tracking deliverables and reporting back to the funders. 
 

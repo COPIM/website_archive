@@ -7,7 +7,7 @@ description: "COPIM is building community-owned, open systems and infrastructure
 
 ---
 
-![](/images/copim-header_lefted-slim.png)
+![text reading 'open access, open infrastructures.'](/images/copim-header_lefted-slim.png)
 
 **COPIM** (Community-led Open Publication Infrastructures for Monographs) is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. It is building community-owned, open systems and infrastructures to enable open access book publishing to flourish.   
 
@@ -27,4 +27,4 @@ COPIM is working towards a more diverse, open, and democratically equitable futu
 
 
 
-![](/images/copim-team-jan2020.jpg)
+![group photo of COPIM project team members circa January 2020](/images/copim-team-jan2020.jpg)

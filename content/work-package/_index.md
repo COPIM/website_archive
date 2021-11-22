@@ -3,7 +3,7 @@ title: "Work Packages"
 date: "2020-01-01"
 lastmod: "2021-01-31"
 ---
-![](/images/laura-ockel-UQ2Fw_9oApU-unsplash-cropped.jpg)
+![photo by Laura Ockel of some cogs](/images/laura-ockel-UQ2Fw_9oApU-unsplash-cropped.jpg)
 
 
 ### As part of seven connected WPs, COPIM is working on
