@@ -1,0 +1,55 @@
+---
+title: "COPIM privacy policy"
+date: "2021-11-19"
+lastmod: "2021-11-19"
+---
+
+COPIM (Community-led Open Publication Infrastructures for Monographs) is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. This privacy policy explains how our project uses the data we collect from you when you use our website.
+
+## Data
+
+### What data do we collect?
+
+COPIM deliberately minimises the amount of information we collect for users of our website. We keep a minimal amount of non-identifying information for the purpose of tracking web analytics.
+
+We currently collect and process the following information for each user of our website:
+ - IP address from which they accessed the site
+ - Approximate geolocation based on the IP address
+ - Operating system and web browser used to access the site
+ - Date and time that the user accessed the site
+ - Which site referred the user to the site
+ - Which pages on the site the user accessed
+
+### How do we store your data?
+
+Your data is gathered by [NGINX](https://www.nginx.com/) web server access logs and are automatically passed to [GoAccess](https://goaccess.io/) for analysis. All your information is securely stored on our virtual server hosted by Coventry University Digital Services.
+
+We keep [type of personal information] for [time period]. We will then dispose your information by [explain how you will delete their data].
+
+### How will we use your data?
+
+Your data will only be used in aggregate to draw usage trends of our website in order to report to our funders. These analytics may be shared with the [Research England Development (RED) Fund](https://re.ukri.org/funding/our-funds-overview/research-england-development-red-fund/) and [Arcadia](https://www.arcadiafund.org.uk/), a charitable fund of Lisbet Rausing and Peter Baldwin.
+
+## Cookies
+
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. For further information, visit [allaboutcookies.org](allaboutcookies.org).
+
+The COPIM website does not store any first- or third-party cookies on your computer.
+
+### How to manage cookies
+
+You can set your browser not to accept cookies, and [allaboutcookies.org](allaboutcookies.org) tells you how to remove cookies from your browser.
+
+## General
+
+### Privacy policies of other websites
+
+The COPIM website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
+
+### Changes to our privacy policy
+
+COPIM keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 19 November 2021.
+
+### How to contact us
+
+If you have any questions about COPIM’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.

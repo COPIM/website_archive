@@ -1,47 +1,76 @@
-baseURL = "https://www.copim.ac.uk"
-languageCode = "en-us"
+baseURL = "http://localhost:1337"
+languageCode = "en-gb"
+DefaultContentLanguage = "en"
 title = "COPIM"
-theme = "dot"
+theme = "docdock"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+enableInlineShortcodes = true
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+#
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
+editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = false # default is false
+themeStyle = "original" # "original" or "flex" # default "flex"
+themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = true # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
 # logo is for all page
 logo = "images/copim-logo.png"
 # logo white is for homepage logo, you can use colorful logo too...
-logo_white = "images/copim-logo.png"
+logo_white = "images/copim-logo-white.png"
 # when logo is empty, it will shown your site title
 
-# customize color
-primary_color = "#ea7f27"
-secondary_color = "#f9fff7"
-text_color = "#636363"
-text_color_dark = "#242738"
-white_color = "#ffffff"
 
-# font family
-font_family = "lato" # Choose font family from : https://fonts.google.com/
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
 
-################################# navigation ################################
-[[menu.main]]
-name = "Home"
-url = "about-us"
-weight = 1
 
-[[menu.main]]
-name = "Governance"
-url = "governance"
-weight = 2
+[[menu.shortcuts]]
+pre = "<h3>Links</h3>"
+name = "<i class='fa fa-twitter'></i> <label>Twitter</label>"
+identifier = "ds"
+url = "https://twitter.com/COPIMproject"
+weight = 10
 
-[[menu.main]]
-name = "Work Packages"
-url = "work-package"
-weight = 3
-
-[[menu.main]]
-name = "Workshops"
-url = "events"
-weight = 4
-
-[[menu.main]]
-name = "Open Documentation Site"
+[[menu.shortcuts]]
+name = "<i class='fa fa-book'></i> <label>PubPub</label>"
 url = "https://copim.pubpub.org/"
-weight = 5
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> <label>GitHub</label>"
+url = "https://github.com/COPIM"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
+url = "/credits"
+weight = 30
