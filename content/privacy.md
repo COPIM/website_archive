@@ -13,12 +13,12 @@ COPIM (Community-led Open Publication Infrastructures for Monographs) is an inte
 COPIM deliberately minimises the amount of information we collect for users of our website. We keep a minimal amount of non-identifying information for the purpose of tracking web analytics.
 
 We currently collect and process the following information for each user of our website:
- - IP address from which they accessed the site
- - Approximate geolocation based on the IP address
- - Operating system and web browser used to access the site
- - Date and time that the user accessed the site
- - Which site referred the user to the site
- - Which pages on the site the user accessed
+ - anonymized IP address from which they accessed the site
+ - approximate geolocation based on the IP address
+ - operating system and web browser used to access the site
+ - date and time that the user accessed the site
+ - which site referred the user to the site
+ - which pages on the site the user accessed
 
 ### How do we store your data?
 
