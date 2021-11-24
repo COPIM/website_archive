@@ -32,13 +32,13 @@ Your data will only be used in aggregate to draw usage trends of our website in 
 
 ## Cookies
 
-Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. For further information, visit [allaboutcookies.org](allaboutcookies.org).
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. For further information, visit [allaboutcookies.org](https://allaboutcookies.org).
 
 The COPIM website does not store any first- or third-party cookies on your computer.
 
 ### How to manage cookies
 
-You can set your browser not to accept cookies, and [allaboutcookies.org](allaboutcookies.org) tells you how to remove cookies from your browser.
+You can set your browser not to accept cookies, and [allaboutcookies.org](https://allaboutcookies.org) tells you how to remove cookies from your browser.
 
 ## General
 
