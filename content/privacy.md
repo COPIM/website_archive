@@ -24,7 +24,7 @@ We currently collect and process the following information for each user of our 
 
 Your data is gathered by [NGINX](https://www.nginx.com/) web server access logs and are automatically passed to [GoAccess](https://goaccess.io/) for analysis. All your information is securely stored on our virtual server hosted by Coventry University Digital Services.
 
-We keep anonymized IP address data for two months. We will then dispose of your information by automatically removing IP address data from our logs using the ipv6loganon function in the [ipv6calc](https://www.deepspace6.net/projects/ipv6calc.html) package.
+We keep anonymized IP address data for two months. We then dispose of your information by automatically removing IP address data from our logs using the ipv6loganon utility in the [ipv6calc](https://www.deepspace6.net/projects/ipv6calc.html) package.
 
 ### How will we use your data?
 
