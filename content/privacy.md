@@ -1,7 +1,7 @@
 ---
 title: "COPIM privacy policy"
-date: "2021-11-24"
-lastmod: "2021-11-24"
+date: "2021-11-26"
+lastmod: "2021-11-26"
 ---
 
 COPIM (Community-led Open Publication Infrastructures for Monographs) is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. This privacy policy explains how our project uses the data we collect from you when you use our website.
@@ -24,11 +24,11 @@ We currently collect and process the following information for each user of our 
 
 Your data is gathered by [NGINX](https://www.nginx.com/) web server access logs and are automatically passed to [GoAccess](https://goaccess.io/) for analysis. All your information is securely stored on our virtual server hosted by Coventry University Digital Services.
 
-We keep [type of personal information] for [time period]. We will then dispose your information by [explain how you will delete their data].
+We keep anonymized IP address data for two months. We will then dispose of your information by automatically removing IP address data from our logs using the ipv6loganon function in the [ipv6calc](https://www.deepspace6.net/projects/ipv6calc.html) package.
 
 ### How will we use your data?
 
-Your data will only be used in aggregate to draw usage trends of our website in order to report to our funders. These analytics may be shared with the [Research England Development (RED) Fund](https://re.ukri.org/funding/our-funds-overview/research-england-development-red-fund/) and [Arcadia](https://www.arcadiafund.org.uk/), a charitable fund of Lisbet Rausing and Peter Baldwin.
+Your anonymized data will only be used in aggregate to draw usage trends of our website in order to report to our funders. These analytics may be shared with the [Research England Development (RED) Fund](https://re.ukri.org/funding/our-funds-overview/research-england-development-red-fund/) and [Arcadia](https://www.arcadiafund.org.uk/), a charitable fund of Lisbet Rausing and Peter Baldwin.
 
 ## Cookies
 
@@ -48,7 +48,7 @@ The COPIM website contains links to other websites. Our privacy policy applies o
 
 ### Changes to our privacy policy
 
-COPIM keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 19 November 2021.
+COPIM keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 26 November 2021.
 
 ### How to contact us
 
