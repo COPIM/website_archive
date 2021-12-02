@@ -32,26 +32,23 @@ skill:
       progress : "70%"
       color : "#ffbcaa"
 
-# experience
-experience:
+# outputs
+outputs:
   enable : true
   title : "Outputs"
   item:
     - logo : "images/opening_the_future.png"
       title : "Opening the Future"
-      company : "A New Model for Open Access Books"
-      duration : ""
+      subtitle : "A New Model for Open Access Books"
       url: "https://www.openingthefuture.net/"
 
     - logo : "images/copim-logo.png"
       title : "Open Book Collective"
-      company : "A Platform for Promoting Open Access Publishing and Managing Funding Schemes"
-      duration : ""
+      subtitle : "A Platform for Promoting Open Access Publishing and Managing Funding Schemes"
 
     - logo : "images/thoth-banner.png"
       title : "Thoth"
-      company : "Software for Open Metadata"
-      duration : ""
+      subtitle : "Software for Open Metadata"
       url: "https://thoth.pub"
 
 # education
