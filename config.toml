@@ -1,76 +1,109 @@
+# default configuration
 baseURL = "http://localhost:1337"
 languageCode = "en-gb"
-DefaultContentLanguage = "en"
+summaryLength = "10"
+theme = "kross-hugo"
 title = "COPIM"
-theme = "docdock"
 
-pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
-
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir= false
-enableMissingTranslationPlaceholders = false
-
-enableInlineShortcodes = true
-
-# [Languages]
-# [Languages.en]
-# title = "Documentation for Hugo docDock"
-# weight = 1
-# languageName = "English"
-#
-# [Languages.fr]
-# title = "Documentation du thème docDock"
-# weight = 2
-# languageName = "Français"
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
 
 
-[markup]
-[markup.goldmark.renderer]
-unsafe = true
+# js plugin
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
 
+
+# menu
+[[menu.main]]
+URL = "about-us"
+name = "About"
+weight = 1
+
+[[menu.main]]
+URL = "governance"
+name = "Governance"
+weight = 2
+
+[[menu.main]]
+URL = "work-package"
+name = "Work packages"
+weight = 3
+
+[[menu.main]]
+URL = "events"
+name = "Workshops"
+weight = 4
+
+
+# default parameters
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
-showVisitedLinks = false # default is false
-themeStyle = "original" # "original" or "flex" # default "flex"
-themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (default)
-ordersectionsby = "weight" # ordersectionsby = "title"
-disableHomeIcon = true # default is false
-disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
-highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
-menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
-enableGitInfo = true
-
-# logo is for all page
-logo = "images/copim-logo.png"
-# logo white is for homepage logo, you can use colorful logo too...
-logo_white = "images/copim-logo-white.png"
-# when logo is empty, it will shown your site title
-
-
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = "Home"
+logo = "images/copim-logo-white.png"
+# theme color
+theme_color = "#8210F6"
+# contact info
+phone = ""
+email = "info@copim.ac.uk"
+address = ""
+# meta description
+author = "COPIM"
+description = "Community-led Open Publication Infrastructures for Monographs"
+# google analytics
+google_analytics_id = "" # Your ID
+# baidu site verification
+baidu_site_verification = "" #Your verification code
+# baidu analytics
+baidu_analytics_id = "" #Your ID
+# copyright
+copyright = "© 2021 [COPIM](/) and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
 
 
-[[menu.shortcuts]]
-pre = "<h3>Links</h3>"
-name = "<i class='fa fa-twitter'></i> <label>Twitter</label>"
-identifier = "ds"
-url = "https://twitter.com/COPIMproject"
-weight = 10
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-book'></i> <label>PubPub</label>"
-url = "https://copim.pubpub.org/"
-weight = 11
+# contact
+[params.contact]
+enable = false
+form_action = "#" # contact form works with : https://formspree.io
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-github'></i> <label>GitHub</label>"
-url = "https://github.com/COPIM"
-weight = 20
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
-url = "/credits"
-weight = 30
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
+[[params.social]]
+icon = "ti-book"
+URL = "https://copim.pubpub.org/"
+
+[[params.social]]
+icon = "ti-github"
+URL = "https://github.com/COPIM"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+URL = "https://twitter.com/COPIMproject"
