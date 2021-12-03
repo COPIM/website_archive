@@ -56,9 +56,9 @@ logo = "images/copim-logo-white.png"
 # theme color
 theme_color = "#8210F6"
 # contact info
-phone = ""
-email = "info@copim.ac.uk"
-address = ""
+pubpub = "https://copim.pubpub.org/"
+twitter = "https://twitter.com/COPIMproject"
+zenodo = "https://zenodo.org/communities/copim/"
 # meta description
 author = "COPIM"
 description = "Community-led Open Publication Infrastructures for Monographs"

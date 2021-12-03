@@ -108,25 +108,38 @@ portfolio:
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
-# testimonial
-testimonial:
-  enable : false
-  title : "Testimonials"
+# work packages
+packages:
+  enable : true
+  title : "Work packages"
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Project Management & Outreach"
+      designation : "WP1"
+      content : "WP1 coordinates project activities and fosters exchange across Work Packages and with the public through internal and external communication channels (NextCloud, Mattermost, BigBlueButton, Zoom, Twitter, PubPub, website, ...) and corresponding dissemination and outreach activities."
 
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Revenue Infrastructures and Management Platform"
+      designation : "WP2"
+      content : "WP2 will develop and launch a modular, scale-able revenue generation and management platform for open access books, to be made available to publishers and libraries. It will be scoped and built by a team of publishers, knowledge managers, and librarians working in partnership to develop new funding channels for open access books. The platform will emphasise open source software, community-owned and led open access, and will enable a broad range of economic supports for a variety of open access book outputs. WP2 will create the technical infrastructures, organisational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term."
 
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Knowledge Exchange and Piloting Alternative Business Models"
+      designation : "WP3"
+      content : "WP3 is dedicated to knowledge exchange and transfer, as part of the project’s central commitment to dissemination. It builds pathways to impact with relevant stakeholders from across the sector, including publishers ((New) University Presses, library-presses, scholar-led presses), academics, learned societies, and open technology developers. As part of its activities, WP3 will convene a range of publisher stakeholders at a workshop to demonstrate the new infrastructural provisions and to locate at least two non-open access publishers willing to partially transition their business models to a new open access version."
+
+    - name : "Community Governance"
+      designation : "WP4"
+      content : "WP4 is developing the governance procedures of COPIM’s open publication ecosystem for monographs. It is creating durable organisational structures for the coordination, governance and administrative support of the project’s community-owned infrastructure. This includes developing new avenues of outreach, communication and partnership with diverse stakeholders in open research with a shared interest in this infrastructure, creating genuine community involvement and collective control (ensuring the infrastructures won’t be governed by a particular commercial interest), amongst others in the form of a Community Governance Workshop, facilitated by UCSB Library in May 2020."
+
+    - name : "Building an Open Dissemination System"
+      designation : "WP5"
+      content : "WP5 is developing technical protocols and infrastructure to better integrate open access books into institutional library, digital learning and repository systems. This will support wider discovery and dissemination of open access books. Existing print and ebook distribution channels are difficult for new or open access publishers to engage with, requiring submission of metadata in multiple different formats (e.g. MARC, ONIX, KBART), and many platforms requiring multiple different metadata submissions; In addition, existing distribution channels are not well suited to open access content, while entirely new discovery and dissemination platforms are emerging (e.g. Google Books/Scholar)."
+
+    - name : "Experimental Publishing, Re-use, and Impact"
+      designation : "WP6"
+      content : "WP6 examines ways to more closely align existing software, technologies, workflows and infrastructures for experimental publishing with the workflow of open access book publishers and with the infrastructures that COPIM is working to create. It is producing a set of pilot cases of experimental books (including by ScholarLed presses Open Humanities Press and Mattering Press) which are developed with the aid of these new tools and integrated into COPIM’s infrastructure."
+
+    - name : "Archiving and Digital Preservation"
+      designation : "WP7"
+      content : "WP7 will identify the key challenges associated with archiving research monographs in all their variation and complexity and develop new solutions. The concept of a monograph as “just” text with the odd image or table is increasingly outdated. “Books” now come in multiple digital formats (e.g. pdf, xml, epub) as well as hardcopy, and can also include embedded material such as videos and interactive 3D models. In some publications, users can interact directly with content hosted externally, such as databases and URLs. As individual objects, each of these formats—such as a pdf file or a video—appear in established guidance and standards for preservation and can be reliably archived with time, effort and resource. Yet how does one archive a “book” which consists of all of these?"
 
 # client logo slider
 clients_logo_slider:
