@@ -1,11 +1,12 @@
 # banner
 banner:
-  title : "Community-led Open Publishing Infrastructures for Monographs (COPIM)"
+  title : "Community-led Open Publishing Infrastructures for Monographs"
 
 # about
 about:
   enable : true
   content : "COPIM (Community-led Open Publication Infrastructures for Monographs) is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. It is building community-owned, open systems and infrastructures to enable open access book publishing to flourish."
+  subcontent: "Open access book publishing stands at a crossroads: one avenue leads to the monopolisation of open access by large commercial publishers and for-profit intermediaries, with infrastructures and funding systems set up to serve those businesses and their approaches; the other opens up a more diverse, scholar-led, community-owned, and not-for-profit publishing ecosystem that enables smaller and more community-focused presses to thrive and multiply."
   button:
     enable : true
     label : "know more"
@@ -51,26 +52,34 @@ outputs:
       subtitle : "Software for Open Metadata"
       url: "https://thoth.pub"
 
-# education
-education:
-  enable : false
-  title : "Education"
+# publications
+publications:
+  enable : true
+  title : "Research publications"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "WP5 Scoping Report: Building an Open Dissemination System"
+      year : "2020"
+      url : "https://doi.org/10.5281/zenodo.3961564"
 
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Revenue Models for Open Access Monographs 2020"
+      year : "2020"
+      url : "https://doi.org/10.5281/zenodo.4455511"
 
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+    - title : "Books Contain Multitudes: Exploring Experimental Publishing"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4486645"
 
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Academic Libraries and Open Access Books in Europe. A Landscape Study"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4483773"
+
+    - title : "The Promise of Collaboration: Collective Funding Models and the Integration of Open Access Books into Libraries"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4756894"
+
+    - title : "Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.5572413"
 
 # service
 service:

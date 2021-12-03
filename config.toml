@@ -105,5 +105,9 @@ icon = "ti-twitter-alt"
 URL = "https://twitter.com/COPIMproject"
 
 [[params.social]]
+icon = "ti-write"
+URL = "https://zenodo.org/communities/copim/"
+
+[[params.social]]
 icon = "ti-github"
 URL = "https://github.com/COPIM"
