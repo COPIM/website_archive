@@ -1,5 +1,5 @@
 ---
-title: "COPIM"
+title: "About"
 weight: 20
 date: "2019-11-01"
 lastmod: "2021-03-30"
