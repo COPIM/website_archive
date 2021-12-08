@@ -53,8 +53,10 @@ weight = 4
 [params]
 home = "Home"
 logo = "images/copim-logo.png"
-# theme color
+# theme colours
 theme_color = "#FFFFFF"
+hover_link = "#EB7F1D"
+highlight_colour = "#EB7F1D"
 # contact info
 pubpub = "https://copim.pubpub.org/"
 twitter = "https://twitter.com/COPIMproject"
