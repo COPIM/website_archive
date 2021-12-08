@@ -3,9 +3,9 @@ title: "Outputs"
 weight: 80
 date: "2019-11-01"
 lastmod: "2021-07-30"
+image: "/images/harald-arlander-WZ6gITnjqaQ-unsplash-cropped.jpg"
+image_alt_text: "photo by Harald Arlander of a stylised letter A"
 ---
-
-![photo by Harald Arlander of a stylised letter A](/images/harald-arlander-WZ6gITnjqaQ-unsplash-cropped.jpg)
 
 #### Milestones
 

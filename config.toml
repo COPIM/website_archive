@@ -71,7 +71,7 @@ baidu_site_verification = "" #Your verification code
 # baidu analytics
 baidu_analytics_id = "" #Your ID
 # copyright
-copyright = "© 2021 [COPIM](/) and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
+copyright = " [COPIM](/) and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
 
 
 # preloader

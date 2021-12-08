@@ -1,12 +1,12 @@
 ---
 title: "Credits"
-date: "2021-11-16"
-lastmod: "2021-11-16"
+date: "2021-12-08"
+lastmod: "2021-12-08"
 ---
 
 This website is made up of Markdown files stored on a [Gitea](https://gitea.io/) repository and then turned into webpages through the [Hugo](https://gohugo.io/) static site generator and served through the [NGINX](https://www.nginx.com/) web server.
 
-The Hugo theme is [DocDock](https://docdock.netlify.app/) created by [Valère Jeantet](https://github.com/vjeantet) and licensed under The MIT License. A complete list of GitHub contributors and all software packages and libraries used is available at [https://docdock.netlify.app/credits/](https://docdock.netlify.app/credits/).
+The Hugo theme is [Kross](https://gethugothemes.com/products/kross-hugo-theme/) created by [Themefisher](https://github.com/themefisher) and licensed under The MIT License.
 
 The site and Gitea repository are hosted on an [Ubuntu](https://ubuntu.com/) 20.04.3 server hosted by [Coventry University](https://www.coventry.ac.uk/) Digital Services.
 

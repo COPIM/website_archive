@@ -3,13 +3,9 @@ title: "Advisory Board"
 weight: 10
 date: "2019-11-01"
 lastmod: "2021-07-15"
+image: "/images/ed-robertson-FDzRG30DeVM-unsplash-cropped.jpg"
+image_alt_text: "photo by Ed Robertson of stacks of books"
 ---
-
-![photo by Ed Robertson of stacks of books](/images/ed-robertson-FDzRG30DeVM-unsplash-cropped.jpg)
-
-
-  &nbsp;  
-
 
 - **Jane Harvell** (University of Sussex Library)
  {{< figure src="/images/advisoryboard/harvell.jpg" alt="photo of Jane Harvell" width="150px" class="fleft pright" >}} Jane Harvell is the University Librarian and Director of Library Services at the University of Sussex where she is responsible for library support for education, research, special collections and the Sussex Humanities Lab. She is a member of the University Leadership Team and takes a lead on  advocating for open practice in her institution. Throughout her career in the British Library, the LSE  and Sussex she has been involved and interested in the delivery of content – largely in areas of journals, digital and licenced material through membership of the Jisc Content Strategy Group and more recently through membership of the UUK/Jisc Content Negotiation Strategy Group and the SCONUL Content Strategy Group. She has spent over 10 years associated with UKSG in an executive role on its Main Committee and leading its Education Committee. Through this she has developed a particular interest and understanding of academic publishing and its drivers. Jane is also Chair of the Mass Observation Archive Trust.

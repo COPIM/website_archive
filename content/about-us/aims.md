@@ -3,15 +3,14 @@ title: "Aims"
 weight: 20
 date: "2019-11-01"
 lastmod: "2021-01-31"
+image: "/images/mari-carmen-del-valle-camara-oUts1FvnwPI-unsplash-cropped.jpg"
+image_alt_text: "photo by Mari Carmen Del Valle Cámara of football players silhouetted against an orange sunset"
 ---
 
 
 > "COPIM is an exciting opportunity to push for open infrastructures, for community-led governance, and for the realignment of relations between not-for-profit institutions in the realm of monograph publishing. It will support the sustainable publication of open access books, delivering major improvements and innovations in the infrastructures, systems, and workflows being used by open access book publishers and by those publishers making a transition to open access books."
 
 --- **Janneke Adema**, Coventry University & Open Humanities Press  
-
-
-![photo by Mari Carmen Del Valle Cámara of football players silhouetted against an orange sunset](/images/mari-carmen-del-valle-camara-oUts1FvnwPI-unsplash-cropped.jpg)
 
 
 At COPIM, we believe that, for open access publishing initiatives to thrive, we have to develop more robust notions of "open" that go beyond releasing content from behind paywalls. We believe that the infrastructure with which academic work is published must be community-led and open for widespread participation by scholar-led and

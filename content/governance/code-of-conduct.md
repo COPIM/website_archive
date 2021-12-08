@@ -3,13 +3,9 @@ title: "Code of Conduct Committee"
 weight: 20
 date: "2021-03-31"
 lastmod: "2021-07-15"
+image: "/images/direct-democracy-colour-cropped.jpg"
+image_alt_text: "black and white photo from above of a crowd of people raising their hands to vote"
 ---
-
-![black and white photo from above of a crowd of people raising their hands to vote](/images/direct-democracy-colour-cropped.jpg)
-
-
-  &nbsp;  
-
 
 ⏩ 🔗 COPIM's **[Code of Conduct](https://copim.pubpub.org/pub/code-of-conduct)** is available at: https://copim.pubpub.org/pub/code-of-conduct  
 

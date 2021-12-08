@@ -3,13 +3,8 @@ title: "Consortium"
 weight: 30
 date: "2019-11-01"
 lastmod: "2021-01-31"
----
-![logos of the COPIM partners consortium](/images/copim-partners-updated-oct20-web.png)
-
-
-   &nbsp;  
-
-
+image: "/images/copim-partners-updated-oct20-web.png"
+image_alt_text: "logos of the COPIM partners consortium"
 ---
 
 The infrastructure used by open access publishers must be driven by, and responsive to, the varied needs of an international scholarly community.  
