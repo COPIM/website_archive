@@ -5,6 +5,7 @@ date: "2019-11-01"
 lastmod: "2021-07-15"
 image: "/images/ed-robertson-FDzRG30DeVM-unsplash-cropped.jpg"
 image_alt_text: "photo by Ed Robertson of stacks of books"
+image_credit: "Image by [Ed Robertson](https://unsplash.com/photos/FDzRG30DeVM) on Unsplash."
 ---
 
 - **Jane Harvell** (University of Sussex Library)

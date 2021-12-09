@@ -5,6 +5,7 @@ date: "2019-11-01"
 lastmod: "2021-07-30"
 image: "/images/harald-arlander-WZ6gITnjqaQ-unsplash-cropped.jpg"
 image_alt_text: "photo by Harald Arlander of a stylised letter A"
+image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqaQ) on Unsplash."
 ---
 
 #### Milestones
@@ -64,9 +65,3 @@ image_alt_text: "photo by Harald Arlander of a stylised letter A"
 
 
 ---
-
-
-&nbsp;  
-
-
---- *Header image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqaQ) on Unsplash*

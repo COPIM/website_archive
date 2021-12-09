@@ -5,6 +5,7 @@ date: "2019-11-01"
 lastmod: "2021-01-31"
 image: "/images/mari-carmen-del-valle-camara-oUts1FvnwPI-unsplash-cropped.jpg"
 image_alt_text: "photo by Mari Carmen Del Valle Cámara of football players silhouetted against an orange sunset"
+image_credit: "Image by [Mari Carmen Del Valle Cámara](https://unsplash.com/photos/oUts1FvnwPI) on Unsplash."
 ---
 
 
@@ -52,9 +53,3 @@ We are therefore building a significantly enriched, not-for-profit and open sour
 
 
   &nbsp;  
-
----
-
-
-  &nbsp;
-_Header image by [Mari Carmen Del Valle Cámara](https://unsplash.com/photos/oUts1FvnwPI) on Unsplash_

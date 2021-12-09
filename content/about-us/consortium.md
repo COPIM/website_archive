@@ -5,6 +5,8 @@ date: "2019-11-01"
 lastmod: "2021-01-31"
 image: "/images/copim-partners-updated-oct20-web.png"
 image_alt_text: "logos of the COPIM partners consortium"
+image_credit: "Logos of the COPIM partner consortium: [high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)"
+
 ---
 
 The infrastructure used by open access publishers must be driven by, and responsive to, the varied needs of an international scholarly community.  
@@ -59,10 +61,3 @@ Thanks to funding from [OPERAS-P](https://operas.hypotheses.org/operas-p), a Eur
 
 
   &nbsp;
-
-----
-
-
-  &nbsp;
-
---- Header image: The COPIM partner consortium. (_[high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)_)

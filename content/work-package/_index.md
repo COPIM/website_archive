@@ -4,6 +4,7 @@ date: "2020-01-01"
 lastmod: "2021-01-31"
 image: "/images/laura-ockel-UQ2Fw_9oApU-unsplash-cropped.jpg"
 image_alt_text: "photo by Laura Ockel of some cogs"
+image_credit: "Image by Laura Ockel on Unsplash."
 ---
 
 ### As part of seven connected WPs, COPIM is working on
@@ -21,7 +22,3 @@ image_alt_text: "photo by Laura Ockel of some cogs"
 &nbsp;  
 
 ---
-
-&nbsp;
-
-*--- Header image by Laura Ockel on Unsplash*

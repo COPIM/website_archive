@@ -5,6 +5,7 @@ date: "2019-11-01"
 lastmod: "2021-05-14"
 image: "/images/pavan-trikutam-71CjSSB83Wo-unsplash-cropped.jpg"
 image_alt_text: "photo by Pavan Trikutam of three old telephones"
+image_credit: Image by [Pavan Trikutam](https://unsplash.com/photos/71CjSSB83Wo) on Unsplash.
 ---
 
 You can follow our progress on our [PubPub](https://copim.pubpub.org/) site, which functions as the project’s blog and open documentation site, and on [COPIM’s Twitter](https://twitter.com/COPIMproject) account.
@@ -18,9 +19,3 @@ For Work Package-specific queries it might be useful to contact the relevant WP 
   &nbsp;
 
 ---
-
-
-
-  &nbsp;
-
-*Header image by [Pavan Trikutam](https://unsplash.com/photos/71CjSSB83Wo) on Unsplash*
