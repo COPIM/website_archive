@@ -99,17 +99,21 @@ expire_days = 2
 
 # social site
 [[params.social]]
+name = "PubPub"
 icon = "ti-book"
 URL = "https://copim.pubpub.org/"
 
 [[params.social]]
+name = "Twitter"
 icon = "ti-twitter-alt"
 URL = "https://twitter.com/COPIMproject"
 
 [[params.social]]
+name = "Zenodo"
 icon = "ti-write"
 URL = "https://zenodo.org/communities/copim/"
 
 [[params.social]]
+name = "GitHub"
 icon = "ti-github"
 URL = "https://github.com/COPIM"
