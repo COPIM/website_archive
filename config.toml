@@ -5,6 +5,9 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "COPIM"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 # css plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -36,14 +39,79 @@ name = "About"
 weight = 1
 
 [[menu.main]]
+identifier = "governance"
 URL = "governance"
 name = "Governance"
 weight = 2
 
 [[menu.main]]
+identifier = "advisory"
+name = "Advisory Board"
+url = "/governance/advisoryboard"
+parent = "governance"
+weight = 1
+
+[[menu.main]]
+identifier = "conduct"
+name = "Code of Conduct Committee"
+url = "/governance/code-of-conduct"
+parent = "governance"
+weight = 2
+
+[[menu.main]]
+identifier = "work-package"
 URL = "work-package"
 name = "Work packages"
 weight = 3
+
+[[menu.main]]
+identifier = "wp1"
+name = "WP1"
+url = "/work-package/wp1"
+parent = "work-package"
+weight = 1
+
+[[menu.main]]
+identifier = "wp2"
+name = "WP2"
+url = "/work-package/wp2"
+parent = "work-package"
+weight = 2
+
+[[menu.main]]
+identifier = "wp3"
+name = "WP3"
+url = "/work-package/wp3"
+parent = "work-package"
+weight = 3
+
+[[menu.main]]
+identifier = "wp4"
+name = "WP4"
+url = "/work-package/wp4"
+parent = "work-package"
+weight = 4
+
+[[menu.main]]
+identifier = "wp5"
+name = "WP5"
+url = "/work-package/wp5"
+parent = "work-package"
+weight = 5
+
+[[menu.main]]
+identifier = "wp6"
+name = "WP6"
+url = "/work-package/wp6"
+parent = "work-package"
+weight = 6
+
+[[menu.main]]
+identifier = "wp7"
+name = "WP7"
+url = "/work-package/wp7"
+parent = "work-package"
+weight = 7
 
 [[menu.main]]
 URL = "events"

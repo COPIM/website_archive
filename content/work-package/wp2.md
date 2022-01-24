@@ -1,30 +1,86 @@
 ---
-title: "WP2: Revenue Infrastructures and Management Platform"
+title: "WP2: Open Book Collective"
 weight: 20
 date: "2020-01-01"
-lastmod: "2021-09-25"
+lastmod: "2022-01-24"
 ---
 
-### Contact:
+WP2 is founding the Open Book Collective: a UK-registered charity comprised of OA book publishers, librarians and infrastructure providers. The OBC will  launch and support the Open Book Collective online platform. This is a modular, scale-able revenue generation and management platform for open access books, available to publishers, libraries and other users. The platform offers a range of flexible subscription models for subscribers to support OA book, and supports publishers in distributing their output, networking, and moving away from dependence on Book Processing Charges. The platform  emphasizes open source software, community-owned and led open access, and enables a range of publishers to work together, either as individuals or consortiums, via a networking model we call ‘scaling-small’. Scaling small allows publishers to benefit from mutual support and knowledge sharing without being forced to scale upwards in terms of production. WP2 is creating the technical infrastructures, organizational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term.  The revenue platform is designed with flexible modularity, portability, and customizability as its chief features, ensuring that both emerging, smaller-scale and established, larger-scale publishers seeking to transition to open access and in need of durable, flexible business models for doing so, can benefit from it. 
 
-[wp2@copim.ac.uk](mailto:wp2@copim.ac.uk)  
+### FAQs
 
-### Team
+<details>
+  <summary>
+    What is the Open Book Collective?
+  </summary>
 
-Joe Deville (Lancaster University), Eileen Joy (punctum books), Izabella Penier (Lancaster University), Judith Fathallah (Lancaster University), Francesca Corazza (punctum books), Livy Snyder (punctum books)      
+The Open Book Collective is a group of publishers, publishing service providers, and research libraries. We are working together across the landscape of the Open Knowledge Commons to enable a more sustainable future for open access (OA) book-length and long-form scholarship.
+</details>
 
-> WP2 will develop and launch a modular, scale-able revenue generation and management platform for open access books, to be made available to publishers and libraries. It will be scoped and built by a team of publishers, knowledge managers, and librarians working in partnership to develop new funding channels for open access books. The platform will emphasise open source software, community-owned and led open access, and will enable a broad range of economic supports for a variety of open access book outputs. WP2 will create the technical infrastructures, organisational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term. The platform will be tested via a specific pilot case centering upon ScholarLed, which looks at how revenue can be generated and managed for this select group of presses to model a community-owned open access that is economically sustainable, allows for diverse business models, and aligns with the values of both the Humanities and Social Sciences and of Higher Education Institutes. The revenue platform will be designed with flexible modularity, portability, and customisability as its chief features, ensuring that both emerging, smaller-scale and established, larger-scale publishers seeking to transition to open access (a pilot to be tested in WP3) and in need of durable, flexible business models for doing so, can benefit from it. 
+<details>
+  <summary>
+    What is the relationship of the OBC to COPIM?
+  </summary>
 
-### Blog posts & project output
+The OBC is an output arising from the COPIM project, but is a separate legal entity in the form of a UK-registered charity. The OBC is intended to be self-sustaining beyond the conclusion of COPIM.
+</details>
 
-* See COPIM's **[Open Documentation Site: WP2](https://copim.pubpub.org/work-package-2)** for an overview of blog posts, announcements, etc.
-* in addition to that, visit our **[Outputs](https://www.copim.ac.uk/about-us/outputs/) section** for deliverables and milestones reached by the Work Package.  
+<details>
+  <summary>
+    What is the OBC platform?
+  </summary>
 
-### Key deliverables and impacts
+The OBC platform is the online membership and revenue management platform of the Collective. It offers:
+  <ul>
+    <li>a space for OA book publishers and service providers to display their publications and infrastructure services as well as their missions, practices, and activities</li>
+    <li>an integrated and searchable index of OA books published by Collective publishers, which anybody may use</li>
+    <li>a discovery and distribution channel for OA books published by Collective publishers</li>
+    <li>open metadata, including catalog records in a variety of formats, for all of the OA books published by Collective publishers</li>
+    <li>an interface for OA publishers and service providers to present membership investment packages developed by the OBC to libraries and other research institutions for potential funding by those institutions</li>
+    <li>transparent information regarding where library and research institution funding is dedicated and from whom librarians and other users will have the opportunity to compare and contrast the offers from different publishers and collectives before committing to a subscription.</li>
+  </ul>
+</details>
 
-* A fully functional consortial library funding platform
-  * In this model, groups of libraries and/or other members contribute to fund the publication of open access books. The cost to each member of a book depends on the size of the consortium.
-* The ScholarLed pilot
-* An outreach program to the international library community
-* A model for a community-owned open access revenue programme for books
-* A consortium of librarians and publishers that can serve as a model for collaboration around open access monographs
+<details>
+  <summary>
+    Can my press join the platform?
+  </summary>
+
+We are currently in the process of defining the criteria according to which publishers may join the membership platform. Our focus is on small-to-medium sized presses who are interested in networking with and mutually supporting other like-minded publishers, accommodating a range of business models but assisting publishers in moving away from Book Processing Charges. We will naturally expect a commitment to sustainable OA monograph publishing and broad agreement with our values of  co-operation, anti-commercialism, anti-competition, transparency and sharing.
+</details>
+
+<details>
+  <summary>
+    When will the platform be launched?
+  </summary>
+
+We are aiming to pilot the platform in Spring 2022
+</details>
+
+<details>
+  <summary>
+    How much will subscriptions cost?
+  </summary>
+
+The pricing structure for subscriptions is currently being decided, but will operate on a banded system similar to that of JISC.
+</details>
+
+<details>
+  <summary>
+    What is ScholarLed?
+  </summary>
+
+ScholarLed is a consortium of scholar-led, not-for-profit, open access book publishers that was formed in 2018. ScholarLed is a founding member of the OBC and all its members are given the option of participating in the ScholarLed membership package on the OBC platform. It is expected that, at launch, the following publishers will be included in the ScholarLed package: Mattering Press, meson press, Open Book Publishers and punctum books. ScholarLed is registered as a not-for-profit foundation in the Netherlands, and are run by a board drawn from the participating presses. For information on joining ScholarLed, see https://blog.scholarled.org/scholarled-open-for-membership-applications/
+</details>
+
+<details>
+  <summary>
+    Who do I contact for more information?
+  </summary>
+
+Please contact a member of the Outreach team for WP2:
+  <ul>
+    <li>Dr. Judith Fathallah, Lancaster University: j.fathallah@lancaster.ac.uk</li>
+    <li>Francesca Corazza, punctum books: francesca@punctum.com (European inquiries)</li>
+    <li>Livy Snyder, punctum books: livy@punctum.com (USA and Canada inquiries)</li>
+</details>
