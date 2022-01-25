@@ -5,7 +5,7 @@ date: "2020-01-01"
 lastmod: "2022-01-24"
 ---
 
-WP2 is founding the Open Book Collective: a UK-registered charity comprised of OA book publishers, librarians and infrastructure providers. The OBC will  launch and support the Open Book Collective online platform. This is a modular, scale-able revenue generation and management platform for open access books, available to publishers, libraries and other users. The platform offers a range of flexible subscription models for subscribers to support OA book, and supports publishers in distributing their output, networking, and moving away from dependence on Book Processing Charges. The platform  emphasizes open source software, community-owned and led open access, and enables a range of publishers to work together, either as individuals or consortiums, via a networking model we call ‘scaling-small’. Scaling small allows publishers to benefit from mutual support and knowledge sharing without being forced to scale upwards in terms of production. WP2 is creating the technical infrastructures, organizational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term.  The revenue platform is designed with flexible modularity, portability, and customizability as its chief features, ensuring that both emerging, smaller-scale and established, larger-scale publishers seeking to transition to open access and in need of durable, flexible business models for doing so, can benefit from it. 
+WP2 is founding the Open Book Collective: a UK-registered charity comprised of OA book publishers, librarians and infrastructure providers. The OBC will  launch and support the Open Book Collective online platform. This is a modular, scale-able revenue generation and management platform for open access books, available to publishers, libraries and other users. The platform offers a range of flexible subscription models for subscribers to support OA book, and supports publishers in distributing their output, networking, and moving away from dependence on Book Processing Charges. The platform emphasizes open source software, community-owned and led open access, and enables a range of publishers to work together, either as individuals or consortiums, via a networking model we call ‘scaling-small’. Scaling small allows publishers to benefit from mutual support and knowledge sharing without being forced to scale upwards in terms of production. WP2 is creating the technical infrastructures, organizational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term.  The revenue platform is designed with flexible modularity, portability, and customizability as its chief features, ensuring that both emerging, smaller-scale and established, larger-scale publishers seeking to transition to open access and in need of durable, flexible business models for doing so, can benefit from it. 
 
 ### FAQs
 
@@ -31,14 +31,14 @@ The OBC is an output arising from the COPIM project, but is a separate legal ent
   </summary>
 
 The OBC platform is the online membership and revenue management platform of the Collective. It offers:
-  <ul>
-    <li>a space for OA book publishers and service providers to display their publications and infrastructure services as well as their missions, practices, and activities</li>
-    <li>an integrated and searchable index of OA books published by Collective publishers, which anybody may use</li>
-    <li>a discovery and distribution channel for OA books published by Collective publishers</li>
-    <li>open metadata, including catalog records in a variety of formats, for all of the OA books published by Collective publishers</li>
-    <li>an interface for OA publishers and service providers to present membership investment packages developed by the OBC to libraries and other research institutions for potential funding by those institutions</li>
-    <li>transparent information regarding where library and research institution funding is dedicated and from whom librarians and other users will have the opportunity to compare and contrast the offers from different publishers and collectives before committing to a subscription.</li>
-  </ul>
+
+* a space for OA book publishers and service providers to display their publications and infrastructure services as well as their missions, practices, and activities
+* an integrated and searchable index of OA books published by Collective publishers, which anybody may use
+* a discovery and distribution channel for OA books published by Collective publishers
+* open metadata, including catalog records in a variety of formats, for all of the OA books published by Collective publishers
+* an interface for OA publishers and service providers to present membership investment packages developed by the OBC to libraries and other research institutions for potential funding by those institutions
+* transparent information regarding where library and research institution funding is dedicated and from whom librarians and other users will have the opportunity to compare and contrast the offers from different publishers and collectives before committing to a subscription.
+
 </details>
 
 <details>
@@ -79,8 +79,8 @@ ScholarLed is a consortium of scholar-led, not-for-profit, open access book publ
   </summary>
 
 Please contact a member of the Outreach team for WP2:
-  <ul>
-    <li>Dr. Judith Fathallah, Lancaster University: j.fathallah@lancaster.ac.uk</li>
-    <li>Francesca Corazza, punctum books: francesca@punctum.com (European inquiries)</li>
-    <li>Livy Snyder, punctum books: livy@punctum.com (USA and Canada inquiries)</li>
+
+* Dr. Judith Fathallah, Lancaster University: j.fathallah@lancaster.ac.uk
+* Francesca Corazza, punctum books: francesca@punctum.com (European inquiries)
+* Livy Snyder, punctum books: livy@punctum.com (USA and Canada inquiries)
 </details>
