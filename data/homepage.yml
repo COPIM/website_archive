@@ -57,29 +57,29 @@ publications:
   enable : true
   title : "Research publications"
   item:
-    - title : "WP5 Scoping Report: Building an Open Dissemination System"
-      year : "2020"
-      url : "https://doi.org/10.5281/zenodo.3961564"
-
-    - title : "Revenue Models for Open Access Monographs 2020"
-      year : "2020"
-      url : "https://doi.org/10.5281/zenodo.4455511"
-
-    - title : "Books Contain Multitudes: Exploring Experimental Publishing"
+    - title : "Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors"
       year : "2021"
-      url : "https://doi.org/10.5281/zenodo.4486645"
-
-    - title : "Academic Libraries and Open Access Books in Europe. A Landscape Study"
-      year : "2021"
-      url : "https://doi.org/10.5281/zenodo.4483773"
+      url : "https://doi.org/10.5281/zenodo.5572413"
 
     - title : "The Promise of Collaboration: Collective Funding Models and the Integration of Open Access Books into Libraries"
       year : "2021"
       url : "https://doi.org/10.5281/zenodo.4756894"
 
-    - title : "Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors"
+    - title : "Academic Libraries and Open Access Books in Europe. A Landscape Study"
       year : "2021"
-      url : "https://doi.org/10.5281/zenodo.5572413"
+      url : "https://doi.org/10.5281/zenodo.4483773"
+
+    - title : "Books Contain Multitudes: Exploring Experimental Publishing"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4486645"
+
+    - title : "Revenue Models for Open Access Monographs 2020"
+      year : "2020"
+      url : "https://doi.org/10.5281/zenodo.4455511"
+
+    - title : "WP5 Scoping Report: Building an Open Dissemination System"
+      year : "2020"
+      url : "https://doi.org/10.5281/zenodo.3961564"
 
 # service
 service:
