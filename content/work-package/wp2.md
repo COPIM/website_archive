@@ -7,7 +7,7 @@ lastmod: "2022-01-24"
 
 WP2 is founding the Open Book Collective: a UK-registered charity comprised of OA book publishers, librarians and infrastructure providers. The OBC will  launch and support the Open Book Collective online platform. This is a modular, scale-able revenue generation and management platform for open access books, available to publishers, libraries and other users. The platform offers a range of flexible subscription models for subscribers to support OA book, and supports publishers in distributing their output, networking, and moving away from dependence on Book Processing Charges. The platform emphasizes open source software, community-owned and led open access, and enables a range of publishers to work together, either as individuals or consortiums, via a networking model we call ‘scaling-small’. Scaling small allows publishers to benefit from mutual support and knowledge sharing without being forced to scale upwards in terms of production. WP2 is creating the technical infrastructures, organizational processes (together with WP4), financial management procedures, and legal standards to enable these new funding channels to be sustainable long term.  The revenue platform is designed with flexible modularity, portability, and customizability as its chief features, ensuring that both emerging, smaller-scale and established, larger-scale publishers seeking to transition to open access and in need of durable, flexible business models for doing so, can benefit from it. 
 
-### FAQs
+### Frequently Asked Questions
 
 <details>
   <summary>
