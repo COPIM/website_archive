@@ -34,7 +34,7 @@ We have:
 * spoken to digital preservation services about their offerings to smaller publishers
 * been sharing knowledge with related projects and initiatives
 * investigated the options of using Thoth (see WP5) to automatically ingest metadata and files into an archiving or preservation system
-* investigated manual and automated (API based) workflows for using institutional repositories as an archiving mechanism for OA presses.
+* investigated manual and automated (API based) workflows for using institutional repositories as an archiving mechanism for OA presses
 </details>
 
 <details>
