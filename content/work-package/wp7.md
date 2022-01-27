@@ -34,7 +34,7 @@ We have:
 * spoken to digital preservation services about their offerings to smaller publishers
 * been sharing knowledge with related projects and initiatives
 * investigated the options of using Thoth (see WP5) to automatically ingest metadata and files into an archiving or preservation system
-* investigated manual and automated (API based) workflows for using institutional repositories as an archiving mechanism for OA presses.
+* investigated manual and automated (API based) workflows for using institutional repositories as an archiving mechanism for OA presses
 </details>
 
 <details>
@@ -65,6 +65,6 @@ Yes please! The more people we speak to working on similar topics or in similar 
 
 * Dr. Gareth Cole, Loughborough University Library (WP co-lead): g.j.cole@lboro.ac.uk
 * Dr. Rupert Gatti, Open Book Publishers and Trinity College, Cambridge (WP co-lead): rupert.gatti@openbookpublishers.com
-* Dr. Miranda Barnes, Loughborough University (Research Associate): m.l.barnes@lboro.ac.uk.
+* Dr. Miranda Barnes, Loughborough University (Research Associate): m.l.barnes@lboro.ac.uk
 * Prof. Jenny Fry, Loughborough University, School of Design and Creative Arts (academic mentor): j.fry@lboro.ac.uk
 </details>
