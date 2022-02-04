@@ -33,7 +33,7 @@ Our project management and outreach infrastructure includes:
 
 * a [Nextcloud](https://nextcloud.com/) file management site linked to an [ONLYOFFICE](https://www.onlyoffice.com/) office applications suite
 * a [Mattermost](https://mattermost.com/) collaboration and communications platform kindly hosted by [ScholarLed](https://scholarled.org/)
-* a [PubPub](https://copim.pubpub.org/) site for open documentation and report publications
+* a [PubPub](https://copim.pubpub.org/) site for open documentation and report publications kindly hosted by [Knowledge Futures Group](https://www.knowledgefutures.org/)
 * a [BigBlueButton](https://bigbluebutton.org/) service for video calls and online project meetings
 * our [main website](https://copim.ac.uk/) which is managed through a [Gitea](https://gitea.io/) Git repository and built using [Hugo](https://gohugo.io/) static site generator
 * a [Gitea](https://gitea.io) site for sharing and managing internal code and a [GitHub](https://github.com/COPIM) account for sharing code externally
