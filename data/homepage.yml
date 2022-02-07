@@ -57,6 +57,14 @@ publications:
   enable : true
   title : "Research publications"
   item:
+    - title : "Open Access Monographs: Myths, Truths and Implications in the Wake of UKRI Open Access Policy"
+      year : "2022"
+      url : "https://doi.org/10.53377/lq.11068"
+
+    - title : "Scaling Small; Or How to Envision New Relationalities for Knowledge Production"
+      year : "2021"
+      url : "https://doi.org/10.16997/wpcc.918"
+
     - title : "Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors"
       year : "2021"
       url : "https://doi.org/10.5281/zenodo.5572413"
