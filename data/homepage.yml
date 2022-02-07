@@ -9,7 +9,7 @@ about:
   subcontent: "Open access book publishing stands at a crossroads: one avenue leads to the monopolisation of open access by large commercial publishers and for-profit intermediaries, with infrastructures and funding systems set up to serve those businesses and their approaches; the other opens up a more diverse, scholar-led, community-owned, and not-for-profit publishing ecosystem that enables smaller and more community-focused presses to thrive and multiply."
   button:
     enable : true
-    label : "know more"
+    label : "learn more"
     URL : "about-us"
 
 # skill

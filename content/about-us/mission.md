@@ -3,6 +3,9 @@ title: "Mission, vision, values"
 weight: 20
 date: "2022-02-07"
 lastmod: "2022-02-07"
+image: "/images/alex-shute-eVhVt7YcMfM-unsplash.jpg"
+image_alt_text: "photo by Alex Shute of Scrabble tiles spelling out 'mission'"
+image_credit: "Image by [Alex Shute](https://unsplash.com/photos/eVhVt7YcMfM) on Unsplash."
 ---
 
 ### Vision Statement
