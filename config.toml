@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://c.copim.ac.uk"
+baseURL = "http://localhost:1337"
 languageCode = "en-gb"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -34,9 +34,59 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
+identifier = "about"
 URL = "about-us"
 name = "About"
 weight = 1
+
+[[menu.main]]
+identifier = "mission"
+URL = "about-us/mission"
+name = "Mission, vision, values"
+parent = "about"
+weight = 1
+
+[[menu.main]]
+identifier = "aims"
+URL = "about-us/aims"
+name = "Aims"
+parent = "about"
+weight = 2
+
+[[menu.main]]
+identifier = "consortium"
+URL = "about-us/consortium"
+name = "Consortium"
+parent = "about"
+weight = 3
+
+[[menu.main]]
+identifier = "people"
+URL = "about-us/people"
+name = "People"
+parent = "about"
+weight = 4
+
+[[menu.main]]
+identifier = "funders"
+URL = "about-us/funders"
+name = "Funders"
+parent = "about"
+weight = 5
+
+[[menu.main]]
+identifier = "impact"
+URL = "about-us/impact"
+name = "Impact"
+parent = "about"
+weight = 6
+
+[[menu.main]]
+identifier = "contact"
+URL = "about-us/contact"
+name = "Contact"
+parent = "about"
+weight = 7
 
 [[menu.main]]
 identifier = "governance"
@@ -182,8 +232,3 @@ URL = "https://twitter.com/COPIMproject"
 name = "Zenodo"
 icon = "ti-write"
 URL = "https://zenodo.org/communities/copim/"
-
-[[params.social]]
-name = "GitHub"
-icon = "ti-github"
-URL = "https://github.com/COPIM"
