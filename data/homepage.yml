@@ -33,10 +33,10 @@ skill:
       progress : "70%"
       color : "#ffbcaa"
 
-# outputs
-outputs:
-  enable : true
-  title : "Outputs"
+# experience
+experience:
+  enable : false
+  title : "Experience"
   item:
     - logo : "images/opening_the_future.png"
       title : "Opening the Future"
@@ -89,31 +89,36 @@ publications:
       year : "2020"
       url : "https://doi.org/10.5281/zenodo.3961564"
 
-# service
-service:
-  enable : false
-  title : "Services"
+# outputs
+outputs:
+  enable : true
+  title : "Outputs"
   item:
-    - title : "UI Design"
+    - title : "Opening the Future"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      logo : "images/opening_the_future.png"
+      content : "Opening the Future (OtF) is a collective subscription model that, through its membership scheme, makes library funds go further: achieving the dual objectives of increasing collections and supporting Open Access."
       highlighted : true
+      url: "https://www.openingthefuture.net/"
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Open Book Collective"
+      icon : "ti-vector"
+      logo : "images/obc_logo.png"
+      content : "The Open Book Collective (OBC) offers a single platform where libraries can find, assess, and sign up to support OA book programmes."
       highlighted : false
+
+    - title : "Thoth"
+      icon : "ti-panel"
+      logo : "images/thoth-banner.png"
+      content : "Thoth (/toʊt, θoʊθ/, Greek Θώθ < Coptic Ⲑⲱⲟⲩⲧ < Egyptian ḏḥwtj) is an open metadata management and dissemination system for Open Access books."
+      highlighted : true
+      url: "https://thoth.pub"
 
 # portfolio
 portfolio:
-  enable : false
-  title : "Portfolio"
-  item_show : 5
+  enable : true
+  title : "Work packages"
+  item_show : 7
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # work packages

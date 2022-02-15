@@ -56,12 +56,3 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
    - Morka, Agata (2020). Library Support for OA Books Workshop: the Southern European perspective. https://doi.org/10.21428/785a6451.c1cd7059   
 * Joint OPERAS-P & COPIM report
    - Morka, Agata, & Gatti, Rupert. (2021, January 31). Academic Libraries and Open Access Books in Europe. A Landscape Study. Zenodo. https://doi.org/10.5281/zenodo.4483773 and PubPub book https://doi.org/10.21428/785a6451.f710a335
-
-
-
-&nbsp;  
-
-
-
-
----

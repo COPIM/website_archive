@@ -34,59 +34,66 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
+identifier = "about_menu"
+URL = "about-us"
+name = "About"
+weight = 1
+
+[[menu.main]]
 identifier = "about"
 URL = "about-us"
 name = "About"
+parent = "about_menu"
 weight = 1
 
 [[menu.main]]
 identifier = "mission"
 URL = "about-us/mission"
 name = "Mission, vision, values"
-parent = "about"
-weight = 1
+parent = "about_menu"
+weight = 2
 
 [[menu.main]]
 identifier = "aims"
 URL = "about-us/aims"
 name = "Aims"
-parent = "about"
-weight = 2
+parent = "about_menu"
+weight = 3
 
 [[menu.main]]
 identifier = "consortium"
 URL = "about-us/consortium"
 name = "Consortium"
-parent = "about"
-weight = 3
+parent = "about_menu"
+weight = 4
 
 [[menu.main]]
 identifier = "people"
 URL = "about-us/people"
 name = "People"
-parent = "about"
-weight = 4
+parent = "about_menu"
+weight = 5
 
 [[menu.main]]
 identifier = "funders"
 URL = "about-us/funders"
 name = "Funders"
-parent = "about"
-weight = 5
+parent = "about_menu"
+weight = 6
 
 [[menu.main]]
 identifier = "impact"
 URL = "about-us/impact"
 name = "Impact"
-parent = "about"
-weight = 6
+parent = "about_menu"
+weight = 7
 
 [[menu.main]]
 identifier = "contact"
 URL = "about-us/contact"
 name = "Contact"
-parent = "about"
-weight = 7
+parent = "about_menu"
+weight = 8
 
 [[menu.main]]
 identifier = "governance"
@@ -164,9 +171,24 @@ parent = "work-package"
 weight = 7
 
 [[menu.main]]
-URL = "events"
-name = "Workshops"
+identifier = "outputs_menu"
+URL = "/outputs"
+name = "Outputs"
 weight = 4
+
+[[menu.main]]
+identifier = "outputs"
+URL = "/outputs"
+name = "Outputs"
+parent = "outputs_menu"
+weight = 1
+
+[[menu.main]]
+identifier = "workshops"
+URL = "/outputs/events"
+name = "Workshops"
+parent = "outputs_menu"
+weight = 2
 
 
 # default parameters
@@ -177,6 +199,7 @@ logo = "images/copim-logo.png"
 theme_color = "#FFFFFF"
 hover_link = "#EB7F1D"
 highlight_colour = "#EB7F1D"
+light_highlight_colour = "#F8D9AA"
 # contact info
 pubpub = "https://copim.pubpub.org/"
 twitter = "https://twitter.com/COPIMproject"
