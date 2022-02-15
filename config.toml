@@ -255,3 +255,8 @@ URL = "https://twitter.com/COPIMproject"
 name = "Zenodo"
 icon = "ti-write"
 URL = "https://zenodo.org/communities/copim/"
+
+[[params.social]]
+name = "GitHub"
+icon = "ti-github"
+URL = "https://github.com/COPIM"
