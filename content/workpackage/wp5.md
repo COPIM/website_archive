@@ -1,8 +1,12 @@
 ---
-title: "WP5: Building an Open Dissemination System"
+title: "WP5: Thoth"
 weight: 50
 date: "2020-01-01"
 lastmod: "2021-07-15"
+image: "images/thoth-banner.png"
+image_alt_text: "logo for Thoth"
+external_url: "https://thoth.pub"
+
 ---
 
 ### Contact

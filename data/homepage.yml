@@ -115,7 +115,7 @@ outputs:
       url: "https://thoth.pub"
 
 # portfolio
-portfolio:
+workpackage:
   enable : true
   title : "Work packages"
   item_show : 7
@@ -123,7 +123,7 @@ portfolio:
 
 # work packages
 packages:
-  enable : true
+  enable : false
   title : "Work packages"
   item:
     - name : "Project Management & Outreach"

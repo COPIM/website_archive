@@ -3,6 +3,9 @@ title: "WP1: Project Management & Outreach"
 weight: 10
 date: "2020-01-01"
 lastmod: "2022-02-03"
+image: "/images/copim-infrastructure-platform-overview.jpg"
+image_alt_text: "diagram of COPIM's infrastructure comprising its various open-source application platforms"
+
 ---
 
 WP1 coordinates activities across the COPIM project, fosters exchange across Work Packages, manages public dissemination and outreach activities, and maintains technical infrastructure for project management and communication.

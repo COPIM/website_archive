@@ -3,6 +3,10 @@ title: "WP3: Opening the Future"
 weight: 30
 date: "2020-01-01"
 lastmod: "2022-01-25"
+image: "/images/opening_the_future.png"
+image_alt_text: "logo for Opening the Future"
+external_url: "https://www.openingthefuture.net/"
+
 ---
 
 Opening the Future (OtF) is a collective subscription model that, through its membership scheme, makes library funds go further: achieving the dual objectives of increasing collections and supporting Open Access.

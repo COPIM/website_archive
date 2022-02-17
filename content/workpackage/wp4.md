@@ -3,6 +3,9 @@ title: "WP4: Community Governance"
 weight: 40
 date: "2020-01-01"
 lastmod: "2022-02-07"
+image: "/images/copim_first_meeting.jpg"
+image_alt_text: "photo of one of the first meetings for the COPIM project"
+
 ---
 
 WP4 is exploring community governance with a view to designing the policies and procedures for community oversight of the infrastructures and models that the COPIM project is developing. Our aim is to create durable organisational structures for the coordination, governance and administrative support of the project’s community-owned infrastructures. This includes developing new avenues of outreach, communication and partnership with diverse stakeholders in open research with a shared interest in this infrastructure, creating genuine community involvement and collective control. This also involves ensuring the infrastructures won’t be governed by a particular commercial interest. To aid our research and development work we have assembled a community governance working group (consisting of publishers, librarians, and researchers) on Humanities Commons for: (a) the long-term management of consortial library funding programs, and (b) the identification and fostering of library-publisher experiments and projects that emphasise horizontal and cooperative knowledge-sharing between librarians, publishers, and researchers. We are also conducting research on best practices for governing collaborative community-based book publishing projects of various scales, in line with professed needs of new and upstart publishers. 

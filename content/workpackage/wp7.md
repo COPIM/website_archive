@@ -3,6 +3,9 @@ title: "WP7: Archiving and Digital Preservation"
 weight: 70
 date: "2020-01-01"
 lastmod: "2022-01-27"
+image: "/images/2-34.jpg"
+image_alt_text: "stylised photo of a hand holding an uprooted plant"
+
 ---
 
 ### Frequently Asked Questions
