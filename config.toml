@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://c.copim.ac.uk"
+baseURL = "http://localhost:1337"
 languageCode = "en-gb"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -116,58 +116,58 @@ parent = "governance"
 weight = 2
 
 [[menu.main]]
-identifier = "work-package"
-URL = "work-package"
+identifier = "workpackage"
+URL = "workpackage"
 name = "Work packages"
 weight = 3
 
 [[menu.main]]
 identifier = "wp1"
 name = "WP1: Project Infrastructure"
-url = "/work-package/wp1"
-parent = "work-package"
+url = "/workpackage/wp1"
+parent = "workpackage"
 weight = 1
 
 [[menu.main]]
 identifier = "wp2"
 name = "WP2: Open Book Collective"
-url = "/work-package/wp2"
-parent = "work-package"
+url = "/workpackage/wp2"
+parent = "workpackage"
 weight = 2
 
 [[menu.main]]
 identifier = "wp3"
 name = "WP3: Opening the Future"
-url = "/work-package/wp3"
-parent = "work-package"
+url = "/workpackage/wp3"
+parent = "workpackage"
 weight = 3
 
 [[menu.main]]
 identifier = "wp4"
 name = "WP4: Community Governance"
-url = "/work-package/wp4"
-parent = "work-package"
+url = "/workpackage/wp4"
+parent = "workpackage"
 weight = 4
 
 [[menu.main]]
 identifier = "wp5"
 name = "WP5: Thoth"
-url = "/work-package/wp5"
-parent = "work-package"
+url = "/workpackage/wp5"
+parent = "workpackage"
 weight = 5
 
 [[menu.main]]
 identifier = "wp6"
 name = "WP6: Experimental Publishing"
-url = "/work-package/wp6"
-parent = "work-package"
+url = "/workpackage/wp6"
+parent = "workpackage"
 weight = 6
 
 [[menu.main]]
 identifier = "wp7"
 name = "WP7: Digital Preservation"
-url = "/work-package/wp7"
-parent = "work-package"
+url = "/workpackage/wp7"
+parent = "workpackage"
 weight = 7
 
 [[menu.main]]
