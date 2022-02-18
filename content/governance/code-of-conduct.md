@@ -24,7 +24,7 @@ The COPIM Code of Conduct is available in full below and at https://copim.pubpub
     COPIM Code of Conduct
   </summary>
 
-### Why we Have a Code of Conduct
+## Why we Have a Code of Conduct
 
 COPIM is a community-led and community-focused project. We value the involvement of everyone in our community, and to enable this we are committed to creating a friendly and respectful place for sharing, exchange, and the development of programs and initiatives. All participants in our events, projects, and communications are expected to show respect and courtesy to others.
 
@@ -32,7 +32,7 @@ COPIM is dedicated to providing a welcoming and supportive environment for all p
 
 This Code of Conduct defines a minimum set of guidelines of expected and unacceptable behaviour.
 
-### Who Does this CoC Apply To?
+## Who Does this CoC Apply To?
 
 To make clear what is expected, everyone participating in COPIM’s activities is required to abide by the Code of Conduct. It applies equally to everyone who interacts and contributes to COPIM projects and spaces without any exceptions (e.g. we will make no exceptions based on standing, skills or accomplishments in COPIM projects). This includes project partners and members, event organisers and participants, and board members of COPIM.
 
@@ -48,7 +48,7 @@ This Code of Conduct applies to all spaces managed by COPIM including, but not l
 
 By participating, participants and COPIM members indicate their acceptance of the procedures by which COPIM resolves any Code of Conduct incidents, which may include storage and processing of their personal information. Actions that contradict the Code of Conduct can result in sanctions (see Enforcement Guidelines).
 
-### Our Values
+## Our Values
 
 Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage examples of the following kinds of behaviours  that contributes to a positive environment for our community in all platforms and events:
 
@@ -68,7 +68,7 @@ Your work will be used by other people, and you in turn will depend on the work 
 
 Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
 
-#### Mutual Respect
+### Mutual Respect
 
 Members of the COPIM community should be respectful when dealing with other members as well as with people outside the COPIM community. In communicating with people, whether in online or offline COPIM environments, we will treat each other with mutual respect.
 
@@ -83,7 +83,7 @@ Members of the COPIM community should be respectful when dealing with other memb
 * People having a particular physical or mental disability may use particular terms to describe themselves
 * **Welcome everyone.** During in-person meetings, we will be welcoming to everyone and we will be mindful and respectful of each others’ preferences, boundaries, sensibilities, traditions, and requirements.
 
-#### Civility, Collegiality, Mutual Support and Good Citizenship
+### Civility, Collegiality, Mutual Support and Good Citizenship
 
 This includes but is not limited to:
 
@@ -91,7 +91,7 @@ This includes but is not limited to:
 * **Looking out for fellow community members.** Lending them a hand when they need support, and speaking up for them when they are treated in a way that falls short of expected behaviour as per the Code of Conduct.
 * **Recognise and credit the work done by contributors.** Thanking them for their help and work. Appreciating their efforts and give credit where it is due.
 
-### Unacceptable Behaviour
+## Unacceptable Behaviour
 
 We are a community of professionals, and we conduct ourselves professionally. Be kind and respectful to others. Do not insult or put down other participants. Public or private harassment and other types of exclusionary behaviour are not acceptable.
 
@@ -119,7 +119,7 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 
 Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we are different. The strength of COPIM comes from its varied community, inclusive of people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint does not mean that they are wrong. Don’t forget that it is human to err, and blaming each other does not get us anywhere. Instead, focus on collectively helping to resolve issues and learning from mistakes.
 
-#### Harassment
+### Harassment
 
 This includes any behaviour intended primarily to intimidate, outrage, or upset a person, or any behaviour where this would reasonably be considered the most likely main outcome. Behaviour can be considered harassment if it is beyond what a reasonable person would be expected to tolerate in a global, intercultural environment. Harassment often takes the form of emotional abuse, especially towards people who are in a vulnerable position, and may include contacting workplaces or friends and family members in an effort to intimidate or embarrass someone. In some cases, behaviour that would not rise to the level of harassment in a single case can become harassment through repetition.
 
@@ -133,7 +133,7 @@ This includes any behaviour intended primarily to intimidate, outrage, or upset 
 * **Hounding.** Following a person across the project(s) and repeatedly critiquing their work mainly with the intent to upset or discourage them;
 * **Trolling.** Deliberately disrupting conversations or posting in bad-faith to intentionally provoke.
 
-#### Abuse of Power, Privilege, or Influence
+### Abuse of Power, Privilege, or Influence
 
 Abuse occurs when someone in a real or perceived position of power, privilege, or influence engages in disrespectful, cruel, and/or violent behaviour towards other people. In COPIM environments, it may take the form of verbal or psychological abuse and may overlap with harassment. This includes:
 
@@ -141,13 +141,13 @@ Abuse occurs when someone in a real or perceived position of power, privilege, o
 * **Abuse of seniority and connections.** Using one's position and reputation to intimidate others. We expect people with significant experience and connections in the movement to behave with special care because hostile comments from them may carry an unintended backlash. People with community authority have a particular privilege to be viewed as reliable and should not abuse this privilege to attack others who disagree with them;
 * **Psychological manipulation.** Maliciously causing someone to doubt their own perceptions, senses, or understanding with the objective to win an argument, or force someone to behave the way you want;
 
-### Reporting Instructions
+## Reporting Instructions
 
 **The COPIM [Code of Conduct Committee](/governance/code-of-conduct) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [conduct@copim.ac.uk](mailto:conduct@copim.ac.uk).**
 
 All reports will be reviewed by the Code of Conduct Committee according to our Enforcement Guidelines (see underneath) and will be kept confidential. A report guarantees review, but not necessarily that an action will be taken.
 
-#### Code of Conduct Incident Reporting Guidelines
+### Code of Conduct Incident Reporting Guidelines
 
 If you are attending a COPIM workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, or another community member to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a COPIM workshop or in-person or virtual event, event organisers should determine emergency contact numbers and local procedures.
 
@@ -173,7 +173,7 @@ The Code of Conduct committee may determine that a public statement should be ma
 * If you believe this incident is ongoing;
 * Any other information you believe we should have.
 
-#### What happens after you file a report?
+### What happens after you file a report?
 
 Following Up with Reporter(s): Once a report is received from the email address provided above, the Code of Conduct committee will handle the review and follow up according to the procedures in the Enforcement Guidelines. You will receive an email from the CoC Committee acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
 
@@ -190,7 +190,7 @@ Once the Committee has a complete account of the events they will make a decisio
 
 This information will be collected in writing, and whenever possible or appropriate the committee's deliberations will be recorded and retained (i.e. email discussions, recorded voice conversations, etc.).
 
-#### Immediate Response
+### Immediate Response
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any COPIM events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform, or engage COPIM’s [Code of Conduct Committee](/governance/code-of-conduct) to investigate the Code of Conduct violation and impose appropriate sanctions.
 
@@ -200,7 +200,7 @@ If you can, move from being a bystander to being a Code of Conduct first respond
 
 Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone’s safety (e.g. threats of violence), any member of the community may – and should – act immediately to protect the safety of others. This can include contacting emergency or crisis resources.
 
-##### Immediate Response Checklist
+#### Immediate Response Checklist
 
 * Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number;
 * If there is any general threat to participants and/or the safety of anyone attending a COPIM event, contact the emergency response number established;
@@ -215,7 +215,7 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 
 Often an apology centres the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
 
-### Enforcement Guidelines
+## Enforcement Guidelines
 
 All responses to reports of conduct violations will be managed by the COPIM [Code of Conduct Committee](/governance/code-of-conduct). This section outlines the Incident Response Procedure and Enforcement Guidelines followed by the COPIM Code of Conduct Committee once an incident report is received by emailing conduct (@) copim.ac.uk.
 
@@ -223,7 +223,7 @@ These guidelines are used when the Committee reviews and resolves incidents to e
 
 The COPIM Project Group will establish this committee, comprised of at least three members. One member will be designated Chair of the committee and will be responsible for all reports back to the Project Group. The Project Group will review membership on a regular basis.
 
-### Resolutions
+## Resolutions
 
 The committee must agree on a resolution by the majority of all members investigating the incident in question. If the committee cannot reach a majority decision and deadlocks for over one week, they will turn the matter over to the COPIM PIs for resolution.
 
@@ -237,7 +237,7 @@ What follows are examples of possible resolutions to an incident report. This li
 * A permanent or temporary ban from some or all COPIM spaces (Mattermost, NextCloud, workshops and meetings, etc.) The CoC committee will maintain records of all such bans so that they may be reviewed in the future, extended to new communication forums, or otherwise maintained.
 * A request for a public or private apology. A committee member will deliver this request. The committee may, if it chooses, attach "strings" to this request: for example, the committee may ask a violator to apologise in order to retain their membership on a mailing list.
 
-#### During a workshop/conference or event
+### During a workshop/conference or event
 
 * Requiring that the reportee avoid any interaction with, and physical proximity to, another person for the remainder of the COPIM event;
 * Ending a talk that violates the Code of Conduct early;
@@ -248,7 +248,7 @@ What follows are examples of possible resolutions to an incident report. This li
 * Requiring that the reportee immediately leave an event and not return;
 * Immediately ending any volunteer responsibilities and privileges the reportee holds.
 
-### Following up with the Reporter and Reportee
+## Following up with the Reporter and Reportee
 
 Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The committee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this feedback.
 
@@ -263,7 +263,7 @@ When following up with the reportee, the CoC Committee representatives will:
 
 Finally the Committee will make a report for the COPIM Project Group in the event of an ongoing resolution, such as a termed suspension or ban. In case the incident or report involves a current member of the COPIM Project Group, the committee will provide the report only to the other Project Group members. The Committee will never publicly discuss the issue; all public statements will be made by the COPIM Project Group.
 
-### Appeal Process
+## Appeal Process
 
 Any individual(s) involved in a Code of Conduct report handled by CoC committee has the right to appeal a decision made by the committee. An appeal can be made directly to the Committee (email: conduct (@) copim.ac.uk) or to the Chair (email: Tim_Elfenbein (@) forthcoming.work) by sending an email with the subject line **Code of Conduct Incident Appeal**. Appeals can be requested up to 30 days after a resolution has been determined.
 
@@ -273,25 +273,25 @@ The email should include documentation related to the incident to support the ap
 * Letters of support from community members;
 * Statements from other individuals involved in the incident to support the appeal.
 
-### Accountability
+## Accountability
 
 The CoC committee will submit a report to the COPIM Project Group in the event of an ongoing resolution, such as a termed suspension or ban.
 
 At the end of every year, the COPIM Project Group will publish an aggregated count of the incidents the Code of Conduct Committee has reviewed, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and, for each of these, under which part of the Code of Conduct the incident was classified.
 
-### Conflicts of Interest
+## Conflicts of Interest
 
 In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members and recuse themselves if necessary.
 
 In the case that a CoCc member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the Code of Conduct committee.
 
-### Update Logs
+## Update Logs
 
 This CoC was first published on Friday May 28th 2021.
 
 Subsequent edits will be documented in this section.
 
-### About this Document
+## About this Document
 
 This document is adapted from guidelines written by
 

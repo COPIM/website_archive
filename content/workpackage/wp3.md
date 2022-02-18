@@ -15,7 +15,7 @@ In essence, academic library members sign up to pay a small annual fee to get DR
 
 ![diagram illustrating the Opening the Future concept in a nutshell](/images/wp3_opening_the_future_model.png)
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
   <summary>

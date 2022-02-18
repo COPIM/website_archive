@@ -8,7 +8,7 @@ image_alt_text: "stylised photo of a hand holding an uprooted plant"
 
 ---
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
   <summary>
