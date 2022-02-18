@@ -3,9 +3,9 @@ title: "People"
 weight: 40
 date: "2019-11-01"
 lastmod: "2021-09-08"
+image: "/images/copim-teamphoto-jan2020.jpg"
+image_alt_text: "group photo of COPIM project team members circa January 2020"
 ---
-
-![group photo of COPIM project team members circa January 2020](/images/copim-teamphoto-jan2020.jpg)
 
 *in alphabetical order:*   
 

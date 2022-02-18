@@ -1,0 +1,195 @@
+# banner
+banner:
+  title : "Community-led Open Publishing Infrastructures for Monographs"
+
+# about
+about:
+  enable : true
+  content : "COPIM (Community-led Open Publication Infrastructures for Monographs) is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. It is building community-owned, open systems and infrastructures to enable open access book publishing to flourish."
+  subcontent: "Open access book publishing stands at a crossroads: one avenue leads to the monopolisation of open access by large commercial publishers and for-profit intermediaries, with infrastructures and funding systems set up to serve those businesses and their approaches; the other opens up a more diverse, scholar-led, community-owned, and not-for-profit publishing ecosystem that enables smaller and more community-focused presses to thrive and multiply."
+  button:
+    enable : true
+    label : "learn more"
+    URL : "about-us"
+
+# skill
+skill:
+  enable : false
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : false
+  title : "Experience"
+  item:
+    - logo : "images/opening_the_future.png"
+      title : "Opening the Future"
+      subtitle : "A New Model for Open Access Books"
+      url: "https://www.openingthefuture.net/"
+
+    - logo : "images/obc_logo.png"
+      title : "Open Book Collective"
+      subtitle : "A Platform for Promoting Open Access Publishing and Managing Funding Schemes"
+
+    - logo : "images/thoth-banner.png"
+      title : "Thoth"
+      subtitle : "Software for Open Metadata"
+      url: "https://thoth.pub"
+
+# publications
+publications:
+  enable : true
+  title : "Research publications"
+  item:
+    - title : "Open Access Monographs: Myths, Truths and Implications in the Wake of UKRI Open Access Policy"
+      year : "2022"
+      url : "https://doi.org/10.53377/lq.11068"
+
+    - title : "Scaling Small; Or How to Envision New Relationalities for Knowledge Production"
+      year : "2021"
+      url : "https://doi.org/10.16997/wpcc.918"
+
+    - title : "Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.5572413"
+
+    - title : "The Promise of Collaboration: Collective Funding Models and the Integration of Open Access Books into Libraries"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4756894"
+
+    - title : "Academic Libraries and Open Access Books in Europe. A Landscape Study"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4483773"
+
+    - title : "Books Contain Multitudes: Exploring Experimental Publishing"
+      year : "2021"
+      url : "https://doi.org/10.5281/zenodo.4486645"
+
+    - title : "Revenue Models for Open Access Monographs 2020"
+      year : "2020"
+      url : "https://doi.org/10.5281/zenodo.4455511"
+
+    - title : "WP5 Scoping Report: Building an Open Dissemination System"
+      year : "2020"
+      url : "https://doi.org/10.5281/zenodo.3961564"
+
+# outputs
+outputs:
+  enable : true
+  title : "Outputs"
+  item:
+    - title : "Opening the Future"
+      icon : "ti-palette"
+      logo : "images/opening_the_future.png"
+      content : "Opening the Future (OtF) is a collective subscription model that, through its membership scheme, makes library funds go further: achieving the dual objectives of increasing collections and supporting Open Access."
+      highlighted : true
+      url: "https://www.openingthefuture.net/"
+
+    - title : "Open Book Collective"
+      icon : "ti-vector"
+      logo : "images/obc_logo.png"
+      content : "The Open Book Collective (OBC) offers a single platform where libraries can find, assess, and sign up to support OA book programmes."
+      highlighted : false
+
+    - title : "Thoth"
+      icon : "ti-panel"
+      logo : "images/thoth-banner.png"
+      content : "Thoth (/toʊt, θoʊθ/, Greek Θώθ < Coptic Ⲑⲱⲟⲩⲧ < Egyptian ḏḥwtj) is an open metadata management and dissemination system for Open Access books."
+      highlighted : true
+      url: "https://thoth.pub"
+
+# portfolio
+workpackage:
+  enable : true
+  title : "Work packages"
+  item_show : 7
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# work packages
+packages:
+  enable : false
+  title : "Work packages"
+  item:
+    - name : "Project Management & Outreach"
+      designation : "WP1"
+      content : "WP1 coordinates project activities and fosters exchange across Work Packages and with the public through internal and external communication channels (NextCloud, Mattermost, BigBlueButton, Zoom, Twitter, PubPub, website, ...) and corresponding dissemination and outreach activities."
+
+    - name : "Open Book Collective"
+      designation : "WP2"
+      content : "WP2 is founding the Open Book Collective: a UK-registered charity comprised of OA book publishers, librarians and infrastructure providers. The OBC will launch and support the Open Book Collective online platform. This is a modular, scale-able revenue generation and management platform for open access books, available to publishers, libraries and other users. The platform offers a range of flexible subscription models for subscribers to support OA book, and supports publishers in distributing their output, networking, and moving away from dependence on Book Processing Charges. The platform emphasizes open source software, community-owned and led open access, and enables a range of publishers to work together, either as individuals or consortiums, via a networking model we call ‘scaling-small’."
+
+    - name : "Opening the Future"
+      designation : "WP3"
+      content : "Opening the Future (OtF) is a collective subscription model that, through its membership scheme, makes library funds go further: achieving the dual objectives of increasing collections and supporting Open Access. In essence, academic library members sign up to pay a small annual fee to get DRM-free, unlimited access to a selection of a participating publisher’s backlist; the membership revenue is then used by the publisher to produce new frontlist monographs which are openly licensed and openly (freely) accessible to anyone in the world."
+
+    - name : "Community Governance"
+      designation : "WP4"
+      content : "WP4 is exploring community governance with a view to designing the policies and procedures for community oversight of the infrastructures and models that the COPIM project is developing. Our aim is to create durable organisational structures for the coordination, governance and administrative support of the project’s community-owned infrastructures. This includes developing new avenues of outreach, communication and partnership with diverse stakeholders in open research with a shared interest in this infrastructure, creating genuine community involvement and collective control. This also involves ensuring the infrastructures won’t be governed by a particular commercial interest."
+
+    - name : "Building an Open Dissemination System"
+      designation : "WP5"
+      content : "WP5 is developing technical protocols and infrastructure to better integrate open access books into institutional library, digital learning and repository systems. This will support wider discovery and dissemination of open access books. Existing print and ebook distribution channels are difficult for new or open access publishers to engage with, requiring submission of metadata in multiple different formats (e.g. MARC, ONIX, KBART), and many platforms requiring multiple different metadata submissions; In addition, existing distribution channels are not well suited to open access content, while entirely new discovery and dissemination platforms are emerging (e.g. Google Books/Scholar)."
+
+    - name : "Experimental Publishing, Re-use, and Impact"
+      designation : "WP6"
+      content : "WP6 brings together presses, technologists, researchers, and authors to devise strategies to promote experimental book publishing and the reuse of, and engagement with, open access books. We are examining ways to align existing open source software, tools, work-flows and infrastructures for experimental publishing with the work-flow of open access book publishers more closely. To do so, together with the scholar-led presses Open Humanities Press, Mattering Press and Open Book Publishers, we are co-developing a set of pilot projects of experimental academic books which are being developed with the aid of these open source tools and technologies. We are also publishing research reports and are developing online resources for authors and publishers interested in exploring more experimental forms of publication."
+
+    - name : "Archiving and Digital Preservation"
+      designation : "WP7"
+      content : "WP7 will identify the key challenges associated with archiving research monographs in all their variation and complexity and develop new solutions. The concept of a monograph as “just” text with the odd image or table is increasingly outdated. “Books” now come in multiple digital formats (e.g. pdf, xml, epub) as well as hardcopy, and can also include embedded material such as videos and interactive 3D models. In some publications, users can interact directly with content hosted externally, such as databases and URLs. As individual objects, each of these formats—such as a pdf file or a video—appear in established guidance and standards for preservation and can be reliably archived with time, effort and resource. Yet how does one archive a “book” which consists of all of these?"
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder

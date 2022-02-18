@@ -1,47 +1,262 @@
-baseURL = "https://copim.ac.uk"
-languageCode = "en-us"
+# default configuration
+baseURL = "https://c.copim.ac.uk"
+languageCode = "en-gb"
+summaryLength = "10"
+theme = "kross-hugo"
 title = "COPIM"
-theme = "dot"
 
-[params]
-# logo is for all page
-logo = "images/copim-logo.png"
-# logo white is for homepage logo, you can use colorful logo too...
-logo_white = "images/copim-logo.png"
-# when logo is empty, it will shown your site title
+[markup.goldmark.renderer]
+unsafe = true
 
-# customize color
-primary_color = "#ea7f27"
-secondary_color = "#f9fff7"
-text_color = "#636363"
-text_color_dark = "#242738"
-white_color = "#ffffff"
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link= "css/style.css"
 
-# font family
-font_family = "lato" # Choose font family from : https://fonts.google.com/
 
-################################# navigation ################################
+# js plugin
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+
+# menu
 [[menu.main]]
-name = "Home"
-url = "about-us"
+identifier = "about_menu"
+URL = "about-us"
+name = "About"
 weight = 1
 
 [[menu.main]]
-name = "Governance"
-url = "governance"
+identifier = "about"
+URL = "about-us"
+name = "About"
+parent = "about_menu"
+weight = 1
+
+[[menu.main]]
+identifier = "mission"
+URL = "about-us/mission"
+name = "Mission, vision, values"
+parent = "about_menu"
 weight = 2
 
 [[menu.main]]
-name = "Work Packages"
-url = "work-package"
+identifier = "aims"
+URL = "about-us/aims"
+name = "Aims"
+parent = "about_menu"
 weight = 3
 
 [[menu.main]]
-name = "Workshops"
-url = "events"
+identifier = "consortium"
+URL = "about-us/consortium"
+name = "Consortium"
+parent = "about_menu"
 weight = 4
 
 [[menu.main]]
-name = "Open Documentation Site"
-url = "https://copim.pubpub.org/"
+identifier = "people"
+URL = "about-us/people"
+name = "People"
+parent = "about_menu"
 weight = 5
+
+[[menu.main]]
+identifier = "funders"
+URL = "about-us/funders"
+name = "Funders"
+parent = "about_menu"
+weight = 6
+
+[[menu.main]]
+identifier = "impact"
+URL = "about-us/impact"
+name = "Impact"
+parent = "about_menu"
+weight = 7
+
+[[menu.main]]
+identifier = "contact"
+URL = "about-us/contact"
+name = "Contact"
+parent = "about_menu"
+weight = 8
+
+[[menu.main]]
+identifier = "governance"
+URL = "governance"
+name = "Governance"
+weight = 2
+
+[[menu.main]]
+identifier = "advisory"
+name = "Advisory Board"
+url = "/governance/advisoryboard"
+parent = "governance"
+weight = 1
+
+[[menu.main]]
+identifier = "conduct"
+name = "Code of Conduct Committee"
+url = "/governance/code-of-conduct"
+parent = "governance"
+weight = 2
+
+[[menu.main]]
+identifier = "workpackage"
+URL = "workpackage"
+name = "Work packages"
+weight = 3
+
+[[menu.main]]
+identifier = "wp1"
+name = "WP1: Project Infrastructure"
+url = "/workpackage/wp1"
+parent = "workpackage"
+weight = 1
+
+[[menu.main]]
+identifier = "wp2"
+name = "WP2: Open Book Collective"
+url = "/workpackage/wp2"
+parent = "workpackage"
+weight = 2
+
+[[menu.main]]
+identifier = "wp3"
+name = "WP3: Opening the Future"
+url = "/workpackage/wp3"
+parent = "workpackage"
+weight = 3
+
+[[menu.main]]
+identifier = "wp4"
+name = "WP4: Community Governance"
+url = "/workpackage/wp4"
+parent = "workpackage"
+weight = 4
+
+[[menu.main]]
+identifier = "wp5"
+name = "WP5: Thoth"
+url = "/workpackage/wp5"
+parent = "workpackage"
+weight = 5
+
+[[menu.main]]
+identifier = "wp6"
+name = "WP6: Experimental Publishing"
+url = "/workpackage/wp6"
+parent = "workpackage"
+weight = 6
+
+[[menu.main]]
+identifier = "wp7"
+name = "WP7: Digital Preservation"
+url = "/workpackage/wp7"
+parent = "workpackage"
+weight = 7
+
+[[menu.main]]
+identifier = "outputs_menu"
+URL = "/outputs"
+name = "Outputs"
+weight = 4
+
+[[menu.main]]
+identifier = "outputs"
+URL = "/outputs"
+name = "Outputs"
+parent = "outputs_menu"
+weight = 1
+
+[[menu.main]]
+identifier = "workshops"
+URL = "/outputs/events"
+name = "Workshops"
+parent = "outputs_menu"
+weight = 2
+
+
+# default parameters
+[params]
+home = "Home"
+logo = "images/copim-logo.png"
+# theme colours
+theme_color = "#FFFFFF"
+hover_link = "#EB7F1D"
+highlight_colour = "#EB7F1D"
+light_highlight_colour = "#F8D9AA"
+# contact info
+pubpub = "https://copim.pubpub.org/"
+twitter = "https://twitter.com/COPIMproject"
+zenodo = "https://zenodo.org/communities/copim/"
+# meta description
+author = "COPIM"
+description = "Community-led Open Publication Infrastructures for Monographs"
+# google analytics
+google_analytics_id = "" # Your ID
+# baidu site verification
+baidu_site_verification = "" #Your verification code
+# baidu analytics
+baidu_analytics_id = "" #Your ID
+# copyright
+copyright = " [COPIM](/) and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
+
+
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+
+# contact
+[params.contact]
+enable = false
+form_action = "#" # contact form works with : https://formspree.io
+
+# google map
+[params.map]
+enable = false
+gmap_api = ""
+map_latitude = ""
+map_longitude = ""
+map_marker = "images/marker.png"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
+[[params.social]]
+name = "PubPub"
+icon = "ti-book"
+URL = "https://copim.pubpub.org/"
+
+[[params.social]]
+name = "Twitter"
+icon = "ti-twitter-alt"
+URL = "https://twitter.com/COPIMproject"
+
+[[params.social]]
+name = "Zenodo"
+icon = "ti-write"
+URL = "https://zenodo.org/communities/copim/"
+
+[[params.social]]
+name = "GitHub"
+icon = "ti-github"
+URL = "https://github.com/COPIM"
