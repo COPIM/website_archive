@@ -27,7 +27,7 @@ Our aim is to make it easier for authors and publishers to take up these kinds o
 
 #### Workshops
 
-##### Mapping, Connecting, Developing Future Book Imaginaries (July 1, 2020)
+**Mapping, Connecting, Developing Future Book Imaginaries (July 1, 2020)**
 
 As part of this online half-day stakeholder workshop we brought together some of the most cutting-edge open source software and platform providers working on reimagining the academic book. Together with a selection of scholar-led and new university presses we collaboratively explored the questions: how can we better enable the production and publication of experimental books; and what is already out there to support this?
 
@@ -39,7 +39,7 @@ https://www.copim.ac.uk/events/200701-experimental-publishing-workshop/
 * Moore, S., & Adema, J. (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. *COPIM*. https://doi.org/10.21428/785a6451.8265afcb
 * Moore, S., & Adema, J. (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing. *COPIM*. https://doi.org/10.21428/785a6451.a21d57b6
 
-##### ReUsing Sources 1 – Texts: Foraging, Slashing, Weeding, Composting, Assembling, Caring for Texts (June 3, 2021)
+**ReUsing Sources 1 – Texts: Foraging, Slashing, Weeding, Composting, Assembling, Caring for Texts (June 3, 2021)**
 
 For *ReUsing Sources 1: Texts*, we worked with the team behind the Combinatorial Books: Gathering Flowers pilot project, which in its first iteration consists of a collaborative ‘re-writing’ of Tondeur and Marder’s *The Chernobyl Herbarium* (Open Humanities Press, 2016); a process the authors conceptualised as a form of productive disappropriation. The engagement with the latter text, as well as discussions among the participants of this workshop, evolved through the collective assembly of an ad-hoc publication during the workshop. The publication consists of: (1) a collection of plants and their properties that can inform the creative, careful “composting” (through writing, reuse and publishing) of OA materials; (2) short experiments in rewriting a passage from the Chernobyl Herbarium; (3) plant-based recipes for re-using sources. By means of these exercises we are gathering new ways to re-engage with existing texts in and through scholarly writing.
 
@@ -51,7 +51,7 @@ https://www.copim.ac.uk/events/210603-experimental-publishing-reusing-sources-te
 * McHardy, J. (2021). Tentative Florilegium: Experiments & Recipes for ReWriting Books. *COPIM*. https://doi.org/10.21428/785a6451.840fc9e5
 Collaborative Publication: https://cryptpad.fr/pad/#/2/pad/view/vKt2EM2QooomsnOTpVtAqdswLbTvlNTztY3Hfkff7UU/
 
-##### ReUsing Sources 2 – Data: Translating, Performing, Computing, Masking, Dressing Data (June 17, 2021)
+**ReUsing Sources 2 – Data: Translating, Performing, Computing, Masking, Dressing Data (June 17, 2021)**
 
 For *ReUsing Sources 2: Data*, we worked with the [Politics of Patents](http://www.politicsofpatents.org/) (POP) team. POP investigates 200 years of global clothing patents to examine the shifting materialisation of body, citizenship, inventiveness and gender. The intention of this workshop was to discuss how archival data might be performed differently. This question speaks not only to researchers and artists who work with large archival data sets; it also speaks more broadly to how artists and scholars might engage datasets in a way that renders them open to investigation, creative critique and invention. The engagement as well as discussions among the participants of this workshop evolved through a tentative prototyping process. During the workshop participants drew on data from the POP project to prototype forms of data performance. Prototyping here served both: as a research methodology for critically engaging with and questioning normalised ways of relating with and around data; and as a prefigurative practice by which to imagine possible alternative procedures. The workshop participants engaged with mask patents from the POP archive stemming from different centuries. They did so through creative material interventions and by re-performing, translating or reanimating them in reference to contemporary and future personal, economic or socio-political conditions. Following the workshop, the question how books might perform archival data differently, became the lead question of the associated Archival Conversaions pilot book project.
 

@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://c.copim.ac.uk"
+baseURL = "http://localhost:1337"
 languageCode = "en-gb"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -47,53 +47,46 @@ parent = "about_menu"
 weight = 1
 
 [[menu.main]]
-identifier = "mission"
-URL = "about-us/mission"
-name = "Mission, vision, values"
+identifier = "aims"
+URL = "about-us/aims"
+name = "Our Aims"
 parent = "about_menu"
 weight = 2
 
 [[menu.main]]
-identifier = "aims"
-URL = "about-us/aims"
-name = "Aims"
+identifier = "mission"
+URL = "about-us/mission"
+name = "Our Mission and Values"
 parent = "about_menu"
 weight = 3
 
 [[menu.main]]
-identifier = "consortium"
-URL = "about-us/consortium"
-name = "Consortium"
+identifier = "who"
+URL = "about-us/who"
+name = "Who We Are"
 parent = "about_menu"
 weight = 4
-
-[[menu.main]]
-identifier = "people"
-URL = "about-us/people"
-name = "People"
-parent = "about_menu"
-weight = 5
 
 [[menu.main]]
 identifier = "funders"
 URL = "about-us/funders"
 name = "Funders"
 parent = "about_menu"
-weight = 6
+weight = 5
 
 [[menu.main]]
 identifier = "impact"
 URL = "about-us/impact"
 name = "Impact"
 parent = "about_menu"
-weight = 7
+weight = 6
 
 [[menu.main]]
 identifier = "contact"
 URL = "about-us/contact"
 name = "Contact"
 parent = "about_menu"
-weight = 8
+weight = 7
 
 [[menu.main]]
 identifier = "governance"
@@ -190,6 +183,10 @@ name = "Workshops"
 parent = "outputs_menu"
 weight = 2
 
+[[menu.main]]
+URL = "https://copim.pubpub.org/"
+name = "Open Documentation on PubPub"
+weight = 5
 
 # default parameters
 [params]
