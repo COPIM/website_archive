@@ -1,5 +1,5 @@
 ---
-title: "Outputs"
+title: "Milestones & Deliverables"
 weight: 80
 date: "2019-11-01"
 lastmod: "2022-03-08"
@@ -8,7 +8,7 @@ image_alt_text: "photo by Harald Arlander of a stylised letter A"
 image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqaQ) on Unsplash."
 ---
 
-#### Milestones
+## Milestones
 
 `updated 2022-03`
 
@@ -29,7 +29,7 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 
 
 
-#### Deliverables
+## Deliverables
 
 `updated 2022-03`
 
@@ -46,6 +46,10 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 | WP6     | D6.1 Scoping Report     | Adema, Janneke, Mars, Marcell, & Steiner, Tobias. (2021, January 29). Books Contain Multitudes: Exploring Experimental Publishing (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.4486645   |
 | WP6     | D6.2 Scoping Report     | Adema, Janneke, Moore, Samuel & Steiner, Tobias. (2021, October 19). Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors. Zenodo. https://doi.org/10.5281/zenodo.5572412   |
 | WP7     | D7.1 Scoping Report     | tbc    |
+
+
+&nbsp;  
+
 
 ## COPIM - OPERAS-P Liaison
 
