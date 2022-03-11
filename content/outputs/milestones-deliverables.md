@@ -17,11 +17,13 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 | WP2     | M2.1 COPIM Libraries & Publishers UK & US Workshops     | *see D2.2*     |
 | WP3     | M3.1 Revenue Models workshop     | Report: Eve, Martin Paul (2020). COPIM Publishers Workshop: Cost and Revenue Models. https://doi.org/10.21428/785a6451.c77576a6 |
 | WP4     | M4.1 Community Governance Workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. https://doi.org/10.21428/785a6451.6a3a2ca2   |
-| WP4     | M4.1 Community Governance Workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. https://doi.org/10.21428/785a6451.dfe7dc68   |
+|      |      | Report: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. https://doi.org/10.21428/785a6451.dfe7dc68   |
 | WP5     | M5.1 Publishers' workshop     | Report: Barnes, Lucy (2020). COPIM Publishers Workshop: Discovery & dissemination — the present. https://doi.org/10.21428/785a6451.3cc46720 & Barnes, Lucy (2020). COPIM Publishers Workshop: Discovery & dissemination — the future. https://doi.org/10.21428/785a6451.4657252e |
 | WP5     | M5.2/5.3 Development workshops   | Report: van Gerven Oei, Vincent, Gatti, Rupert, Arias, Javier & Elfenbein, Tim (2021). WP5 Thoth / Open Dissemination System meets Publishers workshop. https://doi.org/10.21428/785a6451.cfab5944 |
-| WP6     | M6.1 Experimental Publishing workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. https://doi.org/10.21428/785a6451.8265afcb & Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing. https://doi.org/10.21428/785a6451.a21d57b6 |
-| WP6     | M6.2 Experimental Reuse workshop     | Report: McHardy, Julien McHardy, Jungnickel, Kat, Kiesewetter, Rebekka & Fowles, Ellen (2021). Data Books & Data Bodies: Performing Archival Data differently. https://doi.org/10.21428/785a6451.fb44bb05 & McHardy, Julien (2021) Tentative Florilegium: Experiments & Recipes for ReWriting Books. https://doi.org/10.21428/785a6451.840fc9e5  |
+| WP6     | M6.1 Experimental Publishing workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 1: Inhibitions Towards Experimental Book Publishing. https://doi.org/10.21428/785a6451.8265afcb  |
+|     |       | Moore, Sam & Adema, Janneke (2020). COPIM Experimental Publishing Workshop - Part 2: Promoting Experimental Publishing. https://doi.org/10.21428/785a6451.a21d57b6 |
+|   WP6     | M6.2 Experimental Reuse workshop     | Report: McHardy, Julien McHardy, Jungnickel, Kat, Kiesewetter, Rebekka & Fowles, Ellen (2021). Data Books & Data Bodies: Performing Archival Data differently. https://doi.org/10.21428/785a6451.fb44bb05  |
+|        |      | McHardy, Julien (2021) Tentative Florilegium: Experiments & Recipes for ReWriting Books. https://doi.org/10.21428/785a6451.840fc9e5  |
 | WP7     | M7.1 Scoping workshop     |   Report: Bell, Emily. COPIM Archiving and Preservation Workshop, September 2020. Oct. 2020, https://doi.org/10.21428/785a6451.0e666456 |
 
 
