@@ -171,8 +171,8 @@ weight = 4
 
 [[menu.main]]
 identifier = "outputs"
-URL = "/outputs/outputs"
-name = "Outputs"
+URL = "/outputs/milestones-deliverables"
+name = "Milestones & Deliverables"
 parent = "outputs_menu"
 weight = 1
 
