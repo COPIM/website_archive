@@ -4,7 +4,7 @@ weight: 30
 date: "2019-11-01"
 lastmod: "2022-03-08"
 image: "/images/copim-partners-updated-oct20-web.png"
-image_alt_text: "logos of the COPIM partners consortium"
+image_alt_text: "Logos of the COPIM partner consortium"
 image_credit: "Logos of the COPIM partner consortium: [high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)"
 
 ---
@@ -28,7 +28,16 @@ COPIM is an international partnership comprising
 
 ### Collaborations
 
-Thanks to funding from [OPERAS-P](https://operas.hypotheses.org/operas-p), a European Coordinator for Open Access Book Publishing works jointly between OPERAS-P and COPIM, based at Open Book Publishers. The European Coordinator is working to facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project.
+Thanks to funding from [OPERAS-P](https://operas.hypotheses.org/operas-p), a European Coordinator for Open Access Book Publishing has been working jointly between OPERAS-P and COPIM, based at Open Book Publishers, between 2020 and Fall of 2021. The European Coordinator has been working to facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project.
+
+All in all, COPIM is fostering engagement with the work packages’ variety of stakeholders (i.e., librarians, publishers, scholars, technology providers, and the general public), bringing together key experts and those interested in learning more about scholar-led not-for-profit OA book publishing. In addition to the workshops organised by COPIM and participation at [more than 30 international conferences](https://copim.pubpub.org/pub/copim-outreach-overview/), the COPIM team has also contributed to events and workshops held by external stakeholders and organisations working towards goals that are mutually beneficial (following the previously mentioned principle of ‘scaling small’).
+
+These organisations include [Invest in Open Infrastructure](https://investinopen.org/)'s [Future of Scholarship](https://investinopen.org/blog/reopening-plans-and-the-future-of-open-scholarship-a-call-for-participation/) project; the [Knowledge Futures Group](https://www.knowledgefutures.org/); the Open Access Scholarly Publishers Association ([OASPA](https://oaspa.org/)); [OPERAS](https://operas.hypotheses.org/); the Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries ([LIBER](https://libereurope.eu/)); the [Next Generation Libraries Project](https://educopia.org/next-generation-library-publishing/); [The British Library](https://blogs.bl.uk/living-knowledge/2020/10/open-and-engaged-conference-2020-inequities-in-scholarly-communications.html); [OpenAIRE](https://www.openaire.eu/events/eventdetail/772/53%7C54%7C55%7C56%7C57%7C58%7C272%7C303/equity-and-inclusion-community-owned-infrastructures-for-open-science), [COAR](https://www.coar-repositories.org/event/equity-and-inclusion-community-owned-infrastructures-for-open-science/), and [EIFL](https://www.eifl.net/); the International Federation of Library Associations and Institutions ([IFLA](https://www.ifla.org/)); the publishing initiative and project [cache](https://cache.ch/blog/workshopselbermachenberlin); and the [Open Access Books Network](https://hcommons.org/groups/open-access-books-network/).
+
+In addition to that, notable collaborations were sought with e.g. the European Science Cloud’s [Provider Marketplace](https://marketplace.eosc-portal.eu/providers/thoth/details) and [EOSC Pillar](https://www.eosc-pillar.eu/news/six-applicants-awarded-eosc-pillar-open-call-thematic-service-providers);
+the German Federal Ministry for Education and Research-funded projects [KOALA](https://projects.tib.eu/koala/en/),
+[CODRIA](https://open-access.network/en/vernetzen/open-access-projekte/codria), and [Scholar-led Plus](https://open-access.network/en/vernetzen/open-access-projekte/scholar-led-plus), the German [scholar-led.network](https://graphite.page/scholar-led-manifest/)
+initiative, the German National Research Data Infrastructure for Culture consortium [NFDI4Culture](https://nfdi4culture.de/news-events/events/next-generation-books-mapping-workflows-and-tool-sets.html), [LYRASIS](https://www.lyrasis.org/), and the [Embedding Preservability](https://guides.nyu.edu/blog/The-Andrew-W-Mellon-Foundation-Awards-NYU-502400-For-Libraries-Project-to-Expand-Capabilities-F) project.
 
 ### Project members
 
@@ -55,7 +64,6 @@ Patrick Hart ([WP4](https://www.copim.ac.uk/work-package/wp4/); Coventry Univers
 Ross Higman ([WP5](https://www.copim.ac.uk/work-package/wp5/); Open Book Publishers)  
 Eileen Joy ([WP2](https://www.copim.ac.uk/work-package/wp2/); punctum books, ScholarLed)   
 Martin Keegan (Open Book Publishers, ScholarLed)  
-Marcell Mars ([WP6](https://www.copim.ac.uk/work-package/wp6/); Coventry University)  
 Julien McHardy ([WP6](https://www.copim.ac.uk/work-package/wp6/); Mattering Press, ScholarLed)  
 Susan Miles (British Library)  
 Izabella Penier ([WP2](https://www.copim.ac.uk/work-package/wp2/); Lancaster University)  
@@ -65,7 +73,7 @@ Niels Stern ([WP5](https://www.copim.ac.uk/work-package/wp5/); OAPEN)
 Tobias Steiner ([WP1](https://www.copim.ac.uk/work-package/wp1/) & Outreach; Coventry University)  
 Graham Stone ([WP5](https://www.copim.ac.uk/work-package/wp5/); Jisc)  
 Alessandra Tosi (Open Book Publishers, ScholarLed)   
-Dominic Walker (British Library)   
+Ilkay Holt (British Library)   
 Paul Wheatley ([WP7](https://www.copim.ac.uk/work-package/wp7/); Digital Preservation Coalition)     
 Lidia Uziel ([WP4](https://www.copim.ac.uk/work-package/wp4/); UCSB Library)     
 Vincent W. J. van Gerven Oei ([WP5](https://www.copim.ac.uk/work-package/wp5/); punctum books, ScholarLed)    
@@ -78,6 +86,8 @@ Sherri Barnes ([WP4](https://www.copim.ac.uk/work-package/wp4/); UCSB Library)
 Emily Bell ([WP7](https://www.copim.ac.uk/work-package/wp7/); Loughborough University)  
 Eelco Ferwerda (OAPEN, DOAB)  
 Elli Gerakopoulou ([WP2](https://www.copim.ac.uk/work-package/wp2/); Lancaster University)  
+Marcell Mars ([WP6](https://www.copim.ac.uk/work-package/wp6/); Coventry University)  
 Samuel Moore ([WP4](https://www.copim.ac.uk/work-package/wp4/), [WP6](https://www.copim.ac.uk/work-package/wp6/);  Coventry University)  
 Agata Morka ([WP2](https://www.copim.ac.uk/work-package/wp2/); Open Book Publishers, OPERAS-P)  
 Dan Rudmann ([WP2](https://www.copim.ac.uk/work-package/wp2/) & Outreach; punctum books, ScholarLed)  
+Dominic Walker (British Library)   

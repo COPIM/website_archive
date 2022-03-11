@@ -10,4 +10,4 @@ The Hugo theme is [Kross](https://gethugothemes.com/products/kross-hugo-theme/) 
 
 The site and Gitea repository are hosted on an [Ubuntu](https://ubuntu.com/) 20.04.3 server hosted by [Coventry University](https://www.coventry.ac.uk/) Digital Services.
 
-All content on the site is © 2022 [COPIM]({{%relref "/"%}}) and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+All content on the site is © 2019-2022 [COPIM]({{%relref "/"%}}) and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

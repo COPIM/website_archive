@@ -22,7 +22,7 @@ In essence, academic library members sign up to pay a small annual fee to get DR
     Which publishers are participating?
   </summary>
 
-As of October 2021 there are two publishers running an Opening the Future (OtF) programme: they are Central European University (CEU) Press and Liverpool University Press.
+As of March 2022 there are two publishers running an Opening the Future (OtF) programme: they are Central European University (CEU) Press and Liverpool University Press.
 
 CEU Press is offering backlist titles on the history of communism, transitions to democracy and Central European history and culture; while LUP is offering access to books on hispanic culture, including literature, cinema, popular culture, theory and history. Libraries can see the titles and choose which packages of books would best boost their collections at the following links:
 
