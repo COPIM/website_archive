@@ -3,8 +3,8 @@ title: "WP4: Community Governance"
 weight: 40
 date: "2020-01-01"
 lastmod: "2022-02-07"
-image: "/images/copim_first_meeting.jpg"
-image_alt_text: "photo of one of the first meetings for the COPIM project"
+image: "/images/01_Icon-Community2.png"
+image_alt_text: "stylised image of hands meeting"
 
 ---
 

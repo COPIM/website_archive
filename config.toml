@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://c.copim.ac.uk"
+baseURL = "http://localhost:1337"
 languageCode = "en-gb"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -89,30 +89,10 @@ parent = "about_menu"
 weight = 7
 
 [[menu.main]]
-identifier = "governance"
-URL = "governance"
-name = "Governance"
-weight = 2
-
-[[menu.main]]
-identifier = "advisory"
-name = "Advisory Board"
-url = "/governance/advisoryboard"
-parent = "governance"
-weight = 1
-
-[[menu.main]]
-identifier = "conduct"
-name = "Code of Conduct Committee"
-url = "/governance/code-of-conduct"
-parent = "governance"
-weight = 2
-
-[[menu.main]]
 identifier = "workpackage"
 URL = "workpackage"
 name = "Work packages"
-weight = 3
+weight = 2
 
 [[menu.main]]
 identifier = "wp1"
@@ -162,6 +142,26 @@ name = "WP7: Digital Preservation"
 url = "/workpackage/wp7"
 parent = "workpackage"
 weight = 7
+
+[[menu.main]]
+identifier = "governance"
+URL = "governance"
+name = "Governance"
+weight = 3
+
+[[menu.main]]
+identifier = "advisory"
+name = "Advisory Board"
+url = "/governance/advisoryboard"
+parent = "governance"
+weight = 1
+
+[[menu.main]]
+identifier = "conduct"
+name = "Code of Conduct Committee"
+url = "/governance/code-of-conduct"
+parent = "governance"
+weight = 2
 
 [[menu.main]]
 identifier = "outputs_menu"
