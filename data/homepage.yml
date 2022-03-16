@@ -56,7 +56,7 @@ experience:
 publications:
   enable : true
   title : "Research publications"
-  intro : "For a full list of reports and publications, see [Outputs](/outputs/outputs)."
+  intro : "For a full list of reports and publications, see [Milestones & Deliverables](/outputs/milestones-deliverables)."
   item:
     - title : "Open Access Monographs: Myths, Truths and Implications in the Wake of UKRI Open Access Policy"
       year : "2022"
