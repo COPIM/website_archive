@@ -9,22 +9,21 @@ image_credit: "Logos of the COPIM partner consortium: [high-resolution jpg](/ima
 
 ---
 
-The infrastructure used by open access publishers must be driven by, and responsive to, the varied needs of an international scholarly community.  
-A key aspect of COPIM is therefore that it privileges close working relationships between publishers, librarians, infrastructure providers, and other members of the scholarly community.
+### Community
+
+The infrastructure used by open access publishers must be driven by, and responsive to, the varied needs of an international scholarly community. A key aspect of COPIM is therefore that it privileges close working relationships between publishers, librarians, infrastructure providers, and other members of the scholarly community.
 
 COPIM is an international partnership comprising
 
--   **universities:** [Coventry University](https://www.coventry.ac.uk/research/research-directories/current-projects/2020/copim/) , [Birkbeck, University of London](http://www.bbk.ac.uk/news/birkbeck-to-play-leading-role-in-project-to-transform-open-access-academic-publishing), [Lancaster University](https://www.lancaster.ac.uk/news/lancaster-university-part-of-28m-project-to-increase-access-to-valuable-research), and [Trinity College, University of Cambridge](https://www.trin.cam.ac.uk/);
+-  **universities:** [Coventry University](https://www.coventry.ac.uk/research/research-directories/current-projects/2020/copim/) , [Birkbeck, University of London](http://www.bbk.ac.uk/news/birkbeck-to-play-leading-role-in-project-to-transform-open-access-academic-publishing), [Lancaster University](https://www.lancaster.ac.uk/news/lancaster-university-part-of-28m-project-to-increase-access-to-valuable-research), and [Trinity College, University of Cambridge](https://www.trin.cam.ac.uk/);
 
--   established **scholar-led open access presses**, represented through
-    the [ScholarLed consortium](https://scholarled.org/), which consists of [Open Book Publishers](https://www.openbookpublishers.com/),
-    [punctum books](https://punctumbooks.com/), [Open Humanities Press](https://openhumanitiespress.org/), [Mattering Press](https://www.matteringpress.org/), and [meson press](https://meson.press/);
+-  **scholar-led open access presses**, represented through the [ScholarLed consortium](https://scholarled.org/), which consists of [Open Book Publishers](https://www.openbookpublishers.com/), [punctum books](https://punctumbooks.com/), [Open Humanities Press](https://openhumanitiespress.org/), [Mattering Press](https://www.matteringpress.org/), and [meson press](https://meson.press/);
 
--   **libraries:** [UC Santa Barbara Library](https://www.library.ucsb.edu/news/ucsb-library-helps-lead-36-million-project-improve-open-access-publishing-infrastructure), [Loughborough University Library](https://www.lboro.ac.uk/library/), [The British Library](https://www.bl.uk/);
+-  **libraries:** [UC Santa Barbara Library](https://www.library.ucsb.edu/news/ucsb-library-helps-lead-36-million-project-improve-open-access-publishing-infrastructure), [Loughborough University Library](https://www.lboro.ac.uk/library/), [The British Library](https://www.bl.uk/);
 
--   **infrastructure providers**: [Directory of Open Access Books (DOAB)](https://mailchi.mp/oapen.org/doab-copim-press-release), [Jisc](https://scholarlycommunications.jiscinvolve.org/wp/2020/05/06/open-access-monographs-supporting-bibliodiversity/);
+-  **infrastructure providers**: [Directory of Open Access Books (DOAB)](https://mailchi.mp/oapen.org/doab-copim-press-release), [Jisc](https://scholarlycommunications.jiscinvolve.org/wp/2020/05/06/open-access-monographs-supporting-bibliodiversity/);
 
--   and **membership organisations:** [The Digital Preservation Coalition](https://www.dpconline.org/news/copim-project).
+-  **membership organisations:** [The Digital Preservation Coalition](https://www.dpconline.org/news/copim-project).
 
 ### Collaborations
 

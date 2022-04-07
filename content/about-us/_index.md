@@ -22,3 +22,4 @@ COPIM is working towards a more diverse, open, and democratically equitable futu
 **Read more about our most recent work on our [Open Documentation Site](https://copim.pubpub.org/)**
 
 ![group photo of COPIM project team members circa January 2020](/images/copim-team-jan2020.jpg)
+*Photo of the COPIM project team members circa January 2020*

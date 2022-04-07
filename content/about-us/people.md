@@ -54,7 +54,3 @@ Elli Gerakopoulou ([WP2](https://www.copim.ac.uk/work-package/wp2/); Lancaster U
 Samuel Moore ([WP4](https://www.copim.ac.uk/work-package/wp4/), [WP6](https://www.copim.ac.uk/work-package/wp6/);  Coventry University)  
 Agata Morka ([WP2](https://www.copim.ac.uk/work-package/wp2/); Open Book Publishers, OPERAS-P)  
 Dan Rudmann ([WP2](https://www.copim.ac.uk/work-package/wp2/) & Outreach; punctum books, ScholarLed)  
-
-
-
-  &nbsp;

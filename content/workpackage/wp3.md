@@ -13,7 +13,9 @@ Opening the Future (OtF) is a collective subscription model that, through its me
 
 In essence, academic library members sign up to pay a small annual fee to get DRM-free, unlimited access to a selection of a participating publisher’s backlist; the membership revenue is then used by the publisher to produce new frontlist monographs which are openly licensed and openly (freely) accessible to anyone in the world.
 
-![diagram illustrating the Opening the Future concept in a nutshell](/images/wp3_opening_the_future_model.png)
+![diagram illustrating the Opening the Future concept in a nutshell. Icons by Flaticon.com](/images/wp3_opening_the_future_model.png)
+
+&nbsp;
 
 ## Frequently Asked Questions
 

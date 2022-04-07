@@ -4,7 +4,8 @@ weight: 70
 date: "2020-01-01"
 lastmod: "2022-01-27"
 image: "/images/2-34.jpg"
-image_alt_text: "stylised photo of a hand holding an uprooted plant"
+image_alt_text: "photo of a hand holding uprooted plants by Angela Arziniaga González"
+image_credit: "Image by Angela Arziniaga González from [En Busca Del Quelite Perdido](https://enbuscadelqueliteperdido.net/) licensed as CC BY-NC-SA 4.0."
 
 ---
 

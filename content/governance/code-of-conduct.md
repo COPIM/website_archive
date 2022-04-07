@@ -4,7 +4,8 @@ weight: 20
 date: "2021-03-31"
 lastmod: "2022-02-07"
 image: "/images/direct-democracy-colour-cropped.jpg"
-image_alt_text: "black and white photo from above of a crowd of people raising their hands to vote"
+image_alt_text: "black and white photo from above of a crowd of people in Appenzel raising their hands to vote"
+image_credit: "Edited photo of 'Direct democracy in Appenzel'. [Made available as CC0 by Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D1%8F%D0%BA%D0%B0_%D0%B4%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%90%D0%BF%D0%B5%D0%BD%D1%86%D0%B5%D0%BB.jpg)."
 ---
 
 **General contact**: [conduct@copim.ac.uk](mailto:conduct@copim.ac.uk)

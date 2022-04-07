@@ -14,8 +14,4 @@ If you have skills, knowledge or resources you’d like to offer, or if you woul
 
 For Work Package-specific queries it might be useful to contact the relevant WP in the first instance – see the respective [Work Package](https://www.copim.ac.uk/work-package/) pages for further details.
 
-
-
-  &nbsp;
-
 ---
