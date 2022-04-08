@@ -24,7 +24,7 @@ lastmod: "2022-04-08"
   </div>
   <div class="col-lg-3 col-6 mb-2 shuffle-item">
     <div class="position-relative rounded hover-logos">
-        <a href="https://www.bl.uk/"><img src="/images/logos/bl_logo.webp" class="img-fluid rounded w-100 d-block" alt="British Library logo"></a>
+        <a href="https://www.bl.uk/"><img src="/images/logos/bl_logo.webp" class="img-fluid rounded w-75 d-block" alt="British Library logo"></a>
     </div>
   </div>
   <div class="col-lg-3 col-6 mb-2 shuffle-item">
@@ -69,7 +69,7 @@ lastmod: "2022-04-08"
   </div>
   <div class="col-lg-3 col-6 mb-2 shuffle-item">
     <div class="position-relative rounded hover-logos">
-        <a href="https://www.lancaster.ac.uk/"><img src="/images/logos/lancaster_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Lancaster University logo"></a>
+        <a href="https://www.lancaster.ac.uk/"><img src="/images/logos/lancaster_logo.svg" class="img-fluid rounded w-100 d-block" alt="Lancaster University logo"></a>
     </div>
   </div>
   <div class="col-lg-3 col-6 mb-2 shuffle-item">
