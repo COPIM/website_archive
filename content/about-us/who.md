@@ -69,7 +69,7 @@ lastmod: "2022-04-08"
   </div>
   <div class="col-lg-3 col-6 mb-2 shuffle-item">
     <div class="position-relative rounded hover-logos">
-        <a href="https://www.lancaster.ac.uk/"><img src="/images/logos/lancaster_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Lancaster University logo"></a>
+        <a href="https://www.lancaster.ac.uk/"><img src="/images/logos/lancaster-u-logo.svg" class="img-fluid rounded w-100 d-block" alt="Lancaster University logo"></a>
     </div>
   </div>
   <div class="col-lg-3 col-6 mb-2 shuffle-item">
