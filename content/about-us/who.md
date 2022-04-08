@@ -1,13 +1,93 @@
 ---
 title: "Who We Are"
-weight: 30
+weight: 60
 date: "2019-11-01"
-lastmod: "2022-03-08"
-image: "/images/copim-partners-updated-oct20-web.png"
-image_alt_text: "Logos of the COPIM partner consortium"
-image_credit: "Logos of the COPIM partner consortium: [high-resolution jpg](/images/copim-partners-updated-oct20-highres.jpg)"
+lastmod: "2022-04-08"
 
 ---
+
+<div class="row shuffle-wrapper">
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.library.ucsb.edu"><img src="/images/logos/ucsb_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="UC Santa Barbara Library logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.doabooks.org/"><img src="/images/logos/doab_logo.png" class="img-fluid rounded w-100 d-block" alt="DOAB logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://scholarled.org/"><img src="/images/logos/scholarled_logo.png" class="img-fluid rounded w-100 d-block" alt="ScholarLed logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.bl.uk/"><img src="/images/logos/bl_logo.webp" class="img-fluid rounded w-100 d-block" alt="British Library logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.lboro.ac.uk/"><img src="/images/logos/loughborough_logo.png" class="img-fluid rounded w-100 d-block" alt="Loughborough University logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.matteringpress.org/"><img src="/images/logos/mattering_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Mattering Press logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.dpconline.org/"><img src="/images/logos/dpc_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Digital Preservation Coalition logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.bbk.ac.uk/"><img src="/images/logos/birkbeck_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Birkbeck, University of London logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.coventry.ac.uk/"><img src="/images/logos/coventry_logo.webp" class="img-fluid rounded w-100 d-block" alt="Coventry University logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://punctumbooks.com/"><img src="/images/logos/punctum_logo.png" class="img-fluid rounded w-100 d-block" alt="Punctum Books logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.openbookpublishers.com/"><img src="/images/logos/obp_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Open Book Publishers logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.jisc.ac.uk/"><img src="/images/logos/jisc_logo.png" class="img-fluid rounded w-100 d-block" alt="Jisc logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.lancaster.ac.uk/"><img src="/images/logos/lancaster_logo.jpeg" class="img-fluid rounded w-100 d-block" alt="Lancaster University logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://meson.press/"><img src="/images/logos/meson_logo.png" class="img-fluid rounded w-100 d-block" alt="Meson Press logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://www.trin.cam.ac.uk/"><img src="/images/logos/trinity_logo.webp" class="img-fluid rounded w-100 d-block" alt="Trinity College, Cambridge logo"></a>
+    </div>
+  </div>
+  <div class="col-lg-3 col-6 mb-2 shuffle-item">
+    <div class="position-relative rounded hover-logos">
+        <a href="https://openhumanitiespress.org/"><img src="/images/logos/open_humanities_press_logo.png" class="img-fluid rounded w-100 d-block" alt="Open Humanities Press logo"></a>
+    </div>
+  </div>
+</div>
 
 ### Community
 
