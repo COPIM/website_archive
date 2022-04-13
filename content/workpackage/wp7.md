@@ -5,7 +5,7 @@ date: "2020-01-01"
 lastmod: "2022-04-13"
 image: "/images/Databases_-_Digital_Preservation (1).png"
 image_alt_text: "illustration on digital preservation by Jørgen Stamp for https://digitalbevaring.dk/"
-image_credit: "Illustration on digital preservation by Jørgen Stamp for https://digitalbevaring.dk/) licensed as Creative Commons Attribution 2.5 Denmark."
+image_credit: "Illustration on digital preservation by Jørgen Stamp for https://digitalbevaring.dk/ licensed as Creative Commons Attribution 2.5 Denmark."
 
 ---
 
