@@ -89,7 +89,7 @@ lastmod: "2022-04-08"
   </div>
 </div>
 
-### Community
+## Community
 
 The infrastructure used by open access publishers must be driven by, and responsive to, the varied needs of an international scholarly community. A key aspect of COPIM is therefore that it privileges close working relationships between publishers, librarians, infrastructure providers, and other members of the scholarly community.
 
@@ -105,7 +105,7 @@ COPIM is an international partnership comprising
 
 -  **membership organisations:** [The Digital Preservation Coalition](https://www.dpconline.org/news/copim-project).
 
-### Collaborations
+## Collaborations
 
 Thanks to funding from [OPERAS-P](https://operas.hypotheses.org/operas-p), a European Coordinator for Open Access Book Publishing has been working jointly between OPERAS-P and COPIM, based at Open Book Publishers, between 2020 and Fall of 2021. The European Coordinator has been working to facilitate exchange between the various library and scholarly publishing communities within the EU and the COPIM project.
 
@@ -118,7 +118,9 @@ the German Federal Ministry for Education and Research-funded projects [KOALA](h
 [CODRIA](https://open-access.network/en/vernetzen/open-access-projekte/codria), and [Scholar-led Plus](https://open-access.network/en/vernetzen/open-access-projekte/scholar-led-plus), the German [scholar-led.network](https://graphite.page/scholar-led-manifest/)
 initiative, the German National Research Data Infrastructure for Culture consortium [NFDI4Culture](https://nfdi4culture.de/news-events/events/next-generation-books-mapping-workflows-and-tool-sets.html), [LYRASIS](https://www.lyrasis.org/), and the [Embedding Preservability](https://guides.nyu.edu/blog/The-Andrew-W-Mellon-Foundation-Awards-NYU-502400-For-Libraries-Project-to-Expand-Capabilities-F) project.
 
-### Project members
+  &nbsp;
+
+## Project members
 
 ![group photo of COPIM project team members circa January 2020](/images/copim-teamphoto-jan2020.jpg)
 
@@ -152,12 +154,16 @@ Niels Stern ([WP5](https://www.copim.ac.uk/work-package/wp5/); OAPEN)
 Tobias Steiner ([WP1](https://www.copim.ac.uk/work-package/wp1/) & Outreach; Coventry University)  
 Graham Stone ([WP5](https://www.copim.ac.uk/work-package/wp5/); Jisc)  
 Alessandra Tosi (Open Book Publishers, ScholarLed)   
-Ilkay Holt (British Library)   
+Ilkay Holt ([WP7](https://www.copim.ac.uk/work-package/wp7/); British Library)   
 Paul Wheatley ([WP7](https://www.copim.ac.uk/work-package/wp7/); Digital Preservation Coalition)     
 Lidia Uziel ([WP4](https://www.copim.ac.uk/work-package/wp4/); UCSB Library)     
 Vincent W. J. van Gerven Oei ([WP5](https://www.copim.ac.uk/work-package/wp5/); punctum books, ScholarLed)    
 
-#### COPIM Emeritx
+  &nbsp;
+  &nbsp;
+
+
+### COPIM Emeritx
 
 *in alphabetical order:*   
 
