@@ -2,10 +2,10 @@
 title: "WP7: Archiving and Digital Preservation"
 weight: 70
 date: "2020-01-01"
-lastmod: "2022-01-27"
-image: "/images/2-34.jpg"
-image_alt_text: "photo of a hand holding uprooted plants by Angela Arziniaga González"
-image_credit: "Image by Angela Arziniaga González from [En Busca Del Quelite Perdido](https://enbuscadelqueliteperdido.net/) licensed as CC BY-NC-SA 4.0."
+lastmod: "2022-04-13"
+image: "/images/Databases_-_Digital_Preservation (1).png"
+image_alt_text: "illustration on digital preservation by Jørgen Stamp for https://digitalbevaring.dk/"
+image_credit: "Illustration on digital preservation by Jørgen Stamp for https://digitalbevaring.dk/) licensed as Creative Commons Attribution 2.5 Denmark."
 
 ---
 
