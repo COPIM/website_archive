@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://c.copim.ac.uk"
+baseURL = "https://www.copim.ac.uk"
 languageCode = "en-gb"
 summaryLength = "10"
 theme = "kross-hugo"
