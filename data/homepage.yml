@@ -107,6 +107,7 @@ outputs:
       logo : "images/obc_logo.png"
       content : "The Open Book Collective (OBC) offers a single platform where libraries can find, assess, and sign up to support OA book programmes."
       highlighted : false
+      url: "https://copim.pubpub.org/open-book-collective"
 
     - title : "Thoth"
       icon : "ti-panel"
