@@ -1,6 +1,6 @@
 ---
 title: "Thoth Publishers Workshop, May 10, 2022"
-weight: 152
+weight: 130
 date: "2022-05-10"
 lastmod: "2022-05-06"
 ---
