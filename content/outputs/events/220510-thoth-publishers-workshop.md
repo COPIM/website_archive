@@ -31,4 +31,4 @@ With this workshop, COPIM's [Work Package 5 team](https://copim.pubpub.org/work-
   &nbsp;
 
 
-*Header image by [Sinziana Susa](https://unsplash.com/photos/SNHsMunOPME) on Unsplash.*
+*Header image: COPIM remix of photo by [Alina Grubnyak](https://unsplash.com/photos/ZiQkhI7417A) on Unsplash.*
