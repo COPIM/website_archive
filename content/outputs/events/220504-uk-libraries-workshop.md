@@ -7,8 +7,6 @@ lastmod: "2022-05-04"
 
 ![](/images/nicola-nuttall-ObTfaF2hngw-unsplash-cropped.jpg)
 
-### UK Libraries meet the Open Book Collective workshop.
-
 **Participating stakeholders:**
 
 _external_: University of York, University of Sussex, University of Leeds, Imperial College London, University of Nottingham, Sheffield Hallam University   
