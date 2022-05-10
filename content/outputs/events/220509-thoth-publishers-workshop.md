@@ -1,8 +1,8 @@
 ---
 title: "Thoth Publishers Workshop, May 10, 2022"
 weight: 130
-date: "2022-05-10"
-lastmod: "2022-05-06"
+date: "2022-05-09"
+lastmod: "2022-05-10"
 ---
 
 ![](/images/alina-grubnyak-ZiQkhI7417A-unsplash-remixed.jpg)
