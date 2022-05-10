@@ -38,17 +38,19 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 
 | Work Package | Type | Publication |
 | -------- | -------- | -------- |
-| WP2     | D2.1 Scoping Report     | Gerakopoulou, Elli, Penier, Izabella, & Deville, Joe. (2021, May 4). The promise of collaboration: collective funding models and the integration of Open Access books into libraries (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.4501512  |
+| WP2     | D2.1 Scoping Report     | Gerakopoulou, Elli, Penier, Izabella, & Deville, Joe. (2021, May 4). The promise of collaboration: collective funding models and the integration of Open Access books into libraries. https://doi.org/10.5281/zenodo.4501512  |
 | WP2     | D2.2 report on US workshop     | Gerakopoulou, Elli, & Rudmann, Dan (2020). WP2 Workshop in Partnership with University of Michigan, MPublishing, and Lyrasis. https://doi.org/10.21428/785a6451.c6005f3a     |
 | WP2     | D2.2 report on UK workshop     | Deville, Joe (2020). Sketching a direction of travel: An update from Work Package 2. https://doi.org/10.21428/785a6451.a0537c6d     |
 | WP2     | D2.3 Design Specs     | Work Package 2 (2021) Open Book Collective: Documentation of development specifications (statement of work). https://doi.org/10.5281/zenodo.5572053   |   
 | WP3     | D3.1 Scoping Report     | Penier, Izabella, Eve, Martin Paul, & Grady, Tom. (2020). COPIM – Revenue Models for Open Access Monographs 2020. https://doi.org/10.5281/zenodo.4011836     |
-| WP4     | D4.1 Scoping Report     | Moore, Sam (2021). Exploring models for community governance. https://doi.org/10.5281/zenodo.4730687   |
+| WP4     | D4.2 Scoping Report     | Moore, Sam (2021). Exploring models for community governance. https://doi.org/10.5281/zenodo.4730687   |
+| WP4     | D4.3 Scoping Report     | Hart, Patrick, Adema, Janneke & COPIM (2022). Towards Better Practices for the Community Governance of Open Infrastructures. https://doi.org/10.21428/785a6451.34150ea2   |
 | WP5     | D5.1 Scoping Report     | Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020). WP5 Scoping Report: Building an Open Dissemination System. https://doi.org/10.5281/zenodo.3961564   |
-|      |      |  Stone, G., Gatti, R., van Gerven Oei, V. W. J., Arias, J., Steiner, T., & Ferwerda, E. (2021). WP5 Scoping Report: Building an Open Dissemination System (Version 1.1). https://doi.org/10.21428/785a6451.939caeab  |
-| WP6     | D6.1 Scoping Report     | Adema, Janneke, Mars, Marcell, & Steiner, Tobias. (2021). Books Contain Multitudes: Exploring Experimental Publishing. https://doi.org/10.5281/zenodo.4486645   |
-| WP6     | D6.2 Scoping Report     | Adema, Janneke, Moore, Sam & Steiner, Tobias. (2021). Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors. https://doi.org/10.5281/zenodo.5572412   |
-| WP7     | D7.1 Scoping Report     | tbc    |
+|      |      |  Stone, Graham., Gatti, Rupert, van Gerven Oei, Vincent W. J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2021). WP5 Scoping Report: Building an Open Dissemination System (Version 1.1). https://doi.org/10.21428/785a6451.939caeab  |
+| WP6     | D6.1 Scoping Report     | Adema, Janneke, Mars, Marcell, & Steiner, Tobias. (2021). Books Contain Multitudes: Exploring Experimental Publishing. https://doi.org/10.5281/zenodo.4486645 & https://doi.org/10.21428/785a6451.933fa904   |
+| WP6     |        | Adema, Janneke, Bowie, Simon, Mars, Marcell, & Steiner, Tobias. (2022). Books Contain Multitudes: Exploring Experimental Publishing (2022 update). https://doi.org/10.21428/785a6451.1792b84f   |
+| WP6     | D6.2 Scoping Report     | Adema, Janneke, Moore, Sam & Steiner, Tobias. (2021). Promoting and Nurturing Interactions with Open Access Books: Strategies for Publishers and Authors. https://doi.org/10.5281/zenodo.5572412 & https://doi.org/10.21428/785a6451.2d6f4263   |
+| WP7     | D7.1 Scoping Report     |  tbc    |
 
 
 &nbsp;  
