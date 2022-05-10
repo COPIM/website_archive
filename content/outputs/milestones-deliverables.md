@@ -2,7 +2,7 @@
 title: "Milestones & Deliverables"
 weight: 80
 date: "2019-11-01"
-lastmod: "2022-03-08"
+lastmod: "2022-05-10"
 image: "/images/harald-arlander-WZ6gITnjqaQ-unsplash-cropped.jpg"
 image_alt_text: "photo by Harald Arlander of a stylised letter A"
 image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqaQ) on Unsplash."
@@ -10,7 +10,7 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 
 ## Milestones
 
-`updated 2022-03`
+`updated 2022-05`
 
 | Work Package | Type | Publication |
 | -------- | -------- | -------- |
