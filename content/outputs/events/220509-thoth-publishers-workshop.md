@@ -1,5 +1,5 @@
 ---
-title: "Thoth Publishers Workshop, May 10, 2022"
+title: "Thoth Publishers Workshop, May 09, 2022"
 weight: 130
 date: "2022-05-09"
 lastmod: "2022-05-10"
