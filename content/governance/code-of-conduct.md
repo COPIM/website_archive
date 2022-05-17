@@ -12,11 +12,11 @@ image_credit: "Edited photo of 'Direct democracy in Appenzel'. [Made available a
 
 COPIM's Code of Conduct Committee currently consists of the following members:  
 
-* Tim Elfenbein (Chair) (Tim_Elfenbein(-at-)forthcoming.work)  
-* Judith Fathallah (j.fathallah(-at-)lancaster.ac.uk)
-* Jenny Fry (J.Fry(-at-)lboro.ac.uk)
-* Joe Deville (j.deville(-at-)lancaster.ac.uk)
-* Janneke Adema (janneke.adema(-at-)coventry.ac.uk)
+* Janneke Adema (Chair) (janneke.adema(-at-)coventry.ac.uk)     
+* Judith Fathallah (j.fathallah(-at-)lancaster.ac.uk)   
+* Jenny Fry (J.Fry(-at-)lboro.ac.uk)   
+* Joe Deville (j.deville(-at-)lancaster.ac.uk)   
+* Tim Elfenbein (Tim_Elfenbein(-at-)forthcoming.work)   
 
 The COPIM Code of Conduct is available in full below and at https://copim.pubpub.org/pub/code-of-conduct.
 
