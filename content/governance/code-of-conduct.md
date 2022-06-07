@@ -16,7 +16,6 @@ COPIM's Code of Conduct Committee currently consists of the following members:
 * Judith Fathallah (j.fathallah(-at-)lancaster.ac.uk)   
 * Jenny Fry (J.Fry(-at-)lboro.ac.uk)   
 * Joe Deville (j.deville(-at-)lancaster.ac.uk)   
-* Tim Elfenbein (Tim_Elfenbein(-at-)forthcoming.work)   
 
 The COPIM Code of Conduct is available in full below and at https://copim.pubpub.org/pub/code-of-conduct.
 
@@ -266,7 +265,7 @@ Finally the Committee will make a report for the COPIM Project Group in the even
 
 ## Appeal Process
 
-Any individual(s) involved in a Code of Conduct report handled by CoC committee has the right to appeal a decision made by the committee. An appeal can be made directly to the Committee (email: conduct (@) copim.ac.uk) or to the Chair (email: Tim_Elfenbein (@) forthcoming.work) by sending an email with the subject line **Code of Conduct Incident Appeal**. Appeals can be requested up to 30 days after a resolution has been determined.
+Any individual(s) involved in a Code of Conduct report handled by CoC committee has the right to appeal a decision made by the committee. An appeal can be made directly to the Committee (email: conduct (@) copim.ac.uk) or to the Chair (email: janneke.adema (@) coventry.ac.uk) by sending an email with the subject line **Code of Conduct Incident Appeal**. Appeals can be requested up to 30 days after a resolution has been determined.
 
 The email should include documentation related to the incident to support the appeal. The said documentation may include, but does not have to be limited to:
 
