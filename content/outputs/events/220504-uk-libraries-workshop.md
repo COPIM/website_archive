@@ -23,7 +23,7 @@ COPIM is creating the **[Open Book Collective](https://copim.pubpub.org/open-boo
 
 ### Workshop aims:
 
-In the first of two workshops, the WP2 team invites key representatives of the UK library community to provide feedback both on the OBC's platform in development as well as its communications strategy. This includes WP2 members 'pitching' to participants and participants providing constructive feedback, both in plenary and breakout sessions.
+In the first of [two workshops](https://www.copim.ac.uk/outputs/events/220603-us-libraries-workshop/), the WP2 team invites key representatives of the UK library community to provide feedback both on the OBC's platform in development as well as its communications strategy. This includes WP2 members 'pitching' to participants and participants providing constructive feedback, both in plenary and breakout sessions.
 
 
 
