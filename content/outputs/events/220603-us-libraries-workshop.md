@@ -1,17 +1,17 @@
 ---
-title: "UK Libraries meet the Open Book Collective workshop, May 04, 2022"
-weight: 135
-date: "2022-05-04"
-lastmod: "2022-05-04"
+title: "US Libraries meet the Open Book Collective workshop, June 03, 2022"
+weight: 132
+date: "2022-06-03"
+lastmod: "2022-06-13"
 ---
 
-![](/images/nicola-nuttall-ObTfaF2hngw-unsplash-cropped.jpg)
+![](/images/celine-lityo-if0UHp_c2Mw-unsplash-cropped.jpg)
 
 **Participating stakeholders:**
 
-_external_: University of York, University of Sussex, University of Leeds, Imperial College London, University of Nottingham, Sheffield Hallam University   
+_external_: Iowa State University, Syracuse University, University of Texas at Austin, University of Denver, University of Michigan, University of Minnesota Libraries, University of Pennsylvania, Virginia Tech, Yale University.  
 
-_internal_: Lancaster Universiy, Open Book Publishers, Coventry University.
+_internal_: punctum books.
 
 
 ### Overview:
@@ -23,11 +23,12 @@ COPIM is creating the **[Open Book Collective](https://copim.pubpub.org/open-boo
 
 ### Workshop aims:
 
-In the first of two workshops, the WP2 team invites key representatives of the UK library community to provide feedback both on the OBC's platform in development as well as its communications strategy. This includes WP2 members 'pitching' to participants and participants providing constructive feedback, both in plenary and breakout sessions.
+In 2020, U.S. libraries participated in a workshops led by members of the COPIM project (Community-led Open Publishing Infrastructures for Monographs), who at that time were seeking opinions from librarians regarding consortial library funding for open-access books and building an organization and platform. As a result of these discussions, members of COPIM's [Work Package 2](https://www.copim.ac.uk/workpackage/wp2/) will be launching the **Open Book Collective**, a membership organization and a funding platform for a diverse array of of open-access publishers and publishing service providers. On June 3, 2022, in the second of [two workshops](https://www.copim.ac.uk/outputs/events/220504-uk-libraries-workshop/), WP2 members follow up with these librarians about the current state of the OBC and receive further feedback about the platform.
+
 
 
 
 
 ---
 
-*Header image by [Nicola Nuttall](https://unsplash.com/photos/ObTfaF2hngw) on Unsplash*
+*Header image by [Celine Lityo](https://unsplash.com/photos/if0UHp_c2Mw) on Unsplash*
