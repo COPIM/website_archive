@@ -2,7 +2,7 @@
 title: "COPIM Experimental Publishing Workshop, June 17, 2021"
 weight: 145
 date: "2021-06-17"
-lastmod: "2021-06-30"
+lastmod: "2022-07-26"
 ---
 
 ![](/images/reusing-sources2-data-header.jpg)
@@ -13,7 +13,11 @@ lastmod: "2021-06-30"
 
 _external_: Goldsmiths, University of London; TIB Hannover; Archives Portal Europe, Malmö University; Linnaeus University; Royal College of Music, London; Birkbeck, University of London; (plus other institutional representatives who have chosen to remain anonymous in project outputs).
 
-_internal_: Coventry University, Mattering Press, Open Humanities Press.
+_internal_: Coventry University, Mattering Press, Open Humanities Press.  
+
+
+➡️🔍🖺 Documentation available here: **[Data Books & Data Bodies: Performing Archival Data differently](https://doi.org/10.21428/785a6451.fb44bb05)**
+
 
 
 ### Overview:
@@ -37,9 +41,4 @@ The workshop series is hosted by Rebekka Kiesewetter (Coventry University), and 
 
 ---
 
-*Header image by Julien McHardy*
-
-
-
-
-         
+*Header image by Julien McHardy, CC BY 4.0*

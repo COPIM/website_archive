@@ -2,7 +2,7 @@
 title: "UK Libraries meet the Open Book Collective workshop, May 04, 2022"
 weight: 135
 date: "2022-05-04"
-lastmod: "2022-05-04"
+lastmod: "2022-07-26"
 ---
 
 ![](/images/nicola-nuttall-ObTfaF2hngw-unsplash-cropped.jpg)
@@ -12,6 +12,9 @@ lastmod: "2022-05-04"
 _external_: University of York, University of Sussex, University of Leeds, Imperial College London, University of Nottingham, Sheffield Hallam University   
 
 _internal_: Lancaster Universiy, Open Book Publishers, Coventry University.
+
+
+➡️🔍🖺 Documentation available here: **[UK Libraries Outreach Workshop](https://doi.org/10.21428/785a6451.79dcdd83)**
 
 
 ### Overview:

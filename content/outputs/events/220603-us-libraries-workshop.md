@@ -2,7 +2,7 @@
 title: "US Libraries meet the Open Book Collective workshop, June 03, 2022"
 weight: 128
 date: "2022-06-03"
-lastmod: "2022-06-13"
+lastmod: "2022-07-26"
 ---
 
 ![](/images/celine-lityo-if0UHp_c2Mw-unsplash-cropped.jpg)
@@ -12,6 +12,8 @@ lastmod: "2022-06-13"
 _external_: Iowa State University, Syracuse University, University of Texas at Austin, University of Denver, University of Michigan, University of Minnesota Libraries, University of Pennsylvania, Virginia Tech, Yale University.  
 
 _internal_: punctum books.
+
+➡️🔍🖺 Documentation available here: **[U.S. Library Outreach Workshop](https://doi.org/10.21428/785a6451.997a28a5)**
 
 
 ### Overview:

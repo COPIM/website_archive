@@ -2,7 +2,7 @@
 title: "COPIM Experimental Publishing Workshop, June 03, 2021"
 weight: 150
 date: "2021-06-03"
-lastmod: "2021-06-30"
+lastmod: "2022-07-26"
 ---
 
 ![](/images/reusing-sources1-texts-header.jpg)
@@ -13,7 +13,11 @@ lastmod: "2021-06-30"
 
 _external_: Goldsmiths, University of London; TIB Hannover; Threshold Editions; IT University of Copenhagen; Hackerspace Rancho Electrónico; Pontificia Universidad Javeriana Bogotá; Universidad Iberoamericana Ciudad de México (plus other institutional representatives who have chosen to remain anonymous in project outputs).
 
-_internal_: Coventry University, Mattering Press, Open Humanities Press.
+_internal_: Coventry University, Mattering Press, Open Humanities Press.  
+
+
+➡️🔍🖺 Documentation available here: **[Tentative Florilegium: Experiments & Recipes for ReWriting Books](https://doi.org/10.21428/785a6451.840fc9e5)**
+
 
 
 ### Overview:
@@ -38,9 +42,3 @@ The workshop series is hosted by Rebekka Kiesewetter (Coventry University), and 
 ---
 
 *Header image by Julien McHardy*
-
-
-
-
-
-         
