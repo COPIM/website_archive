@@ -5,7 +5,7 @@ date: "2022-06-23"
 lastmod: "2022-07-26"
 ---
 
-![](/images/220623-wp3-rluk-copim-workshop-header.png)
+![](/images/220623-making-mandates-reality-webpage-header.jpg)
 
 **Participating stakeholders:**
 
