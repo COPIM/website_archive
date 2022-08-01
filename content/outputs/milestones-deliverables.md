@@ -34,7 +34,7 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 
 ## Deliverables
 
-`updated 2022-06`
+`updated 2022-08`
 
 | Work Package | Type | Publication |
 | -------- | -------- | -------- |
@@ -46,6 +46,7 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 | WP2     | D2.7 report on US workshop     |  Snyder, Livy Onalee & Joy, Eileen (2022). U.S. Library Outreach Workshop. https://copim.pubpub.org/pub/us-library-workshop     |   
 | WP2     | D2.11 Promotional Video     | Work Package 2 (2022) Video: Introducing the Open Book Collective (OBC). https://doi.org/10.5281/zenodo.6721326   |   
 | WP2 / WP3     | D2.5/D3.1 Scoping Report     | Penier, Izabella, Eve, Martin Paul, & Grady, Tom. (2020). COPIM – Revenue Models for Open Access Monographs 2020. https://doi.org/10.5281/zenodo.4011836     |   
+| WP3     | D3.3 Report     | Eve, Martin Paul, Pinter, Frances, Poznanski, Emily & Grady, Tom. (2022). Opening the Future: How to Implement an Equitable Revenue Model for Open Access Monographs. https://doi.org/10.5281/zenodo.6907707     |   
 | WP4     | D4.2 Scoping Report     | Moore, Sam (2021). Exploring models for community governance. https://doi.org/10.5281/zenodo.4730687   |
 | WP4     | D4.3 Scoping Report     | Hart, Patrick, Adema, Janneke & COPIM (2022). Towards Better Practices for the Community Governance of Open Infrastructures. https://doi.org/10.21428/785a6451.34150ea2   |
 | WP5     | D5.1 Scoping Report     | Stone, Graham, Gatti, Rupert, van Gerven Oei, Vincent W.J., Arias, Javier, Steiner, Tobias, & Ferwerda, Eelco. (2020). WP5 Scoping Report: Building an Open Dissemination System. https://doi.org/10.5281/zenodo.3961564   |

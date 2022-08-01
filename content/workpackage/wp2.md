@@ -88,3 +88,20 @@ Please contact a member of the Outreach team for WP2:
 * Francesca Corazza, punctum books: francesca@punctum.com (European inquiries)
 * Livy Snyder, punctum books: livy@punctum.com (USA and Canada inquiries)
 </details>
+
+<details>
+  <summary>
+    People
+  </summary>
+
+* Joe Deville
+* Eileen Joy
+* Judith Fathallah
+* Izabella Penier
+* Francesca Corazza
+* Livy Snyder
+* Elli Gerakopolou (emeritus)
+* Dan Rudmann (emeritus)
+
+
+</details>

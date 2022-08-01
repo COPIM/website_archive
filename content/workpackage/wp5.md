@@ -85,3 +85,18 @@ Because Thoth stores metadata records as structured data, it is becoming an inte
 Member presses are also looking at ways of reusing the records in Thoth. Open Book Publishers’ new website pulls title data from Thoth instead of entering all of this data first in its content management system, and then in Thoth. The website code will ultimately be available open-source, making it easy for smaller publishers to set up and customise their own easy-to-maintain sites.
 
 </details>
+
+<details>
+  <summary>
+    People
+  </summary>
+
+* Rupert Gatti
+* Vincent van Gerven Oei
+* Javier Arias
+* Ross Higman
+* Livy Snyder
+* Graham Stone
+* Niels Stern & Ronald Snijder
+
+</details>

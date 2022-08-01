@@ -112,11 +112,11 @@ In 2023 at the end of the COPIM project an international conference will take pl
   </summary>
 
 * Janneke Adema
-* Patrick Hart
 * Eileen Joy
 * Lidia Uziel
-* Judith Fathallah (representing WP2)
+* Judith Fathallah
 * Samuel Moore (emeritus)
+* Patrick Hart (emeritus)
 * Sherri Barnes (emeritus)
 
 #### Key Collaborators

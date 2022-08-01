@@ -99,3 +99,13 @@ COPIM’s Work Package 3 is documenting everything as it goes and has already fr
 * Short video of Professor Martin Eve (WP3 lead) speaking at RLUK21, the Research Libraries UK conference, 15-19 March, 2021 explaining Opening the Future: https://youtu.be/NOhQGSvEOhE?t=37.  Note: The link takes you to the start of a 17 minute presentation, after which there is a 9 minute Q&A discussion of the model between Prof. Eve and David Prosser, the RLUK Executive Director.
 * Email WP3 lead Professor Martin Eve on martin.eve@bbk.ac.uk
 </details>
+
+<details>
+  <summary>
+    People
+  </summary>
+
+* Martin Eve
+* Tom Grady
+
+</details>
