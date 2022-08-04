@@ -16,6 +16,7 @@ image_credit: "Image by [Harald Arlander](https://unsplash.com/photos/WZ6gITnjqa
 | -------- | -------- | -------- |
 | WP2     | M2.1 COPIM Libraries & Publishers UK & US Workshops     | *see D2.2*     |
 | WP3     | M3.1 Revenue Models workshop     | Report: Eve, Martin Paul (2020). COPIM Publishers Workshop: Cost and Revenue Models. https://doi.org/10.21428/785a6451.c77576a6 |
+| WP3     | M3.3 RLUK & COPIM workshop     | Report:   Eve, Martin Paul, & Tom Grady (2022). Open Access Monographs: Making Mandates Reality. https://doi.org/10.21428/785a6451.89184c66 |
 | WP4     | M4.1 Community Governance Workshop     | Report: Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 1. https://doi.org/10.21428/785a6451.6a3a2ca2   |
 |      |      | Moore, Sam & Adema, Janneke (2020). COPIM Community Governance Workshop Recap: Part 2 - On the Meaning of Community. https://doi.org/10.21428/785a6451.dfe7dc68   |
 | WP5     | M5.1 Publishers' workshop     | Report: Barnes, Lucy (2020). COPIM Publishers Workshop: Discovery & dissemination — the present. https://doi.org/10.21428/785a6451.3cc46720  |
