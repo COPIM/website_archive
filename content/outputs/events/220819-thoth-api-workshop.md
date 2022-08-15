@@ -10,9 +10,9 @@ lastmod: "2022-08-15"
 
 **Participating stakeholders:**
 
-_external_: tbd.   
+_external_: CEU Press, Edinburgh Diamond, media studies press.   
 
-_internal_: tbd.
+_internal_: Open Book Publishers, punctum books.
 
 
 #### Overview:
