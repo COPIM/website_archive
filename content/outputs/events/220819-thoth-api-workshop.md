@@ -1,6 +1,6 @@
 ---
 title: "Thoth API Workshop, August 19, 2022"
-weight: 130
+weight: 122
 date: "2022-08-15"
 lastmod: "2022-08-15"
 ---
