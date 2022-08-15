@@ -10,7 +10,7 @@ lastmod: "2022-08-15"
 
 **Participating stakeholders:**
 
-_external_: CEU Press, Edinburgh Diamond, media studies press.   
+_external_: CEU Press, Edinburgh Diamond, media studies press, Knowledge Futures Group.   
 
 _internal_: Open Book Publishers, punctum books.
 
