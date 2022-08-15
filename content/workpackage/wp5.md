@@ -18,7 +18,7 @@ WP5 is developing technical protocols and infrastructure to better integrate ope
     What is Thoth?
   </summary>
 
-Thoth is a metadata creation, management, and dissemination platform specifically tailored to tackle the problems of getting open access works into the book supply chain. The platform provides publishers with a tool to gather all of the metadata needed to dissemination books, such as information on titles, authors, publication dates, and the like, as well as metadata specific to digital and open access books, such as persistent identifiers for products, file addresses, and contributors and their institutional affiliations. The data model is granular enough that publishers can add metadata on chapters within books, or include information on multiple reader-facing outlets where a book can be found. Thoth enables the wide dissemination of these records by transforming them into a variety of both industry-standard and distributor-specific metadata formats, and exposing all records openly under a CC-0 license via open APIs.
+[Thoth](https://thoth.pub) is a metadata creation, management, and dissemination platform specifically tailored to tackle the problems of getting open access works into the book supply chain. The platform provides publishers with a tool to gather all of the metadata needed to dissemination books, such as information on titles, authors, publication dates, and the like, as well as metadata specific to digital and open access books, such as persistent identifiers for products, file addresses, and contributors and their institutional affiliations. The data model is granular enough that publishers can add metadata on chapters within books, or include information on multiple reader-facing outlets where a book can be found. Thoth enables the wide dissemination of these records by transforming them into a variety of both industry-standard and distributor-specific metadata formats, and exposing all records openly under a CC-0 license via open APIs.
 
 </details>
 
@@ -27,9 +27,9 @@ Thoth is a metadata creation, management, and dissemination platform specificall
     Why is Thoth needed?
   </summary>
 
-The initial idea for Thoth emerged out of the shared experience of a number of scholar-led presses, who, after facing the significant challenges of starting up publishing programs, came to realize that their next major challenge was to get their books into the scholarly record and more widely discoverable. The established supply chain for scholarly books is difficult to access for new publishers and not designed to handle open access books. Most small or new publishers lack access to the specialized title management systems used by bigger publishers, and even those expensive systems are not oriented to open access books. Bigger publishers are also better able to navigate the supply chain because they have dedicated staff, such as metadata specialists and marketing managers, who focus entirely on distribution. Thoth hopes to level the playing field between large and small publishers by alleviating some of the difficulties faced by scholar-led presses.
+The initial idea for [Thoth](https://thoth.pub) emerged out of the shared experience of a number of scholar-led presses, who, after facing the significant challenges of starting up publishing programs, came to realize that their next major challenge was to get their books into the scholarly record and more widely discoverable. The established supply chain for scholarly books is difficult to access for new publishers and not designed to handle open access books. Most small or new publishers lack access to the specialized title management systems used by bigger publishers, and even those expensive systems are not oriented to open access books. Bigger publishers are also better able to navigate the supply chain because they have dedicated staff, such as metadata specialists and marketing managers, who focus entirely on distribution. Thoth hopes to level the playing field between large and small publishers by alleviating some of the difficulties faced by scholar-led presses.
 
-Thoth approaches these problems by:
+[Thoth](https://thoth.pub) approaches these problems by:
 
 * Making it easier for publishers to create and manage metadata for their titles. The platform’s data model and interface provide a scaffolding for good metadata practices.
 * Encouraging publisher workflow practices that lead to more-complete and higher-quality metadata. Thoth enables publishers to iteratively create and enhance a title’s metadata as it moves through the publication process, and its Traffic Light system will display the status of a record as evaluated by the requirements of downstream distributors.
@@ -43,7 +43,7 @@ Thoth approaches these problems by:
     Who will use Thoth?
   </summary>
 
-While the primary focus of Thoth is on the needs of newer, smaller scholar-led presses, including some of the new university presses, we are finding that the service might be attractive to other segments of the scholarly publishing sector, including library publishing programs, and mid-sized university presses that publish some, but not all, of their titles in open access editions.
+While the primary focus of [Thoth](https://thoth.pub) is on the needs of newer, smaller scholar-led presses, including some of the new university presses, we are finding that the service might be attractive to other segments of the scholarly publishing sector, including library publishing programs, and mid-sized university presses that publish some, but not all, of their titles in open access editions.
 
 </details>
 
@@ -80,9 +80,9 @@ Thoth embeds openness in its design in three ways:
     How does Thoth fit into the broader COPIM project?
   </summary>
 
-Because Thoth stores metadata records as structured data, it is becoming an integral part of other COPIM work packages, who can pull the data into their own systems. WP2’s Open Book Collective’s website will populate its catalogue by pulling through the Thoth API; WP7 will distribute all data needed for book preservation through Thoth; and WP6’s Experimental Publishing Compendium is looking at pulling records for books published by participating presses.
+Because Thoth stores metadata records as structured data, it is becoming an integral part of other COPIM work packages, enabling them to pull the data into their own systems. [Work Package 2](https://www.copim.ac.uk/workpackage/wp2/)’s Open Book Collective’s website will populate its catalogue by pulling through the Thoth API; [Work Package 7](https://www.copim.ac.uk/workpackage/wp7/) will distribute all data needed for book preservation through Thoth; and [Work Package 6](https://www.copim.ac.uk/workpackage/wp6/)’s Experimental Publishing Compendium is looking at pulling records for books published by participating presses.
 
-Member presses are also looking at ways of reusing the records in Thoth. Open Book Publishers’ new website pulls title data from Thoth instead of entering all of this data first in its content management system, and then in Thoth. The website code will ultimately be available open-source, making it easy for smaller publishers to set up and customise their own easy-to-maintain sites.
+Member presses are also looking at ways of reusing the records in Thoth. Open Book Publishers’ [new website](https://www.openbookpublishers.com/) pulls title data from Thoth instead of entering all of this data first in its content management system, and then in Thoth. The website code will ultimately be available open-source, making it easy for smaller publishers to set up and customise their own easy-to-maintain sites.
 
 </details>
 
