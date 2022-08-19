@@ -1,8 +1,8 @@
 ---
-title: "Thoth API Workshop, August 19, 2022"
+title: "Thoth GraphQL API Workshop, August 19, 2022"
 weight: 122
-date: "2022-08-15"
-lastmod: "2022-08-15"
+date: "2022-08-19"
+lastmod: "2022-08-19"
 ---
 
 ![](/images/20013034763_0e214d525c_k-thoth.jpg)
@@ -10,9 +10,9 @@ lastmod: "2022-08-15"
 
 **Participating stakeholders:**
 
-_external_: CEU Press, Edinburgh Diamond, media studies press, Knowledge Futures Group.   
+_external_: CEU Press, Edinburgh Diamond, media studies press, Knowledge Futures Group, TIB Hannover.   
 
-_internal_: Open Book Publishers, punctum books.
+_internal_: Open Book Publishers, punctum books, Jisc.
 
 
 #### Overview:
