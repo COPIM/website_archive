@@ -38,4 +38,4 @@ As Thoth continues to enable presses to manage metadata for their open access bo
   &nbsp;
 
 
-*Header image: COPIM/Thoth remix of photo "[Source code security plugin](https://www.flickr.com/photos/132889348@N07/20013034763)" by [Christiaan Colen](https://www.flickr.com/photos/132889348@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Header image: Photo "[Source code security plugin](https://www.flickr.com/photos/132889348@N07/20013034763)" by [Christiaan Colen](https://www.flickr.com/photos/132889348@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Remixed by COPIM/Thoth.*
