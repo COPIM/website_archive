@@ -15,11 +15,14 @@ _external_: CEU Press, Edinburgh Diamond, media studies press, Knowledge Futures
 _internal_: Open Book Publishers, punctum books, Jisc.
 
 
+➡️🔍🖺 Documentation available here: **[Learning more about Thoth’s GraphQL API](https://copim.pubpub.org/pub/thoth-graphql-api/)**
+
+
 #### Overview:
 
 COPIM (Community-Led Open Publishing Infrastructures for Monographs) is a 3.5-year project funded by Research England and Arcadia, that will develop and build the critical underlying modular components to support the sustainable publication of open access (OA) books, including infrastructures, business models, governance procedures, re-use strategies, preservation structures, and outreach programs. These systems and infrastructures will be open and collectively managed for the common good. Towards this end, COPIM aims to develop a significantly enriched not-for-profit and open source ecosystem for OA book publishing that will support and sustain a diversity of publishing initiatives and models, particularly in humanities and social sciences publishing.
 
-One of COPIM’s outputs includes the development of **[Thoth](https://thoth.pub)**, an open metadata manager and dissemination system and service designed specifically for Open Access books. Its source code is open, its data is exposed via open APIs, and all its outputs are released under a CC-0 license allowing for publishers, archivists and distributors to increase their metadata outputs as well as for libraries and platforms to easily gather or transfer book metadata.
+One of COPIM’s outputs includes the development of **[Thoth](https://thoth.pub)**, an open metadata manager and dissemination system and service designed specifically for Open Access books. Its source code is open, its metadata is exposed via open APIs, and all its outputs are released under a CC-0 license allowing for publishers, archivists and distributors to increase their metadata outputs as well as for libraries and platforms to easily gather or transfer book metadata in a variety of metadata formats.
 
 #### Workshop aims:
 
