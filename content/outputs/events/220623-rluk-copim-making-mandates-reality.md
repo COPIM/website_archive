@@ -1,6 +1,6 @@
 ---
 title: "RLUK-COPIM event - Open Access Monographs: Making Mandates Reality, June 23, 2022"
-weight: 125
+weight: 120
 date: "2022-06-23"
 lastmod: "2022-07-26"
 ---

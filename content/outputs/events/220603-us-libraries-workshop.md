@@ -1,6 +1,6 @@
 ---
 title: "US Libraries meet the Open Book Collective workshop, June 03, 2022"
-weight: 128
+weight: 125
 date: "2022-06-03"
 lastmod: "2022-07-26"
 ---

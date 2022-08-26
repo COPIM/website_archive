@@ -1,8 +1,8 @@
 ---
 title: "Thoth Library Publishing Coalition Workshop, September 29, 2022"
-weight: 120
-date: "2022-09-29"
-lastmod: "2022-08-26"
+weight: 110
+date: "2022-08-23"
+lastmod: "2022-08-23"
 ---
 
 ![](/images/220929-thoth-lpc-workshop-header.jpg)

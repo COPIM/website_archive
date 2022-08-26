@@ -1,6 +1,6 @@
 ---
 title: "Thoth GraphQL API Workshop, August 19, 2022"
-weight: 122
+weight: 115
 date: "2022-08-19"
 lastmod: "2022-08-19"
 ---
