@@ -35,6 +35,3 @@ Thoth will meet with members of the **[Library Publishing Coalition](https://lib
 
 
   &nbsp;
-
-
-*Header image: Photo "[Source code security plugin](https://www.flickr.com/photos/132889348@N07/20013034763)" by [Christiaan Colen](https://www.flickr.com/photos/132889348@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Remixed by COPIM/Thoth.*
