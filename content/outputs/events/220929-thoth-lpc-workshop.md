@@ -23,7 +23,11 @@ One of COPIM’s outputs includes the development of **[Thoth](https://thoth.pub
 
 #### Workshop aims:
 
-Thoth will meet with members of the **[Library Publishing Coalition](https://librarypublishing.org/)** in a workshop to discuss Thoth’s various services as a metadata manager and dissemination service. Thoth will invite feedback specifically about Thoth’s usability for LPC publishing programs. In addition, this workshop aims to present its **newly-developed [business model](https://copim.pubpub.org/pub/thoth-business-model/)** that will ensure the continued sustainability which entails maintaining a free version of Thoth and offering a suite of bespoke metadata management services.
+With this workshop, Thoth would like to invite members of the **[Library Publishing Coalition](https://librarypublishing.org/)** to discuss Thoth’s various services as a metadata manager and dissemination service. With Thoth now being in operational use by a number of scholar-led publishers such as Open Book Publishers, Media Studies Press, and punctum books, the team are looking to expand the range of publishers utilizing Thoth as a metadata manager and dissemination service.
+
+In addition, this workshop aims to present its **newly-developed [business model](https://copim.pubpub.org/pub/thoth-business-model/)** that will ensure the continued sustainability which entails maintaining a free version of Thoth and offering a suite of bespoke metadata management services. 
+
+Doing so, the team  invites feedback on the potential usefulness and usability of Thoth for their publishing programs, and on the business model that seeks to ensure the continued sustainability of the entire project beyond the life of the existing grant.
 
 
 
