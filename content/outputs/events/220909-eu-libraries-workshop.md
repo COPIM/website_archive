@@ -5,7 +5,7 @@ date: "2022-09-06"
 lastmod: "2022-09-07"
 ---
 
-![](alexandre-van-thuan-DPwd8uWFb0k-unsplash-cropped.jpg)
+![](images/alexandre-van-thuan-DPwd8uWFb0k-unsplash-cropped.jpg)
 
 #### Participating stakeholders:
 
