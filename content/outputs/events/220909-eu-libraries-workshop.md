@@ -9,7 +9,7 @@ lastmod: "2022-09-07"
 
 #### Participating stakeholders:
 
-_external_: tbc.  
+_external_: Helmholtz-Gemeinschaft, Universität Duisburg-Essen, University of Utrecht, University of Copenhagen Library, National Library of Finland.  
 
 _internal_: punctum books.
 
