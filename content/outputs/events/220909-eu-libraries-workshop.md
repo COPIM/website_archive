@@ -1,7 +1,7 @@
 ---
 title: "European Libraries meet the Open Book Collective workshop, September 09, 2022"
 weight: 112
-date: "2022-09-09"
+date: "2022-09-06"
 lastmod: "2022-09-07"
 ---
 
