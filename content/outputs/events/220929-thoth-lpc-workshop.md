@@ -8,12 +8,15 @@ lastmod: "2022-08-23"
 ![](/images/220929-thoth-lpc-workshop-header.jpg)
 
 
-**Participating stakeholders:**
+#### Participating stakeholders:
 
 _external_: Member presses of the Library Publishing Coalition.   
 
 _internal_: Open Book Publishers, punctum books, Jisc, Coventry University.
 
+#### Date & time:
+
+Thursday, September 29, 2022 @ 8am PDT / 10am CDT / 4pm BST / 5pm CEST ([timezone converter](https://www.timeanddate.com/worldclock/converter.html?iso=20220929T150000&p1=136&p2=224&p3=64&p4=48)) 
 
 #### Overview:
 
@@ -25,7 +28,7 @@ One of COPIM’s outputs includes the development of **[Thoth](https://thoth.pub
 
 With this workshop, Thoth would like to invite members of the **[Library Publishing Coalition](https://librarypublishing.org/)** to discuss Thoth’s various services as a metadata manager and dissemination service. With Thoth now being in operational use by a number of scholar-led publishers such as Open Book Publishers, Media Studies Press, and punctum books, the team are looking to expand the range of publishers utilizing Thoth as a metadata manager and dissemination service.
 
-In addition, this workshop aims to present its **newly-developed [business model](https://copim.pubpub.org/pub/thoth-business-model/)** that will ensure the continued sustainability which entails maintaining a free version of Thoth and offering a suite of bespoke metadata management services. 
+In addition, this workshop aims to present its **newly-developed [business model](https://copim.pubpub.org/pub/thoth-business-model/)** that will ensure the continued sustainability which entails maintaining a free version of Thoth and offering a suite of bespoke metadata management services.
 
 Doing so, the team  invites feedback on the potential usefulness and usability of Thoth for their publishing programs, and on the business model that seeks to ensure the continued sustainability of the entire project beyond the life of the existing grant.
 
