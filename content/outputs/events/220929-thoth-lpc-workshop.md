@@ -16,7 +16,7 @@ _internal_: Open Book Publishers, punctum books, Jisc, Coventry University.
 
 #### Date & time:
 
-Thursday, September 29, 2022 @ 8am PDT / 10am CDT / 4pm BST / 5pm CEST ([timezone converter](https://www.timeanddate.com/worldclock/converter.html?iso=20220929T150000&p1=136&p2=224&p3=64&p4=48)) 
+Thursday, September 29, 2022 @ 8am PDT / 10am CDT / 4pm BST / 5pm CEST ([timezone converter](https://www.timeanddate.com/worldclock/converter.html?iso=20220929T150000&p1=136&p2=224&p3=64&p4=48)), 90-min workshop. 
 
 #### Overview:
 
