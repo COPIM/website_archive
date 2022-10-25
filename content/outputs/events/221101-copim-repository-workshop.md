@@ -1,8 +1,8 @@
 ---
 title: "COPIM Archiving Network workshop, November 01, 2022"
 weight: 105
-date: "2022-11-01"
-lastmod: "2022-10-25"
+date: "2022-10-01"
+lastmod: "2022-10-23"
 ---
 
 ![](/images/Interior-of-StorageTek-tape-library-at-NERSC-cropped.jpg)
