@@ -10,7 +10,7 @@ lastmod: "2022-10-23"
 
 #### Participating stakeholders:
 
-_external_: Members of UKCORR.   
+_external_: Members of United Kingdom Council of Open Research and Repositories ([UKCORR](https://www.ukcorr.org/)).   
 
 _internal_: Loughborough University; British Library; Jisc; Open Book Publishers; Digital Preservation Coalition (DPC).
 
@@ -25,8 +25,8 @@ COPIM (Community-Led Open Publishing Infrastructures for Monographs) is a 3.5-ye
 COPIM is creating the **Thoth Archiving Network** to help scholar-led OA presses ensure that their works are archived. We want to demonstrate our work so far in creating automated processes to minimise the time and resource needed from the presses to ensure this essential element of work.
 
 #### Workshop aims:
+The workshop plans to outline our current work in archiving open access books and demonstrate the work we have done so far working with Thoth and Open Book Publishers. In addition, we want to ask [UKCORR](https://www.ukcorr.org/) members if they would be willing to join the Thoth Archiving Network and, if not, what potential barriers exist in members not joining.
 
-The workshop plans to outline our current work in archiving open access books and demonstrate the work we have done so far working with Thoth and Open Book Publishers. In addition, we want to ask UKCORR members if they would be willing to join the Thoth Archiving Network and, if not, what potential barriers exist in members not joining.
 
 
 
