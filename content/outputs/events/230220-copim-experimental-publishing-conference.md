@@ -1,11 +1,14 @@
 ---
-title: "COPIM Experimental Publishing Conference _Experimental Books: Re-imagining Scholarly Publishing_"
+title: "COPIM Experimental Publishing Conference 'Experimental Books: Re-imagining Scholarly Publishing'"
 weight: 100
 date: "2023-02-05"
 lastmod: "2023-02-06"
 ---
 
 ![](/images/experimental-publishing-conference-header.jpg)
+
+
+Experimental Books: Re-imagining Scholarly Publishing is the final conference of COPIM’s Experimental Publishing and Reuse work package including talks, roundtables, and workshops, exploring archival data performances, re-using as re-writing, and computational books.
 
 
 ➡️🔍🖺 Full conference website & documentation available at: **[https://experimentalbooks.pubpub.org/](https://experimentalbooks.pubpub.org/)**
