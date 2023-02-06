@@ -8,7 +8,6 @@ lastmod: "2023-02-06"
 ![](/images/experimental-publishing-conference-header.jpg)
 
 
-
 ➡️🔍🖺 Full conference website & documentation available at: **[https://experimentalbooks.pubpub.org/](https://experimentalbooks.pubpub.org/)**
 
 
