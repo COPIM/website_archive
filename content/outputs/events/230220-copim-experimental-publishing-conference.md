@@ -1,5 +1,5 @@
 ---
-title: "COPIM Experimental Publishing Conference "Experimental Books: Re-imagining Scholarly Publishing"
+title: "COPIM Experimental Publishing Conference _Experimental Books: Re-imagining Scholarly Publishing_"
 weight: 100
 date: "2023-02-05"
 lastmod: "2023-02-06"
