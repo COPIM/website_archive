@@ -2,7 +2,7 @@
 title: "COPIM Archiving Network workshop, November 01, 2022"
 weight: 105
 date: "2022-10-01"
-lastmod: "2022-10-23"
+lastmod: "2023-02-06"
 ---
 
 ![](/images/Interior-of-StorageTek-tape-library-at-NERSC-cropped.jpg)
@@ -12,7 +12,11 @@ lastmod: "2022-10-23"
 
 _external_: Members of United Kingdom Council of Open Research and Repositories ([UKCORR](https://www.ukcorr.org/)).   
 
-_internal_: Loughborough University; British Library; Jisc; Open Book Publishers; Digital Preservation Coalition (DPC).
+_internal_: Loughborough University; British Library; Jisc; Open Book Publishers; Digital Preservation Coalition (DPC).   
+
+
+➡️🔍🖺 Documentation available here: **[Thoth Archiving Network Workshop, November 2022](https://doi.org/10.21428/785a6451.22f8d148)**
+
 
 #### Date & time:
 
