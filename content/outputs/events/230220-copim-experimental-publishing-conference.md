@@ -22,8 +22,6 @@ Experimental Books: Re-imagining Scholarly Publishing is the final conference of
 
 #### Overview:
 
-Experimental Books: Re-imagining Scholarly Publishing is the final conference of COPIM’s Experimental Publishing and Reuse work package including talks, roundtables, and workshops, exploring archival data performances, re-using as re-writing, and computational books.
-
 In addition to making their books openly available, scholars and academic publishers are increasingly experimenting with the forms, formats, workflows, and relationalities of publishing. These experiments include, for example, multimodal publications and books that are published in various versions; or they include books that explore possibilities for collaboration around research and new ways to present and disseminate it beyond the standard print-based, single-authored, closed access models that still tend to be dominant in the humanities. Here, one can imagine experiments focused on extending interactions around books, through open peer review, social annotations, or collaborative writing and editing, for example.
 
 This conference will showcase some of the experiments that are currently taking place in the realm of academic book publishing. It aims to inspire authors, publishers, technology developers, and others to (continue to) speculate on new collaborative futures for open humanities research and publication. It also aims to discuss how these book experiments could sit within more standardised or established workflows for print and online book production, dissemination, and preservation.
