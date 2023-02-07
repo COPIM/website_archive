@@ -189,10 +189,9 @@ name = "Open Documentation"
 weight = 5
 
 [[menu.main]]
-URL = "<a rel="me" href="https://hcommons.social/@copim">Mastodon</a>"
+URL = "https://hcommons.social/@copim"
 name = "Mastodon"
 weight = 6
-
 
 # default parameters
 [params]
