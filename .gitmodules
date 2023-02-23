@@ -3,4 +3,4 @@
 	url = https://github.com/simonxix/hugo-theme-docdock.git
 [submodule "themes/kross-hugo"]
 	path = themes/kross-hugo
-	url = https://github.com/SimonXIX/kross-hugo
+	url = https://github.com/COPIM/kross-hugo
